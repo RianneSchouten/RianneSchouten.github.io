@@ -1,5 +1,105 @@
-# Titel
+---
+title: "Rianne Schouten"
+author: |
+  | PhD Candidate / Missing Data Specialist / Junior Data Scientist
+date: ""
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+    theme: spacelab
+    highlight: tango
+---
 
-Dit is de index file
-En moet een overzicht gaan krijgen. 
-Met rmarkdown.
+---
+
+### Introduction and affiliations
+
+I am an enthusiastic person, eager to learn, 
+
+I am doing research under supervision of [Gerko Vink](www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren) at Department of Methodology and Statistics, University of Utrecht. A research [proposal] further introduces the contents of my research.
+
+I work as a missing data specialist and junior data scientist at DPA Professionals. I am part of the [Data Science Excellence Program](www.dpadatascience.nl), lead by [Fred Kroon](https://www.linkedin.com/in/kroonfred/). We are trained by senior data scientists from BDR. DPA funds my research by giving me time to do my research. 
+
+---
+
+### Blogposts
+
+- [Inzicht in je missing data](https://www.dpa.nl/it/blog/inzicht-je-missing-data/)
+- [Omgaan met missing data](https://www.dpa.nl/it/blog/methoden-om-dataset-compleet-maken/)
+
+---
+
+### Working papers
+
+- Schouten, R.M. (2017) [Titel]()
+- Schouten, R.M. (2017) Evaluating missing data methods in the crossvalidation framework
+
+---
+
+### Software development
+
+- `ampute` in R-package **mice**
+
+```{r, eval = FALSE}
+require(mice)
+?ampute
+```
+
+Ampute does this and this. An extensive vignette that explains the method and how to use the function can be found [hier is de link](https://github.com/RianneSchouten/Amputation_with_Ampute/tree/master/Vignette).
+
+- `parlMICE` 
+
+```{r, eval = FALSE}
+#something
+```
+
+`parlMICE` is a wrapper function, which I developed together with Gerko Vink. It can be used when multiple imputations are done with `mice` from R-package **mice** but with large m. Explanation of the method of multiple imputation can be found [here](https://www.jstatsoft.org/article/view/v045i03). A vignette explaining the value and use of `parlMICE` is available [here](https://github.com/gerkovink/parlMICE).
+
+- `MCAR_Tests` in Python
+
+I developed two tests to check whether an incomplete dataset has a MCAR mechanisms. For each pair of variables, t-tests can be performed with `t-test function`. Little's MCAR test is implemented in `mcar test`. The code can be found [here]().
+
+---
+
+### Talks and conferences
+
+- useR!2017 Brussels
+
+My [presentation]() discussed the generation of missing values with `ampute`.
+
+- Amst-R-Dam 2017
+
+A bunch of R-fanatics listened to me talking about amputation and how to use `ampute` to do this. The presentation can be found [here]().
+
+- eScience Symposium [planned]
+
+- Women in Technology [planned]
+
+---
+
+### Publications
+
+- Schouten, R.M., Lugtig, P.J., Brand, J.P.L. and Vink, G. (2017) Titel. [Under review]
+
+- Schouten, R.M. and Vink, G. (2017) Titel. [Under review]
+
+- Nog een
+
+- Nog een
+
+---
+
+### Contact
+
+- [Curriculum Vitae](link)
+
+- Email: r.m.schouten\@uu.nl; rianne.schouten\@dpa.nl
+
+- Telefoon: +31(0)640640516
+
+- Zie ook mijn [Github](https://github.com/RianneSchouten) of [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
+
+---
