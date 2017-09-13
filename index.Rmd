@@ -17,11 +17,11 @@ output:
 
 ### Introduction and affiliations
 
-I am an enthusiastic person, eager to learn, 
+When you get to know me, you will recognize an enthusiastic and motivated person who is always eager to learn. I have an open and direct personality, and some self-deprecating humor. Working with me never becomes boring, since I continuously make new plans or I will make some weird (but funny) statements. First and foremost, I intent to deliver work with a more than good quality. 
 
-I am doing research under supervision of [Gerko Vink](www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren) at Department of Methodology and Statistics, University of Utrecht. A research [proposal] further introduces the contents of my research.
+As a PhD student, I work under supervision of [Gerko Vink](https://www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren) at the Department of Methodology and Statistics, University of Utrecht, the Netherlands. The past year, I developed and implemented multivariate amputation procedure `ampute` (i.e. a way to generate sophisticated missingness in complete datasets). With the availability of `ampute` in R-package `mice`, it has become possible to perform extensive simulation studies to evaluate the effect of missing data methods. My research proposal [About the evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) gives some specifics. 
 
-I work as a missing data specialist and junior data scientist at DPA Professionals. I am part of the [Data Science Excellence Program](www.dpadatascience.nl), lead by [Fred Kroon](https://www.linkedin.com/in/kroonfred/). We are trained by senior data scientists from BDR. DPA funds my research by giving me time to do my research. 
+Furthermore, I work as a Missing Data Specialist at DPA Professionals, Business Unit IT, under supervision of [Fred Kroon](https://www.linkedin.com/in/kroonfred/). I advise companies about missing data problems and possible solutions. With my work, I contribute to the creation of correct and rightful (statistical) models. At DPA, I am also part of the [Data Science Excellence Program](https://www.dpadatascience.nl). This means that I receive training from senior data scientists at [Big Data Republic](https://www.bigdatarepublic.nl/) and learn how to apply machine learning techniques to answer practical questions. 
 
 ---
 
@@ -30,14 +30,6 @@ I work as a missing data specialist and junior data scientist at DPA Professiona
 - [Inzicht in je missing data](https://www.dpa.nl/it/blog/inzicht-je-missing-data/)
 
 - [Omgaan met missing data](https://www.dpa.nl/it/blog/methoden-om-dataset-compleet-maken/)
-
----
-
-### Working papers
-
-- Schouten, R.M. (2017) [The effect of missing data mechanisms on the validity of regression coefficients]()
-
-- Schouten, R.M. (2017) Evaluation of missing data methods in the crossvalidation framework: MSE and R^2
 
 ---
 
@@ -50,59 +42,80 @@ require(mice)
 ?ampute
 ```
 
-Ampute does this and this. An extensive vignette that explains the method and how to use the function can be found [hier is de link](https://github.com/RianneSchouten/Amputation_with_Ampute/tree/master/Vignette).
+R-function `ampute` is the implementation of a multivariate amputation procedure. With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive vignette is [available](https://github.com/RianneSchouten/Amputation_with_Ampute/tree/master/Vignette).
 
 - `parlMICE` 
 
 ```{r, eval = FALSE}
-#something
+require(devtools)
+source_url('https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R')
 ```
 
-`parlMICE` is a wrapper function, which I developed together with Gerko Vink. It can be used when multiple imputations are done with `mice` from R-package **mice** but with large m. Explanation of the method of multiple imputation can be found [here](https://www.jstatsoft.org/article/view/v045i03). A vignette explaining the value and use of `parlMICE` is available [here](https://github.com/RianneSchouten/parlMICE).
+With large datasets or with higher number of imputations, performing multiple imputation with `mice` from R-package **mice** might take a long time. As a solution, I created wrapper function `parlMICE` in cooperation with Gerko Vink. With `parlMICE`, the imputation procedure can be run in parallel. A vignette explaining the value and use of `parlMICE` is [available](https://github.com/RianneSchouten/parlMICE).
 
-- `MCAR_Tests` in Python
+- Class `McarTests` in Python
 
-I developed two tests to check whether an incomplete dataset has a MCAR mechanisms. For each pair of variables, t-tests can be performed with `t-test function`. Little's MCAR test is implemented in `mcar test`. The code can be found [here]().
+Although many missing data functions exist in `R`, the collection of missing data functionS in `Python` is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation. The class `McarTests` consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. For each pair of variables, t-tests can be performed with function `mcar_t_tests`. Little's MCAR test is implemented in `mcar_test`. The code can be found in my Github repository called [`pymice`](https://github.com/RianneSchouten/pymice).
 
 ---
 
-### Talks and conferences
+### Invited talks
 
 - useR!2017 Brussels
 
-My [presentation](C:/Users/SCHOUT07/Documents/Presentaties/UseR!2017/Multivariate_Amputation_Rianne_Schouten.pdf) discussed the generation of missing values with `ampute`.
+My [presentation](pdfs/Multivariate_Amputation_Rianne_Schouten.pdf) discussed the generation of missing values with `ampute`. A [summary](https://user2017.sched.com/event/AxsS?iframe=no) can be found on the website of the conference. 
 
 - Amst-R-Dam 2017
 
-A bunch of R-fanatics listened to me talking about amputation and how to use `ampute` to do this. The presentation can be found [here](C:/Users/SCHOUT07/Documents/Presentaties/Amst-R-Dam/Multivariate_Amputation_Rianne_Schouten.pdf).
+A bunch of R-enthusiasts listened to me talking about amputation and how to use `ampute` to do this. The presentation can be found [here](pdfs/Multivariate_Amputation_Rianne_Schouten.pdf).
 
-- eScience Symposium [planned]
+---
 
-- Women in Technology [planned]
+### Attended conferences
+
+- Women in Technology [8 and 9 November, 2017]
+
+The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=CjwKEAjwruPNBRCKkbL9zqKcrHwSJABGDVyIbRE8y7tfRU6cobtIyGOBlg-HI1dfOAbqvssG35vhnxoC0mHw_wcB) Series enables the sector to connect, learn and act on gender diversity by sharing the experiences of industry leaders and developing women's skills, both soft and technical. 
+
+- Dutch National eScience Symposium [12 October, 2017]
+
+The [Dutch National eScience Symposium](https://www.esciencecenter.nl/event/nlesc17) is a one-day event where scientists and researchers from different disciplines meet to discover how digital technology impacts scientific practice.
+
+- useR!2017 Brussels [4 - 7 July, 2017]
+
+The annual [useR!](https://user2017.brussels/) conference is the main meeting of the international R user and developer community.
+
+---
+
+### Working papers
+
+- Schouten, R.M. (2017) [The effect of missing data mechanisms on the validity of regression coefficients](pdfs/Regression_coefficients_Rianne_Schouten.pdf)
+
+- Schouten, R.M. (2017) Evaluation of missing data methods in the crossvalidation framework: MSE and R<sup>2</sup>
 
 ---
 
 ### Publications
 
-- Schouten, R.M., Lugtig, P.J., Brand, J.P.L. and Vink, G. (2017). Generating missing values for simulation
+- Schouten, R.M., Lugtig, P.J. and Vink, G. (2017). Generating missing values for simulation
 purposes: A multivariate amputation procedure. [Under review at Journal of Statistical Computation and Simulation]
 
 - Schouten, R.M. and Vink, G. (2017). The dance of the mechanisms: how observed information influences the validity of missingness assumptions. [Under review at Sociological Methods \& Research]
 
-- de Vries, C. P., Schouten, R. M., van der Kuur, J., Gottardi, L., & Akamatsu, H. (2016, July). [Microcalorimeter pulse analysis by means of principle component decomposition](link). In SPIE Astronomical Telescopes+ Instrumentation (pp. 99055I-99055I). International Society for Optics and Photonics.
+- Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. and Breugem, C.C. (2017). [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis](pdfs/CephalometricAnalysis.pdf). Clinical Oral Investigations, 21, pp. 1801-1810.
 
-- Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. and Breugem, C.C. (2017). [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis](C:/Users/SCHOUT07/Documents/Papers/Cephalometric_Analysis/CephalometricAnalysis.pdf). Clinical Oral Investigations, 21, pp. 1801-1810
+- de Vries, C.P., Schouten, R.M., Van der Kuur, J., Gottardi, L., and Akamatsu, H. (2016, July). [Microcalorimeter pulse analysis by means of principle component decomposition](pdfs/Microcalorimeter_Pulse_Analysis.pdf). In SPIE Astronomical Telescopes+ Instrumentation (pp. 99055I-99055I). International Society for Optics and Photonics.
 
 ---
 
 ### Contact
 
-- [Curriculum Vitae](C:/Users/SCHOUT07/Documents/Papieren/CV/DPAIT_RianneSchouten_DataScientist_ned.docx)
+- [Curriculum Vitae](pdfs/DPAIT_RianneSchouten_DataScientist_ned.pdf) in Dutch
 
 - Email: r.m.schouten\@uu.nl; rianne.schouten\@dpa.nl
 
-- Telefoon: +31(0)640640516
+- Telephone: +31(0)640640516
 
-- Zie ook mijn [Github](https://github.com/RianneSchouten) of [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
+- Also see my [Github](https://github.com/RianneSchouten) or [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
 
 ---
