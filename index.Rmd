@@ -21,7 +21,7 @@ When you get to know me, you will recognize an enthusiastic and motivated person
 
 As a PhD student, I work under supervision of [Gerko Vink](https://www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren) at the Department of Methodology and Statistics, University of Utrecht, the Netherlands. The past year, I developed and implemented multivariate amputation procedure `ampute` (i.e. a way to generate sophisticated missingness in complete datasets). With the availability of `ampute` in R-package `mice`, it has become possible to perform extensive simulation studies to evaluate the effect of missing data methods. My research proposal [About the evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) gives some specifics. 
 
-Furthermore, I work as a Missing Data Specialist at DPA Professionals, Business Unit IT, under supervision of [Fred Kroon](https://www.linkedin.com/in/kroonfred/). I advise companies about missing data problems and possible solutions. With my work, I contribute to the creation of correct and rightful (statistical) models. At DPA, I am also part of the [Data Science Excellence Program](https://www.dpadatascience.nl). This means that I receive training from senior data scientists at [Big Data Republic](https://www.bigdatarepublic.nl/) and learn how to apply machine learning techniques to answer practical questions. 
+Furthermore, I work as a Missing Data Specialist at DPA Professionals, Business Unit IT, under supervision of [Fred Kroon](https://www.linkedin.com/in/kroonfred/). I advise companies about missing data problems and possible solutions. With my work, I contribute to the creation of correct and rightful (statistical) models. At DPA, I am also part of the [Data Science Excellence Program](http://www.dpadatascience.nl). This means that I receive training from senior data scientists at [Big Data Republic](https://www.bigdatarepublic.nl/) and learn how to apply machine learning techniques to answer practical questions. 
 
 ---
 
@@ -63,11 +63,11 @@ Although many missing data functions exist in `R`, the collection of missing dat
 
 - useR!2017 Brussels
 
-My [presentation](pdfs/Multivariate_Amputation_Rianne_Schouten.pdf) discussed the generation of missing values with `ampute`. A [summary](https://user2017.sched.com/event/AxsS?iframe=no) can be found on the website of the conference. 
+My presentation discussed the generation of missing values with `ampute`. A [summary](https://user2017.sched.com/event/AxsS?iframe=no) can be found on the website of the conference. 
 
 - Amst-R-Dam 2017
 
-A bunch of R-enthusiasts listened to me talking about amputation and how to use `ampute` to do this. The presentation can be found [here](pdfs/Multivariate_Amputation_Rianne_Schouten.pdf).
+A bunch of R-enthusiasts listened to me talking about amputation and how to use `ampute` to do this. 
 
 ---
 
@@ -110,7 +110,7 @@ purposes: A multivariate amputation procedure. [Under review at Journal of Stati
 
 ### Contact
 
-- [Curriculum Vitae](pdfs/DPAIT_RianneSchouten_DataScientist_ned.pdf) in Dutch
+- Curriculum Vitae in [Dutch](pdfs/DPAIT_RianneSchouten_DataScientist_ned.pdf) or [English](pdfs/DPAIT_RianneSchouten_DataScientist.pdf).
 
 - Email: r.m.schouten\@uu.nl; rianne.schouten\@dpa.nl
 
