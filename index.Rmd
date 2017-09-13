@@ -28,14 +28,16 @@ I work as a missing data specialist and junior data scientist at DPA Professiona
 ### Blogposts
 
 - [Inzicht in je missing data](https://www.dpa.nl/it/blog/inzicht-je-missing-data/)
+
 - [Omgaan met missing data](https://www.dpa.nl/it/blog/methoden-om-dataset-compleet-maken/)
 
 ---
 
 ### Working papers
 
-- Schouten, R.M. (2017) [Titel]()
-- Schouten, R.M. (2017) Evaluating missing data methods in the crossvalidation framework
+- Schouten, R.M. (2017) [The effect of missing data mechanisms on the validity of regression coefficients]()
+
+- Schouten, R.M. (2017) Evaluation of missing data methods in the crossvalidation framework: MSE and R^2
 
 ---
 
@@ -56,7 +58,7 @@ Ampute does this and this. An extensive vignette that explains the method and ho
 #something
 ```
 
-`parlMICE` is a wrapper function, which I developed together with Gerko Vink. It can be used when multiple imputations are done with `mice` from R-package **mice** but with large m. Explanation of the method of multiple imputation can be found [here](https://www.jstatsoft.org/article/view/v045i03). A vignette explaining the value and use of `parlMICE` is available [here](https://github.com/gerkovink/parlMICE).
+`parlMICE` is a wrapper function, which I developed together with Gerko Vink. It can be used when multiple imputations are done with `mice` from R-package **mice** but with large m. Explanation of the method of multiple imputation can be found [here](https://www.jstatsoft.org/article/view/v045i03). A vignette explaining the value and use of `parlMICE` is available [here](https://github.com/RianneSchouten/parlMICE).
 
 - `MCAR_Tests` in Python
 
@@ -68,11 +70,11 @@ I developed two tests to check whether an incomplete dataset has a MCAR mechanis
 
 - useR!2017 Brussels
 
-My [presentation]() discussed the generation of missing values with `ampute`.
+My [presentation](C:/Users/SCHOUT07/Documents/Presentaties/UseR!2017/Multivariate_Amputation_Rianne_Schouten.pdf) discussed the generation of missing values with `ampute`.
 
 - Amst-R-Dam 2017
 
-A bunch of R-fanatics listened to me talking about amputation and how to use `ampute` to do this. The presentation can be found [here]().
+A bunch of R-fanatics listened to me talking about amputation and how to use `ampute` to do this. The presentation can be found [here](C:/Users/SCHOUT07/Documents/Presentaties/Amst-R-Dam/Multivariate_Amputation_Rianne_Schouten.pdf).
 
 - eScience Symposium [planned]
 
@@ -82,19 +84,20 @@ A bunch of R-fanatics listened to me talking about amputation and how to use `am
 
 ### Publications
 
-- Schouten, R.M., Lugtig, P.J., Brand, J.P.L. and Vink, G. (2017) Titel. [Under review]
+- Schouten, R.M., Lugtig, P.J., Brand, J.P.L. and Vink, G. (2017). Generating missing values for simulation
+purposes: A multivariate amputation procedure. [Under review at Journal of Statistical Computation and Simulation]
 
-- Schouten, R.M. and Vink, G. (2017) Titel. [Under review]
+- Schouten, R.M. and Vink, G. (2017). The dance of the mechanisms: how observed information influences the validity of missingness assumptions. [Under review at Sociological Methods \& Research]
 
-- Nog een
+- de Vries, C. P., Schouten, R. M., van der Kuur, J., Gottardi, L., & Akamatsu, H. (2016, July). [Microcalorimeter pulse analysis by means of principle component decomposition](link). In SPIE Astronomical Telescopes+ Instrumentation (pp. 99055I-99055I). International Society for Optics and Photonics.
 
-- Nog een
+- Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. and Breugem, C.C. (2017). [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis](C:/Users/SCHOUT07/Documents/Papers/Cephalometric_Analysis/CephalometricAnalysis.pdf). Clinical Oral Investigations, 21, pp. 1801-1810
 
 ---
 
 ### Contact
 
-- [Curriculum Vitae](link)
+- [Curriculum Vitae](C:/Users/SCHOUT07/Documents/Papieren/CV/DPAIT_RianneSchouten_DataScientist_ned.docx)
 
 - Email: r.m.schouten\@uu.nl; rianne.schouten\@dpa.nl
 
