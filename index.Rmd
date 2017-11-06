@@ -21,7 +21,7 @@ When you get to know me, you will recognize an enthusiastic and motivated person
 
 As a PhD student, I work under supervision of [Gerko Vink](https://www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren) at the Department of Methodology and Statistics, University of Utrecht, the Netherlands. The past year, I developed and implemented multivariate amputation procedure `ampute` (i.e. a way to generate sophisticated missingness in complete datasets). With the availability of `ampute` in R-package `mice`, it has become possible to perform extensive simulation studies to evaluate the effect of missing data methods. My PhD research proposal [About the evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) gives some specifics about my current work. 
 
-Furthermore, I work as a Missing Data Specialist at DPA Professionals, Business Unit IT, under supervision of [Fred Kroon](https://www.linkedin.com/in/kroonfred/). I advise companies about missing data problems and possible solutions. With my work, I contribute to the creation of correct and rightful (statistical) models. At DPA, I am also part of the [Data Science Excellence Program](http://www.dpadatascience.nl). This means that I receive training from senior data scientists at [Big Data Republic](https://www.bigdatarepublic.nl/) and learn how to apply machine learning techniques to answer practical questions. 
+Furthermore, I work as a Missing Data Specialist at DPA Professionals, Business Unit IT, under supervision of [Gabor Fahmel](https://www.linkedin.com/in/gaborfahmel/). I advise companies about missing data problems and possible solutions. With my work, I contribute to the creation of correct and rightful (statistical) models. At DPA, I am also part of the [Data Science Excellence Program](http://www.dpadatascience.nl). This means that I receive training from senior data scientists at [Big Data Republic](https://www.bigdatarepublic.nl/) and learn how to apply machine learning techniques to answer practical questions. 
 
 ---
 
@@ -77,10 +77,6 @@ A bunch of R-enthusiasts listened to me talking about amputation and how to use 
 
 The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=CjwKEAjwruPNBRCKkbL9zqKcrHwSJABGDVyIbRE8y7tfRU6cobtIyGOBlg-HI1dfOAbqvssG35vhnxoC0mHw_wcB) Series enables the sector to connect, learn and act on gender diversity by sharing the experiences of industry leaders and developing women's skills, both soft and technical. 
 
-- Dutch National eScience Symposium [12 October, 2017]
-
-The [Dutch National eScience Symposium](https://www.esciencecenter.nl/event/nlesc17) is a one-day event where scientists and researchers from different disciplines meet to discover how digital technology impacts scientific practice.
-
 - useR!2017 Brussels [4 - 7 July, 2017]
 
 The annual [useR!](https://user2017.brussels/) conference is the main meeting of the international R user and developer community.
@@ -110,7 +106,7 @@ purposes: A multivariate amputation procedure. [Under review at Journal of Stati
 
 ### Contact
 
-- Curriculum Vitae in [Dutch](pdfs/DPAIT_RianneSchouten_DataScientist_ned.pdf) or [English](pdfs/DPAIT_RianneSchouten_DataScientist.pdf).
+- Curriculum Vitae in [Dutch](pdfs/Rianne_Schouten_CV_DPA_IT_Nederlands.pdf) or [English](pdfs/Rianne_Schouten_CV_DPA_IT_English.pdf).
 
 - Email: r.m.schouten\@uu.nl; rianne.schouten\@dpa.nl
 
