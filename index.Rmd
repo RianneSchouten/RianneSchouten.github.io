@@ -75,7 +75,7 @@ A bunch of R-enthusiasts listened to me talking about amputation and how to use 
 
 - Women in Technology [8 and 9 November, 2017]
 
-The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=CjwKEAjwruPNBRCKkbL9zqKcrHwSJABGDVyIbRE8y7tfRU6cobtIyGOBlg-HI1dfOAbqvssG35vhnxoC0mHw_wcB) Series enables the sector to connect, learn and act on gender diversity by sharing the experiences of industry leaders and developing women's skills, both soft and technical. 
+The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=CjwKEAjwruPNBRCKkbL9zqKcrHwSJABGDVyIbRE8y7tfRU6cobtIyGOBlg-HI1dfOAbqvssG35vhnxoC0mHw_wcB) Series enables the sector to connect, learn and act on gender diversity by sharing the experiences of industry leaders and developing women's skills, both soft and technical. I wrote a [blogpost](https://www.linkedin.com/pulse/i-want-go-where-am-invited-included-rianne-schouten/) to share my experiences. 
 
 - useR!2017 Brussels [4 - 7 July, 2017]
 
