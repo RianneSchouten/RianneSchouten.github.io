@@ -275,29 +275,30 @@ div.tocify {
 </div>
 <div id="software-development" class="section level3">
 <h3>Software development</h3>
-<ul>
-<li><code>ampute</code> in R-package <strong>mice</strong></li>
-</ul>
+<div id="ampute-in-r-package-mice" class="section level4">
+<h4>1. <code>ampute</code> in R-package <strong>mice</strong></h4>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">require</span>(mice)
 ?ampute</code></pre></div>
-<p>R-function <code>ampute</code> is the implementation of a multivariate amputation procedure. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive vignette is <a href="https://github.com/RianneSchouten/Amputation_with_Ampute/tree/master/Vignette">available</a>.</p>
-<ul>
-<li><code>parlMICE</code></li>
-</ul>
+<p>R-function <code>ampute</code> is the implementation of a <a href="https://github.com/RianneSchouten/Amputation_with_Ampute/blob/master/Manuscript%20article/Manuscript.pdf">multivariate amputation procedure</a>. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive <a href="https://github.com/RianneSchouten/Amputation_with_Ampute/tree/master/Vignette">vignette</a> is available.</p>
+</div>
+<div id="parlmice" class="section level4">
+<h4>2. <code>parlMICE</code></h4>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">require</span>(devtools)
 <span class="kw">source_url</span>(<span class="st">'https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R'</span>)</code></pre></div>
-<p>With large datasets or with higher number of imputations, performing multiple imputation with <code>mice</code> from R-package <strong>mice</strong> might take a long time. As a solution, I created wrapper function <code>parlMICE</code> in cooperation with Gerko Vink. With <code>parlMICE</code>, the imputation procedure can be run in parallel. A vignette explaining the value and use of <code>parlMICE</code> is <a href="https://github.com/RianneSchouten/parlMICE">available</a>.</p>
-<ul>
-<li>Class <code>McarTests</code> in Python</li>
-</ul>
-<p>Although many missing data functions exist in <code>R</code>, the collection of missing data functionS in <code>Python</code> is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation. The class <code>McarTests</code> consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. For each pair of variables, t-tests can be performed with function <code>mcar_t_tests</code>. Little’s MCAR test is implemented in <code>mcar_test</code>. The code can be found in my Github repository called <a href="https://github.com/RianneSchouten/pymice"><code>pymice</code></a>.</p>
+<p>With large datasets or with higher number of imputations, performing multiple imputation with <code>mice</code> from R-package <strong>mice</strong> might take a long time. As a solution, I created wrapper function <code>parlMICE</code> in cooperation with Gerko Vink. With <code>parlMICE</code>, the imputation procedure can be run in parallel. A <a href="https://github.com/RianneSchouten/parlMICE">vignette</a> explaining the value and use of <code>parlMICE</code> is available.</p>
+</div>
+<div id="pymice-mice-in-python" class="section level4">
+<h4>3. <code>pymice</code>: mice in Python</h4>
+<p>Although many missing data functions exist in <code>R</code>, the collection of missing data functionS in <code>Python</code> is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation.</p>
+<p>At the moment, the package contains class <code>McarTests</code>, which consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. Little’s MCAR test is implemented in <code>mcar_test</code> and for each pair of variables, t-tests can be performed with function <code>mcar_t_tests</code>. The code can be found in my Github repository called <a href="https://github.com/RianneSchouten/pymice"><code>pymice</code></a>.</p>
 <hr />
+</div>
 </div>
 <div id="blogposts" class="section level3">
 <h3>Blogposts</h3>
 <ul>
-<li><p><a href="https://www.dpa.nl/it/blog/inzicht-je-missing-data/">Inzicht in je missing data</a></p></li>
-<li><p><a href="https://www.dpa.nl/it/blog/methoden-om-dataset-compleet-maken/">Omgaan met missing data</a></p></li>
+<li><p><a href="https://www.dpadatascience.nl/blog/inzicht-missing-data/">Inzicht in je missing data</a></p></li>
+<li><p><a href="https://www.dpadatascience.nl/blog/omgaan-missing-data/">Omgaan met missing data</a></p></li>
 </ul>
 <hr />
 </div>

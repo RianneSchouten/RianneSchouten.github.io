@@ -48,35 +48,37 @@ purposes: A multivariate amputation procedure. [Under review at Journal of Stati
 
 ### Software development
 
-- `ampute` in R-package **mice**
+#### 1. `ampute` in R-package **mice**
 
 ```{r, eval = FALSE}
 require(mice)
 ?ampute
 ```
 
-R-function `ampute` is the implementation of a multivariate amputation procedure. With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive vignette is [available](https://github.com/RianneSchouten/Amputation_with_Ampute/tree/master/Vignette).
+R-function `ampute` is the implementation of a [multivariate amputation procedure](https://github.com/RianneSchouten/Amputation_with_Ampute/blob/master/Manuscript%20article/Manuscript.pdf). With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive [vignette](https://github.com/RianneSchouten/Amputation_with_Ampute/tree/master/Vignette) is available.
 
-- `parlMICE` 
+#### 2. `parlMICE` 
 
 ```{r, eval = FALSE}
 require(devtools)
 source_url('https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R')
 ```
 
-With large datasets or with higher number of imputations, performing multiple imputation with `mice` from R-package **mice** might take a long time. As a solution, I created wrapper function `parlMICE` in cooperation with Gerko Vink. With `parlMICE`, the imputation procedure can be run in parallel. A vignette explaining the value and use of `parlMICE` is [available](https://github.com/RianneSchouten/parlMICE).
+With large datasets or with higher number of imputations, performing multiple imputation with `mice` from R-package **mice** might take a long time. As a solution, I created wrapper function `parlMICE` in cooperation with Gerko Vink. With `parlMICE`, the imputation procedure can be run in parallel. A [vignette](https://github.com/RianneSchouten/parlMICE) explaining the value and use of `parlMICE` is available.
 
-- Class `McarTests` in Python
+#### 3. `pymice`: mice in Python
 
-Although many missing data functions exist in `R`, the collection of missing data functionS in `Python` is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation. The class `McarTests` consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. For each pair of variables, t-tests can be performed with function `mcar_t_tests`. Little's MCAR test is implemented in `mcar_test`. The code can be found in my Github repository called [`pymice`](https://github.com/RianneSchouten/pymice).
+Although many missing data functions exist in `R`, the collection of missing data functionS in `Python` is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation. 
+
+At the moment, the package contains class `McarTests`, which consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. Little's MCAR test is implemented in `mcar_test` and for each pair of variables, t-tests can be performed with function `mcar_t_tests`. The code can be found in my Github repository called [`pymice`](https://github.com/RianneSchouten/pymice).
 
 ---
 
 ### Blogposts
 
-- [Inzicht in je missing data](https://www.dpa.nl/it/blog/inzicht-je-missing-data/)
+- [Inzicht in je missing data](https://www.dpadatascience.nl/blog/inzicht-missing-data/)
 
-- [Omgaan met missing data](https://www.dpa.nl/it/blog/methoden-om-dataset-compleet-maken/)
+- [Omgaan met missing data](https://www.dpadatascience.nl/blog/omgaan-missing-data/)
 
 ---
 
