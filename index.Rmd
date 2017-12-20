@@ -40,9 +40,9 @@ purposes: A multivariate amputation procedure. [Under review at Journal of Stati
 
 ### Working papers
 
-- Schouten, R.M. (2017) [The effect of missing data mechanisms on the validity of regression coefficients](pdfs/Regression_coefficients_Rianne_Schouten.pdf)
+- Schouten, R.M. (2017) [The effect of missing data mechanisms on the validity of regression coefficients](pdfs/Regression_coefficients_Rianne_Schouten.pdf).
 
-- Schouten, R.M. (2017) Evaluation of missing data methods in the crossvalidation framework: MSE and R<sup>2</sup>
+- Schouten, R.M. (2017) Evaluation of missing data methods in the data science framework: [prediction accuracy](pdfs/Prediction_accuracy.pdf) and [imputation accuracy](pdfs/Imputation_accuracy.pdf). 
 
 ---
 
