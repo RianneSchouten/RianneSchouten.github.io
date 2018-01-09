@@ -27,8 +27,7 @@ Furthermore, I work as a Missing Data Specialist at DPA Professionals, Business 
 
 ### Publications
 
-- Schouten, R.M., Lugtig, P.J. and Vink, G. (2017). Generating missing values for simulation
-purposes: A multivariate amputation procedure. [Under review at Journal of Statistical Computation and Simulation]
+- Schouten, R.M., Lugtig, P.J. and Vink, G. (2017). [Generating missing values for simulation purposes: A multivariate amputation procedure](https://rianneschouten.github.io/Amputation_with_Ampute/Manuscript%20article/Manuscript.pdf). [Under review at Journal of Statistical Computation and Simulation]
 
 - Schouten, R.M. and Vink, G. (2017). The dance of the mechanisms: how observed information influences the validity of missingness assumptions. [Under review at Sociological Methods \& Research]
 
@@ -55,7 +54,7 @@ require(mice)
 ?ampute
 ```
 
-R-function `ampute` is the implementation of a [multivariate amputation procedure](https://github.com/RianneSchouten/Amputation_with_Ampute/blob/master/Manuscript%20article/Manuscript.pdf). With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive [vignette](https://github.com/RianneSchouten/Amputation_with_Ampute/tree/master/Vignette) is available.
+R-function `ampute` is the implementation of a [multivariate amputation procedure](https://rianneschouten.github.io/Amputation_with_Ampute/Manuscript%20article/Manuscript.pdf). With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive [vignette](https://rianneschouten.github.io/Amputation_with_Ampute/Vignette/ampute.html) is available.
 
 #### 2. `parlMICE` 
 
