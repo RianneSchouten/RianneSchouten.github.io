@@ -75,9 +75,17 @@ At the moment, the package contains class `McarTests`, which consists of two fun
 
 ### Blogposts
 
-- [Inzicht in je missing data](https://www.dpadatascience.nl/blog/inzicht-missing-data/)
+- [Missing Data in Data Science: The effect of missing values treatment on the outcome of a regression model](https://rianneschouten.github.io/missing_data_science/assets/blogpost/blogpost.html)
+
+In this blogpost, I discuss the results of a simulation study. An interactive plot enables everyone to inspect and conclude about the results. Click on the plot below to load the interactive plot. 
+
+[![](pdfs/missing_data_blog_chart.png)](https://rianneschouten.github.io/missing_data_science/)
 
 - [Omgaan met missing data](https://www.dpadatascience.nl/blog/omgaan-missing-data/)
+
+- [Inzicht in je missing data](https://www.dpadatascience.nl/blog/inzicht-missing-data/)
+
+
 
 ---
 
