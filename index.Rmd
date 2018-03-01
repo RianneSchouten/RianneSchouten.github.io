@@ -93,7 +93,7 @@ In this blogpost, I discuss the results of a simulation study. An interactive pl
 
 - Data Science Hackathon
 
-A monthly organized [data science hackathon](https://www.meetup.com/nl-NL/Eindhoven-Data-Science-Meetup/events/245332474/?eventId=245332474&chapter_analytics_code=UA-80541826-1) will be about missing data problems. I participate in the organization of the hackathon, will provide the attendants with the necessary knowledge and will give them feedback on their approach. 
+A monthly organized data science hackathon will be about missing data problems. I participate in the organization of the hackathon, will provide the attendants with the necessary knowledge and will give them feedback on their approach. My presentation can be found [here](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf).
 
 - useR!2017 Brussels
 
