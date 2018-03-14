@@ -41,7 +41,7 @@ When you get to know me, you will recognize an enthusiastic and motivated person
 
 - Schouten, R.M. (2017) [The effect of missing data mechanisms on the validity of regression coefficients](pdfs/Regression_coefficients_Rianne_Schouten.pdf).
 
-- Schouten, R.M. (2017) Evaluation of missing data methods in the data science framework: [prediction accuracy](pdfs/Prediction_accuracy.pdf) and [imputation accuracy](pdfs/Imputation_accuracy.pdf). 
+- Schouten, R.M. (2017) Evaluation of missing data methods in the data science framework: a comparison of statistical validity, prediction accuracy and imputation accuracy.
 
 ---
 
@@ -91,6 +91,10 @@ In this blogpost, I discuss the results of a simulation study. An interactive pl
 
 ### Invited talks
 
+- ICT Open 2018
+
+Handling Missing Data in Data Science: Simulating the effects of missing data methods and how to present the results in an interactive plot with Github Pages. Read the [abstract](pdfs/abstract_rianne_schouten.pdf).
+
 - Data Science Hackathon
 
 A monthly organized data science hackathon will be about missing data problems. I participate in the organization of the hackathon, will provide the attendants with the necessary knowledge and will give them feedback on their approach. My presentation can be found [here](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf).
@@ -106,6 +110,8 @@ A bunch of R-enthusiasts listened to me talking about amputation and how to use 
 ---
 
 ### Attended conferences
+
+- ICT Open 2018 [19 and 20 March, 2018]
 
 - Women in Technology [8 and 9 November, 2017]
 
