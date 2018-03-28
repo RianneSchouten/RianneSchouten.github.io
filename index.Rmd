@@ -89,11 +89,11 @@ In this blogpost, I discuss the results of a simulation study. An interactive pl
 
 ---
 
-### Invited talks
+### Talks
 
 - ICT Open 2018
 
-Handling Missing Data in Data Science: Simulating the effects of missing data methods and how to present the results in an interactive plot with Github Pages. Read the [abstract](pdfs/abstract_rianne_schouten.pdf).
+Handling Missing Data in Data Science: Simulating the effects of missing data methods and how to present the results in an interactive plot with Github Pages. Read the [abstract](pdfs/abstract_rianne_schouten.pdf) or check the [slides](pdfs/ictopen2018_RianneSchouten.pdf)
 
 - Data Science Hackathon
 
@@ -121,13 +121,15 @@ The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=
 
 The annual [useR!](https://user2017.brussels/) conference is the main meeting of the international R user and developer community.
 
+- CWI in Bedrijf [18 May, 2017]
+
 ---
 
 ### Contact
 
 - Curriculum Vitae in [English](pdfs/Rianne_Schouten_Resume.pdf).
 
-- Email: r.m.schouten\@uu.nl; rianne.schouten\@dpa.nl
+- Email: r.m.schouten\@uu.nl; riannemargarethaschouten\@gmail.com
 
 - Telephone: +31(0)640640516
 
