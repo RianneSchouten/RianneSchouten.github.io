@@ -17,7 +17,7 @@ output:
 
 ### Introduction and affiliations
 
-As a PhD student, I work under supervision of [Gerko Vink](https://www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren) at the Department of Methodology and Statistics, University of Utrecht, the Netherlands. The past year, I developed and implemented multivariate amputation procedure `ampute` (i.e. a way to generate sophisticated missingness in complete datasets). With the availability of `ampute` in R-package `mice`, it has become possible to perform extensive simulation studies to evaluate the effect of missing data methods. My PhD research proposal [About the evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) gives some specifics about my current work. 
+As an external PhD student, I work under supervision of [Gerko Vink](https://www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren) at the Department of Methodology and Statistics, University of Utrecht, the Netherlands. The past year, I developed and implemented multivariate amputation procedure `ampute` (i.e. a way to generate sophisticated missingness in complete datasets). With the availability of `ampute` in R-package `mice`, it has become possible to perform extensive simulation studies to evaluate the effect of missing data methods. My PhD research proposal [About the evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) gives some specifics about my current work. 
 
 Furthermore, I work as a Developer Data & Analytics at Samen Veilig Midden-Nederland: an institute that provides universal, preventive and specialized services to youth, parents and elderly. The sensitive and highly classified data at Samen Veilig has to be saved, transformed and analyzed in a standardized and secure way. It will be my job to structure the data flow and to gain and present the necessary insights.
 
@@ -136,3 +136,14 @@ The annual [useR!](https://user2017.brussels/) conference is the main meeting of
 - Also see my [Github](https://github.com/RianneSchouten) or [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
 
 ---
+
+### PhD Forms
+
+- Research Proposal: [About the evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf)
+
+- [Form 1](pdfs/form1_rianneschouten.pdf)
+
+- Education and Supervision Agreement
+
+- [Annual Progress Report 1](pdfs/Annual_Progress_Report_1.pdf)
+
