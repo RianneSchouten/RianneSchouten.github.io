@@ -1,7 +1,7 @@
 ---
 title: "Rianne Schouten"
 author: |
-  | PhD Candidate / Missing Data Specialist / Junior Data Scientist
+  | PhD Candidate / Missing Data Specialist / Developer Data & Analytics
 date: ""
 output: 
   html_document:
@@ -27,7 +27,7 @@ When you get to know me, you will recognize an enthusiastic and motivated person
 
 ### Publications
 
-- Schouten, R.M., Lugtig, P.J. and Vink, G. (2017). [Generating missing values for simulation purposes: A multivariate amputation procedure](https://rianneschouten.github.io/mice_ampute/manuscript/manuscript.pdf). [Under review at Journal of Statistical Computation and Simulation]
+- Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](https://doi.org/10.1080/00949655.2018.1491577), Journal of Statistical Computation and Simulation, DOI: 10.1080/00949655.2018.1491577
 
 - Schouten, R.M. and Vink, G. (2017). The dance of the mechanisms: how observed information influences the validity of missingness assumptions. [Under review at Sociological Methods \& Research]
 
