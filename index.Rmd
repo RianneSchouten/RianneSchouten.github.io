@@ -39,8 +39,6 @@ When you get to know me, you will recognize an enthusiastic and motivated person
 
 ### Working papers
 
-- Schouten, R.M. (2017) [The effect of missing data mechanisms on the validity of regression coefficients](pdfs/Regression_coefficients_Rianne_Schouten.pdf).
-
 - Schouten, R.M. (2017) Evaluation of missing data methods in the data science framework: a comparison of statistical validity, prediction accuracy and imputation accuracy.
 
 ---
@@ -54,7 +52,7 @@ require(mice)
 ?ampute
 ```
 
-R-function `ampute` is the implementation of a [multivariate amputation procedure](https://rianneschouten.github.io/mice_ampute/manuscript/manuscript.pdf). With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive [vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) is available.
+R-function `ampute` is the implementation of a [multivariate amputation procedure](https://doi.org/10.1080/00949655.2018.1491577). With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive [vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) is available.
 
 #### 2. `parlMICE` 
 
@@ -70,6 +68,11 @@ With large datasets or with higher number of imputations, performing multiple im
 Although many missing data functions exist in `R`, the collection of missing data functionS in `Python` is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation. 
 
 At the moment, the package contains class `McarTests`, which consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. Little's MCAR test is implemented in `mcar_test` and for each pair of variables, t-tests can be performed with function `mcar_t_tests`. The code can be found in my Github repository called [`pymice`](https://github.com/RianneSchouten/pymice).
+
+The next release of scikit-learn will contain an Iterative Imputer, developed
+by Sergey Feldman. Although the IterativeImputer performs single imputation
+by default, I wrote an example that shows how to use the imputer to perform
+multiple imputation. The example will be in the next release. 
 
 ---
 

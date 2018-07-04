@@ -268,8 +268,7 @@ div.tocify {
 <div id="working-papers" class="section level3">
 <h3>Working papers</h3>
 <ul>
-<li><p>Schouten, R.M. (2017) <a href="pdfs/Regression_coefficients_Rianne_Schouten.pdf">The effect of missing data mechanisms on the validity of regression coefficients</a>.</p></li>
-<li><p>Schouten, R.M. (2017) Evaluation of missing data methods in the data science framework: a comparison of statistical validity, prediction accuracy and imputation accuracy.</p></li>
+<li>Schouten, R.M. (2017) Evaluation of missing data methods in the data science framework: a comparison of statistical validity, prediction accuracy and imputation accuracy.</li>
 </ul>
 <hr />
 </div>
@@ -279,7 +278,7 @@ div.tocify {
 <h4>1. <code>ampute</code> in R-package <strong>mice</strong></h4>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">require</span>(mice)
 ?ampute</code></pre></div>
-<p>R-function <code>ampute</code> is the implementation of a <a href="https://rianneschouten.github.io/mice_ampute/manuscript/manuscript.pdf">multivariate amputation procedure</a>. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive <a href="https://rianneschouten.github.io/mice_ampute/vignette/ampute.html">vignette</a> is available.</p>
+<p>R-function <code>ampute</code> is the implementation of a <a href="https://doi.org/10.1080/00949655.2018.1491577">multivariate amputation procedure</a>. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive <a href="https://rianneschouten.github.io/mice_ampute/vignette/ampute.html">vignette</a> is available.</p>
 </div>
 <div id="parlmice" class="section level4">
 <h4>2. <code>parlMICE</code></h4>
@@ -291,6 +290,7 @@ div.tocify {
 <h4>3. <code>pymice</code>: mice in Python</h4>
 <p>Although many missing data functions exist in <code>R</code>, the collection of missing data functionS in <code>Python</code> is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation.</p>
 <p>At the moment, the package contains class <code>McarTests</code>, which consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. Little’s MCAR test is implemented in <code>mcar_test</code> and for each pair of variables, t-tests can be performed with function <code>mcar_t_tests</code>. The code can be found in my Github repository called <a href="https://github.com/RianneSchouten/pymice"><code>pymice</code></a>.</p>
+<p>The next release of scikit-learn will contain an Iterative Imputer, developed by Sergey Feldman. Although the IterativeImputer performs single imputation by default, I wrote an example that shows how to use the imputer to perform multiple imputation. The example will be in the next release.</p>
 <hr />
 </div>
 </div>
