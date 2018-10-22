@@ -27,9 +27,9 @@ When you get to know me, you will recognize an enthusiastic and motivated person
 
 ### Publications
 
-- Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](https://doi.org/10.1080/00949655.2018.1491577), Journal of Statistical Computation and Simulation, DOI: 10.1080/00949655.2018.1491577
+- Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](pdfs/ArticleAmpute.pdf). Journal of Statistical Computation and Simulation, DOI: 10.1080/00949655.2018.1491577
 
-- Schouten, R.M. and Vink, G. (2017). The dance of the mechanisms: how observed information influences the validity of missingness assumptions. [Accepted and soon to be published in Sociological Methods \& Research]
+- Schouten, R.M. and Vink, G. (2018). [The dance of the mechanisms: How observed information influences the validity of missingness assumptions](pdfs/TheDance.pdf). Sociological Methods \& Research. DOI: 10.1177/0049124118799376
 
 - Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. and Breugem, C.C. (2017). [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis](pdfs/CephalometricAnalysis.pdf). Clinical Oral Investigations, 21, pp. 1801-1810.
 
