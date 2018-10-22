@@ -39,7 +39,7 @@ When you get to know me, you will recognize an enthusiastic and motivated person
 
 ### Working papers
 
-- Schouten, R.M. (2017) Evaluation of missing data methods in the data science framework: a comparison of statistical validity, prediction accuracy and imputation accuracy.
+- Schouten, R.M. (2018) Evaluation of missing data methods in the data science framework: a comparison of statistical validity, prediction accuracy and imputation accuracy.
 
 ---
 
@@ -52,7 +52,7 @@ require(mice)
 ?ampute
 ```
 
-R-function `ampute` is the implementation of a [multivariate amputation procedure](https://doi.org/10.1080/00949655.2018.1491577). With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive [vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) is available.
+R-function `ampute` is the implementation of a [multivariate amputation procedure](pdfs/ArticleAmpute.pdf). With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive [vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) is available.
 
 #### 2. `parlMICE` 
 
