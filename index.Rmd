@@ -94,6 +94,11 @@ In this blogpost, I discuss the results of a simulation study. An interactive pl
 
 ### Talks
 
+- European Women in Technology 2018
+
+On November 29th, Amsterdam will be the place to be for a [masterclass](https://www.europeanwomenintech.com/agenda) about: 
+Dealing with missing data in R: Amputation or Imputation? Excited! 
+
 - satRDay
 
 An explanation of missing data mechanisms, missing data patterns and how to 
@@ -117,17 +122,15 @@ A bunch of R-enthusiasts listened to me talking about amputation and how to use 
 
 ---
 
-### Attended conferences
+### Attended conferences 
 
-- ICT Open 2018 [19 and 20 March, 2018]
+Apart from the ones where I present.
+
+- Big Data Expo 2018
 
 - Women in Technology [8 and 9 November, 2017]
 
 The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=CjwKEAjwruPNBRCKkbL9zqKcrHwSJABGDVyIbRE8y7tfRU6cobtIyGOBlg-HI1dfOAbqvssG35vhnxoC0mHw_wcB) Series enables the sector to connect, learn and act on gender diversity by sharing the experiences of industry leaders and developing women's skills, both soft and technical. I wrote a [blogpost](https://www.linkedin.com/pulse/i-want-go-where-am-invited-included-rianne-schouten/) to share my experiences. 
-
-- useR!2017 Brussels [4 - 7 July, 2017]
-
-The annual [useR!](https://user2017.brussels/) conference is the main meeting of the international R user and developer community.
 
 - CWI in Bedrijf [18 May, 2017]
 
