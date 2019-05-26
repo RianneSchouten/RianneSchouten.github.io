@@ -1,7 +1,7 @@
 ---
 title: "Rianne Schouten"
 author: |
-  | PhD Candidate / Missing Data Specialist / Developer Data & Analytics
+  | Developer Data & Analytics / Missing Data Specialist
 date: ""
 output: 
   html_document:
@@ -17,29 +17,25 @@ output:
 
 ### Introduction and affiliations
 
-As an external PhD student, I work under supervision of [Gerko Vink](https://www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren) at the Department of Methodology and Statistics, University of Utrecht, the Netherlands. The past year, I developed and implemented multivariate amputation procedure `ampute` (i.e. a way to generate sophisticated missingness in complete datasets). With the availability of `ampute` in R-package `mice`, it has become possible to perform extensive simulation studies to evaluate the effect of missing data methods. My PhD research proposal [About the evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) gives some specifics about my current work. 
+My name is Rianne Schouten and I am an enthusiastic about everything that has to do with data; datawarehousing, SQL, nice visualisations, statistical techniques, R and mostly: missing data. During a Master's in Methodology and Statistics, I co-developed a procedure to generate mising data in complete datasets. I implemented the procedure in R-function `ampute`, and it is now part of R-package `mice`.
 
-Furthermore, I work as a Developer Data & Analytics at Samen Veilig Midden-Nederland: an institute that provides universal, preventive and specialized services to youth, parents and elderly. The sensitive and highly classified data at Samen Veilig has to be saved, transformed and analyzed in a standardized and secure way. It will be my job to structure the data flow and to gain and present the necessary insights.
+In 2017, I started as an external PhD candidate under supervision of [Gerko Vink](https://www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren). I focused my PhD on [The evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) and investigated the effect of missing data on prediction oriented analyses. After a few publications, I decided to give all my time and focus to my current job and put my PhD on-hold.
 
-When you get to know me, you will recognize an enthusiastic and motivated person who is always eager to learn. I have an open and direct personality, and some self-deprecating humor. Working with me never becomes boring, since I continuously make new plans or I will make some weird (but funny) statements. First and foremost, I intent to deliver work with a more than good quality. 
+At Samen Veilig Midden-Nederland (ie. a youth care organization), I have a position as Developer Data & Analytics. It is my job to structure and standardize the analyses of sensitive and highly classified data. On the one hand I take an active part in writing the SQL queries and performing the calculations in R, Logi Analytics and Power BI. On the other hand, I also oversee the system requirements and allocate work to other developers and stakeholders.
+
+All in all, I prefer to learn every day.
 
 ---
 
 ### Publications
 
-- Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](pdfs/ArticleAmpute.pdf). Journal of Statistical Computation and Simulation, DOI: 10.1080/00949655.2018.1491577
+- Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](pdfs/ArticleAmpute.pdf). Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577
 
 - Schouten, R.M. and Vink, G. (2018). [The dance of the mechanisms: How observed information influences the validity of missingness assumptions](pdfs/TheDance.pdf). Sociological Methods \& Research. DOI: 10.1177/0049124118799376
 
 - Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. and Breugem, C.C. (2017). [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis](pdfs/CephalometricAnalysis.pdf). Clinical Oral Investigations, 21, pp. 1801-1810.
 
 - de Vries, C.P., Schouten, R.M., Van der Kuur, J., Gottardi, L., and Akamatsu, H. (2016, July). [Microcalorimeter pulse analysis by means of principle component decomposition](pdfs/Microcalorimeter_Pulse_Analysis.pdf). In SPIE Astronomical Telescopes+ Instrumentation (pp. 99055I-99055I). International Society for Optics and Photonics.
-
----
-
-### Working papers
-
-- Schouten, R.M. (2018) Evaluation of missing data methods in the data science framework: a comparison of statistical validity, prediction accuracy and imputation accuracy.
 
 ---
 
@@ -61,11 +57,11 @@ require(devtools)
 source_url('https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R')
 ```
 
-With large datasets or with higher number of imputations, performing multiple imputation with `mice` from R-package **mice** might take a long time. As a solution, I created wrapper function `parlMICE` in cooperation with Gerko Vink. With `parlMICE`, the imputation procedure can be run in parallel. A [vignette](https://github.com/RianneSchouten/parlMICE) explaining the value and use of `parlMICE` is available.
+With large datasets or with higher number of imputations, performing multiple imputation with `mice` in R-package **mice** might take a long time. As a solution, Gerko Vink and I created wrapper function `parlMICE`. With `parlMICE`, the imputation procedure can be run in parallel. Find all information [in the github repo](https://github.com/RianneSchouten/parlMICE) or read the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html) to know when to use `parlMICE`.
 
-#### 3. `pymice`: mice in Python
+#### 3. `pymice`: `mice` in Python
 
-Although many missing data functions exist in `R`, the collection of missing data functionS in `Python` is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation. 
+Although many missing data functions exist in `R`, the collection of missing data functions in `Python` is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation. 
 
 At the moment, the package contains class `McarTests`, which consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. Little's MCAR test is implemented in `mcar_test` and for each pair of variables, t-tests can be performed with function `mcar_t_tests`. The code can be found in my Github repository called [`pymice`](https://github.com/RianneSchouten/pymice).
 
@@ -84,9 +80,9 @@ In this blogpost, I discuss the results of a simulation study. An interactive pl
 
 [![](pdfs/missing_data_blog_chart.png)](https://rianneschouten.github.io/missing_data_science/)
 
-- [Omgaan met missing data](https://www.dpadatascience.nl/blog/omgaan-missing-data/)
+- [Omgaan met missing data](https://www.linkedin.com/pulse/omgaan-met-missing-data-drie-methoden-om-de-dataset-te-schouten/)
 
-- [Inzicht in je missing data](https://www.dpadatascience.nl/blog/inzicht-missing-data/)
+- [Inzicht in je missing data](https://www.linkedin.com/pulse/inzicht-je-missing-data-rianne-schouten/)
 
 
 
@@ -97,7 +93,7 @@ In this blogpost, I discuss the results of a simulation study. An interactive pl
 - European Women in Technology 2018
 
 On November 29th, Amsterdam will be the place to be for a [masterclass](https://www.europeanwomenintech.com/agenda) about: 
-Dealing with missing data in R: Amputation or Imputation? Excited! 
+Dealing with missing data in R: Amputation or Imputation?
 
 - satRDay
 
@@ -140,21 +136,7 @@ The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=
 
 - Curriculum Vitae in [English](pdfs/Rianne_Schouten_Resume.pdf).
 
-- Email: r.m.schouten\@uu.nl; riannemargarethaschouten\@gmail.com
-
-- Telephone: +31(0)640640516
+- Email: riannemargarethaschouten\@gmail.com
 
 - Also see my [Github](https://github.com/RianneSchouten) or [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
-
----
-
-### PhD forms
-
-- Research Proposal: [About the evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf)
-
-- Form 1 available on request
-
-- Education and Supervision Agreement available on request
-
-- Annual Progress Report 1 not yet applicable
 
