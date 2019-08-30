@@ -17,11 +17,11 @@ output:
 
 ### Introduction and affiliations
 
-My name is Rianne Schouten and I am an enthusiastic about everything that has to do with data; datawarehousing, SQL, nice visualisations, statistical techniques, R and mostly: missing data. During a Master's in Methodology and Statistics, I co-developed a procedure to generate mising data in complete datasets. I implemented the procedure in R-function `ampute`, and it is now part of R-package `mice`.
+My name is Rianne Schouten and I am an enthusiast about everything that has to do with data; datawarehousing, SQL, nice visualisations, statistical techniques, R and mostly: missing data. During a Master's in Methodology and Statistics, I co-developed a procedure to generate mising data in complete datasets. I implemented the procedure in R-function `ampute`, and it is now part of R-package `mice`.
 
 In 2017, I started as an external PhD candidate under supervision of [Gerko Vink](https://www.gerkovink.com) and [Stef van Buuren](https://github.com/stefvanbuuren). I focused my PhD on [The evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) and investigated the effect of missing data on prediction oriented analyses. After a few publications, I decided to give all my time and focus to my current job and put my PhD on-hold.
 
-At Samen Veilig Midden-Nederland (ie. a youth care organization), I have a position as Developer Data & Analytics. It is my job to structure and standardize the analyses of sensitive and highly classified data. On the one hand I take an active part in writing the SQL queries and performing the calculations in R, Logi Analytics and Power BI. On the other hand, I also oversee the system requirements and allocate work to other developers and stakeholders.
+At Samen Veilig Midden-Nederland (i.e. a youth care organization), I have a position as Developer Data & Analytics. It is my job to structure and standardize the analyses of sensitive and highly classified data. On the one hand I take an active part in writing the SQL queries and performing the calculations in R, Logi Analytics and Power BI. On the other hand, I also oversee the system requirements and allocate work to other developers and stakeholders.
 
 All in all, I prefer to learn every day.
 
