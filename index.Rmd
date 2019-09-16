@@ -29,6 +29,8 @@ As a person, I have an open and direct personality and am always eager to learn.
 
 ### Publications
 
+- **Research submitted**: IJsselhof R, Duchateau S, Schouten R, et al. Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. Eur J Cardiothoracic Surg. Date of submission: 19-06-2019.
+
 - Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](pdfs/ArticleAmpute.pdf). Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577
 
 - Schouten, R.M. and Vink, G. (2018). [The dance of the mechanisms: How observed information influences the validity of missingness assumptions](pdfs/TheDance.pdf). Sociological Methods \& Research. DOI: 10.1177/0049124118799376
