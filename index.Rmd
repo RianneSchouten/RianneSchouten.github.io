@@ -94,7 +94,7 @@ In this blogpost, I discuss the results of a simulation study. An interactive pl
 
 - **UPCOMING!!**: R-Ladies Amsterdam, 2nd October 2019
 
-[Sign up here!](https://www.meetup.com/nl-NL/rladies-amsterdam/events/264758006/)
+[Find the material here!](https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop)
 
 **Description**: When you work with data, it is most likely you will encounter missing data. Especially in application-oriented fields, available datasets are almost always incomplete. As most analyses require complete data, what to do with the missing values?
 
@@ -119,7 +119,7 @@ How can I implement missing data methods in my analysis and/or in my pipeline?
 - European Women in Technology 2018
 
 On November 29th, Amsterdam will be the place to be for a [masterclass](https://www.europeanwomenintech.com/agenda) about: 
-Dealing with missing data in R: Amputation or Imputation?
+Dealing with missing data in R: Amputation or Imputation? Find here the [presentation and exercises](https://github.com/RianneSchouten/workshops/tree/master/WomenInTechnology).
 
 - satRDay
 
