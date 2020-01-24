@@ -29,7 +29,9 @@ As a person, I have an open and direct personality and am always eager to learn.
 
 ### Publications
 
-- **Research accepted**: IJsselhof R, Duchateau S, Schouten R, et al. Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. Eur J Cardiothoracic Surg. Date of submission: 19-06-2019.
+- **Research submitted**: IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. Untreated autologous pericardium for ventricular septal defect closure in atrioventricular septal defect repair. World Journal for Pediatric and Congenital Heart Surgery. Date of submission: 15-01-2020.
+
+- **Research accepted**: IJsselhof R, Duchateau S, Schouten R, et al. Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. European Journal of Cardiothoracic Surgery. Date of submission: 19-06-2019.
 
 - Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](pdfs/ArticleAmpute.pdf). Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577
 
@@ -92,29 +94,15 @@ In this blogpost, I discuss the results of a simulation study. An interactive pl
 
 ### Presentations
 
-- **UPCOMING!!**: R-Ladies Amsterdam, 2nd October 2019
+- Workshop R-Ladies Amsterdam, 2nd October 2019
 
-[Find the material here!](https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop)
+[Find the materials here](https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop)
 
-**Description**: When you work with data, it is most likely you will encounter missing data. Especially in application-oriented fields, available datasets are almost always incomplete. As most analyses require complete data, what to do with the missing values?
-
-An often used and easy solution to handle missing data is deleting incomplete rows and/or columns from the dataset. Is this method the most appropriate one, though? What other methods are available and what is their influence on the outcome of the analysis?
-
-The workshop has the following three parts. 
+The workshop covers: 
 
 1.	Missing Values Analysis
-
-What amount and what kind of missing data do I have in my dataset? What are possible reasons/mechanisms underlying the missingness? 
-
 2.	Evaluating Missing Data methods
-
-How do I know whether I choose the right  missing data method? What should I take into account when deciding about a missing data method? 
-
 3.	Implementing Missing Data Methods
-
-How can I implement missing data methods in my analysis and/or in my pipeline?
-
-[Sign up here!](https://www.meetup.com/nl-NL/rladies-amsterdam/events/264758006/)
 
 - European Women in Technology 2018
 
