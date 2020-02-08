@@ -67,7 +67,7 @@ With large datasets or with a high number of imputations, multiple imputation wi
 
 ### Workshops and presentations
 
-#### - Workshop R-Ladies Amsterdam, October 2019
+##### - Workshop R-Ladies Amsterdam, October 2019
 
 [Find the materials here](https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop)
 
@@ -77,28 +77,28 @@ The workshop covers:
 2.	Evaluating Missing Data methods
 3.	Implementing Missing Data Methods
 
-#### - Masterclass @ European Women in Technology, November 2018
+##### - Masterclass @ European Women in Technology, November 2018
 
 Dealing with missing data in R: Amputation or Imputation? Find here the [presentation and exercises](https://github.com/RianneSchouten/workshops/tree/master/WomenInTechnology).
 
-#### - satRDay, September 2018
+##### - satRDay, September 2018
 
 An explanation of missing data mechanisms, missing data patterns and how to 
 generate them with `ampute`. Check the [slides](pdfs/SatRdayRianneSchouten.pdf)
 
-#### - ICT Open, March 2018
+##### - ICT Open, March 2018
 
 Handling Missing Data in Data Science: Simulating the effects of missing data methods and how to present the results in an interactive plot with Github Pages. Read the [abstract](pdfs/abstract_rianne_schouten.pdf) or check the [slides](pdfs/ictopen2018_RianneSchouten.pdf)
 
-#### - Data Science Hackathon, January 2018
+##### - Data Science Hackathon, January 2018
 
 My presentation can be found [here](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf).
 
-#### - useR!2017 Brussels, July 2017
+##### - useR!2017 Brussels, July 2017
 
 My presentation discussed the generation of missing values with `ampute`. A [summary](https://user2017.sched.com/event/AxsS?iframe=no) can be found on the website of the conference. 
 
-#### - Amst-R-Dam
+##### - Amst-R-Dam
 
 A presentation about amputation and how to use `ampute` to do this. 
 
@@ -106,13 +106,13 @@ A presentation about amputation and how to use `ampute` to do this.
 
 ### Other attended conferences 
 
-#### - Big Data Expo, September 2018
+##### - Big Data Expo, September 2018
 
-#### - Women in Technology, November 2017
+##### - Women in Technology, November 2017
 
 The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=CjwKEAjwruPNBRCKkbL9zqKcrHwSJABGDVyIbRE8y7tfRU6cobtIyGOBlg-HI1dfOAbqvssG35vhnxoC0mHw_wcB) Series enables the sector to connect, learn and act on gender diversity by sharing the experiences of industry leaders and developing women's skills, both soft and technical. I wrote a [blogpost](https://www.linkedin.com/pulse/i-want-go-where-am-invited-included-rianne-schouten/) to share my experiences. 
 
-#### - CWI in Bedrijf, May 2017]
+##### - CWI in Bedrijf, May 2017
 
 ---
 
