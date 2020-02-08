@@ -1,7 +1,7 @@
 ---
 title: "Rianne Schouten"
 author: |
-  | Developer Data & Analytics / Missing Data Specialist
+  | PhD Candidate | Exceptional Model Mining | Missing Data
 date: ""
 output: 
   html_document:
@@ -17,13 +17,13 @@ output:
 
 ### Introduction and affiliations
 
-My name is Rianne Schouten and I am an enthusiast about data: datawarehousing, SQL, nice visualisations, statistical techniques, R and mostly: missing data. During a Master's in Methodology and Statistics, I co-developed a procedure to generate mising data in complete datasets. I implemented the procedure in R-function `ampute`, and it is now part of R-package `mice`.
+My name is Rianne and I analyze analysis methods. From 2016 - 2019 I studied the effect of missing data on analysis outcomes. During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function `ampute`. It is part of R-package `mice`.
 
-In 2017, I continued my thesis research as an external researcher under supervision of [dr. Gerko Vink](https://www.gerkovink.com) and [prof. dr. Stef van Buuren](https://github.com/stefvanbuuren). I focused on [The evaluation of missing data methodologies](pdfs/ResearchProposal_RianneSchouten.pdf) and investigated the effect of missing data on prediction oriented analyses. In May 2019, I stopped with my research as it was no longer feasible to combine a job and research.
+Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for problems with heterogeneity and dependent data points. My supervisors are dr. Wouter Duivesteijn and prof. dr. Mykola Pechenizkiy. 
 
-At Samen Veilig Midden-Nederland (i.e. a youth care organization), I have a position as Developer Data & Analytics. It is my job to structure and standardize the analyses of sensitive and highly classified data. On the one hand I take an active part in writing the SQL queries and performing the calculations in R, Logi Analytics and Power BI. On the other hand, I oversee the system requirements and allocate work to other developers and stakeholders.
+It is important to me that my work has a useful application for real world problems. Especially the health care domain has my interest and I co-operated in several medical studies as a statistical advisor. 
 
-As a person, I have an open and direct personality and am always eager to learn. Especially about nice applications of (missing) data analysis.
+If you have questions regarding missing data, statistical techniques, simulation studies or anything else related to data analysis, please contact me. I will try to help or otherwise refer you to someone else who could help.
 
 ---
 
@@ -31,7 +31,7 @@ As a person, I have an open and direct personality and am always eager to learn.
 
 - **Research submitted**: IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. Untreated autologous pericardium for ventricular septal defect closure in atrioventricular septal defect repair. World Journal for Pediatric and Congenital Heart Surgery. Date of submission: 15-01-2020.
 
-- **Research accepted**: IJsselhof R, Duchateau S, Schouten R, et al. Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. European Journal of Cardiothoracic Surgery. Date of submission: 19-06-2019.
+- **Research accepted**: IJsselhof R, Duchateau S, Schouten R, et al. (2019) Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. European Journal of Cardiothoracic Surgery.
 
 - Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](pdfs/ArticleAmpute.pdf). Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577
 
@@ -52,7 +52,7 @@ require(mice)
 ?ampute
 ```
 
-R-function `ampute` is the implementation of a [multivariate amputation procedure](pdfs/ArticleAmpute.pdf). With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. An extensive [vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) is available.
+R-function `ampute` is the implementation of a multivariate amputation procedure: a method to generate missing data in complete datasets. With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read [the article](pdfs/ArticleAmpute.pdf) or [the vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) to know more.
 
 #### 2. `parlMICE` 
 
@@ -61,40 +61,13 @@ require(devtools)
 source_url('https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R')
 ```
 
-With large datasets or with higher number of imputations, performing multiple imputation with `mice` in R-package **mice** might take a long time. As a solution, Gerko Vink and I created wrapper function `parlMICE`. With `parlMICE`, the imputation procedure can be run in parallel. Find all information [in the github repo](https://github.com/RianneSchouten/parlMICE) or read the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html) to know when to use `parlMICE`.
-
-#### 3. `pymice`: `mice` in Python
-
-Although many missing data functions exist in `R`, the collection of missing data functions in `Python` is quite poor. I created the start of a new package which will eventually consist of three parts: missing data exploration, multivariate amputation and multiple imputation. 
-
-At the moment, the package contains class `McarTests`, which consists of two functions to inspect whether the nonresponse has a MCAR missingness mechanism. Little's MCAR test is implemented in `mcar_test` and for each pair of variables, t-tests can be performed with function `mcar_t_tests`. The code can be found in my Github repository called [`pymice`](https://github.com/RianneSchouten/pymice).
-
-The next release of scikit-learn will contain an Iterative Imputer, developed
-by Sergey Feldman. Although the IterativeImputer performs single imputation
-by default, I wrote an example that shows how to use the imputer to perform
-multiple imputation. The example will be in the next release. 
+With large datasets or with a high number of imputations, multiple imputation with `mice` in R-package **mice** may have a long runningn time. As a solution, Gerko Vink and I created wrapper function `parlMICE`. With `parlMICE`, the imputation procedure can be run in parallel. Find all information [in the github repo](https://github.com/RianneSchouten/parlMICE) or read the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html).
 
 ---
 
-### Blogposts
+### Workshops and presentations
 
-- [Missing Data in Data Science: The effect of missing values treatment on the outcome of a regression model](https://rianneschouten.github.io/missing_data_science/assets/blogpost/blogpost.html)
-
-In this blogpost, I discuss the results of a simulation study. An interactive plot enables everyone to inspect and conclude about the results. Click on the plot below to load the interactive plot. 
-
-[![](pdfs/missing_data_blog_chart.png)](https://rianneschouten.github.io/missing_data_science/)
-
-- [Omgaan met missing data](https://www.linkedin.com/pulse/omgaan-met-missing-data-drie-methoden-om-de-dataset-te-schouten/)
-
-- [Inzicht in je missing data](https://www.linkedin.com/pulse/inzicht-je-missing-data-rianne-schouten/)
-
-
-
----
-
-### Presentations
-
-- Workshop R-Ladies Amsterdam, 2nd October 2019
+#### - Workshop R-Ladies Amsterdam, October 2019
 
 [Find the materials here](https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop)
 
@@ -104,53 +77,50 @@ The workshop covers:
 2.	Evaluating Missing Data methods
 3.	Implementing Missing Data Methods
 
-- European Women in Technology 2018
+#### - Masterclass @ European Women in Technology, November 2018
 
-On November 29th, Amsterdam will be the place to be for a [masterclass](https://www.europeanwomenintech.com/agenda) about: 
 Dealing with missing data in R: Amputation or Imputation? Find here the [presentation and exercises](https://github.com/RianneSchouten/workshops/tree/master/WomenInTechnology).
 
-- satRDay
+#### - satRDay, September 2018
 
 An explanation of missing data mechanisms, missing data patterns and how to 
 generate them with `ampute`. Check the [slides](pdfs/SatRdayRianneSchouten.pdf)
 
-- ICT Open 2018
+#### - ICT Open, March 2018
 
 Handling Missing Data in Data Science: Simulating the effects of missing data methods and how to present the results in an interactive plot with Github Pages. Read the [abstract](pdfs/abstract_rianne_schouten.pdf) or check the [slides](pdfs/ictopen2018_RianneSchouten.pdf)
 
-- Data Science Hackathon
+#### - Data Science Hackathon, January 2018
 
-A monthly organized data science hackathon will be about missing data problems. I participate in the organization of the hackathon, will provide the attendants with the necessary knowledge and will give them feedback on their approach. My presentation can be found [here](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf).
+My presentation can be found [here](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf).
 
-- useR!2017 Brussels
+#### - useR!2017 Brussels, July 2017
 
 My presentation discussed the generation of missing values with `ampute`. A [summary](https://user2017.sched.com/event/AxsS?iframe=no) can be found on the website of the conference. 
 
-- Amst-R-Dam 2017
+#### - Amst-R-Dam
 
-A bunch of R-enthusiasts listened to me talking about amputation and how to use `ampute` to do this. 
+A presentation about amputation and how to use `ampute` to do this. 
 
 ---
 
-### Attended conferences 
+### Other attended conferences 
 
-Apart from the ones where I present.
+#### - Big Data Expo, September 2018
 
-- Big Data Expo 2018
-
-- Women in Technology [8 and 9 November, 2017]
+#### - Women in Technology, November 2017
 
 The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=CjwKEAjwruPNBRCKkbL9zqKcrHwSJABGDVyIbRE8y7tfRU6cobtIyGOBlg-HI1dfOAbqvssG35vhnxoC0mHw_wcB) Series enables the sector to connect, learn and act on gender diversity by sharing the experiences of industry leaders and developing women's skills, both soft and technical. I wrote a [blogpost](https://www.linkedin.com/pulse/i-want-go-where-am-invited-included-rianne-schouten/) to share my experiences. 
 
-- CWI in Bedrijf [18 May, 2017]
+#### - CWI in Bedrijf, May 2017]
 
 ---
 
 ### Contact
 
-- Curriculum Vitae in [English](pdfs/Rianne_Schouten_Resume.pdf).
-
-- Email: riannemargarethaschouten\@gmail.com
+- Email: r.m.schouten\@tue.nl
 
 - Also see my [Github](https://github.com/RianneSchouten) or [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
+
+- Curriculum Vitae in [English](pdfs/Rianne_Schouten_Resume.pdf).
 
