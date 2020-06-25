@@ -1598,16 +1598,16 @@ div.tocify {
 <div id="introduction-and-affiliations" class="section level3">
 <h3>Introduction and affiliations</h3>
 <p>My name is Rianne and I analyze analysis methods. From 2016 - 2019 I studied the effect of missing data on analysis outcomes. During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function <code>ampute</code>. It is part of R-package <code>mice</code>.</p>
-<p>Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for problems with heterogeneity and dependent data points. My supervisors are dr. Wouter Duivesteijn and prof. dr. Mykola Pechenizkiy.</p>
-<p>It is important to me that my work has a useful application for real world problems. Especially the health care domain has my interest and I co-operated in several medical studies as a statistical advisor.</p>
+<p>Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are dr. Wouter Duivesteijn and prof. dr. Mykola Pechenizkiy.</p>
+<p>It is important to me that my work can be used for real world problems. Especially the health care domain has my interest and I co-operated in several medical studies as a statistical advisor.</p>
 <p>If you have questions regarding missing data, statistical techniques, simulation studies or anything else related to data analysis, please contact me. I will try to help or otherwise refer you to someone else who could help.</p>
 <hr />
 </div>
 <div id="publications" class="section level3">
 <h3>Publications</h3>
 <ul>
-<li><p><strong>Research submitted</strong>: IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M &amp; Schoof P. Untreated autologous pericardium for ventricular septal defect closure in atrioventricular septal defect repair. World Journal for Pediatric and Congenital Heart Surgery. Date of submission: 15-01-2020.</p></li>
-<li><p><strong>Research accepted</strong>: IJsselhof R, Duchateau S, Schouten R, et al. (2019) Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. European Journal of Cardiothoracic Surgery.</p></li>
+<li><p><strong>Research accepted</strong>: IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M &amp; Schoof P. Untreated autologous pericardium for ventricular septal defect closure in atrioventricular septal defect repair. World Journal for Pediatric and Congenital Heart Surgery. Date of submission: 15-01-2020.</p></li>
+<li><p><strong>In press</strong>: IJsselhof R, Duchateau S, Schouten R, et al. (2019) Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. European Journal of Cardiothoracic Surgery.</p></li>
 <li><p>Rianne Margaretha Schouten, Peter Lugtig &amp; Gerko Vink (2018): <a href="pdfs/ArticleAmpute.pdf">Generating missing values for simulation purposes: A multivariate amputation procedure</a>. Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577</p></li>
 <li><p>Schouten, R.M. and Vink, G. (2018). <a href="pdfs/TheDance.pdf">The dance of the mechanisms: How observed information influences the validity of missingness assumptions</a>. Sociological Methods &amp; Research. DOI: 10.1177/0049124118799376</p></li>
 <li><p>Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. and Breugem, C.C. (2017). <a href="pdfs/CephalometricAnalysis.pdf">Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis</a>. Clinical Oral Investigations, 21, pp. 1801-1810.</p></li>
@@ -1621,13 +1621,13 @@ div.tocify {
 <h4>1. <code>ampute</code> in R-package <strong>mice</strong></h4>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">require</span>(mice)</a>
 <a class="sourceLine" id="cb1-2" title="2">?ampute</a></code></pre></div>
-<p>R-function <code>ampute</code> is the implementation of a multivariate amputation procedure: a method to generate missing data in complete datasets. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read <a href="pdfs/ArticleAmpute.pdf">the article</a> or <a href="https://rianneschouten.github.io/mice_ampute/vignette/ampute.html">the vignette</a> to know more.</p>
+<p>R-function <code>ampute</code> is the implementation of a multivariate amputation procedure: a method to generate missing data in complete datasets. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read <a href="pdfs/ArticleAmpute.pdf">the article</a> or <a href="https://rianneschouten.github.io/mice_ampute/vignette/ampute.html">the vignette</a> to learn more.</p>
 </div>
 <div id="parlmice" class="section level4">
 <h4>2. <code>parlMICE</code></h4>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">require</span>(devtools)</a>
 <a class="sourceLine" id="cb2-2" title="2"><span class="kw">source_url</span>(<span class="st">&#39;https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R&#39;</span>)</a></code></pre></div>
-<p>With large datasets or with a high number of imputations, multiple imputation with <code>mice</code> in R-package <strong>mice</strong> may have a long runningn time. As a solution, Gerko Vink and I created wrapper function <code>parlMICE</code>. With <code>parlMICE</code>, the imputation procedure can be run in parallel. Find all information <a href="https://github.com/RianneSchouten/parlMICE">in the github repo</a> or read the <a href="https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html">vignette</a>.</p>
+<p>With large datasets or with a large number of imputations, multiple imputation with <code>mice</code> in R-package <strong>mice</strong> may have a long running time. As a solution, Gerko Vink and I created wrapper function <code>parlMICE</code>. With <code>parlMICE</code>, the imputation procedure can be run in parallel. Find all information <a href="https://github.com/RianneSchouten/parlMICE">in the github repo</a> or read the <a href="https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html">vignette</a>.</p>
 <hr />
 </div>
 </div>

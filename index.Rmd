@@ -19,9 +19,9 @@ output:
 
 My name is Rianne and I analyze analysis methods. From 2016 - 2019 I studied the effect of missing data on analysis outcomes. During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function `ampute`. It is part of R-package `mice`.
 
-Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for problems with heterogeneity and dependent data points. My supervisors are dr. Wouter Duivesteijn and prof. dr. Mykola Pechenizkiy. 
+Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are dr. Wouter Duivesteijn and prof. dr. Mykola Pechenizkiy. 
 
-It is important to me that my work has a useful application for real world problems. Especially the health care domain has my interest and I co-operated in several medical studies as a statistical advisor. 
+It is important to me that my work can be used for real world problems. Especially the health care domain has my interest and I co-operated in several medical studies as a statistical advisor. 
 
 If you have questions regarding missing data, statistical techniques, simulation studies or anything else related to data analysis, please contact me. I will try to help or otherwise refer you to someone else who could help.
 
@@ -29,9 +29,9 @@ If you have questions regarding missing data, statistical techniques, simulation
 
 ### Publications
 
-- **Research submitted**: IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. Untreated autologous pericardium for ventricular septal defect closure in atrioventricular septal defect repair. World Journal for Pediatric and Congenital Heart Surgery. Date of submission: 15-01-2020.
+- **Research accepted**: IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. Untreated autologous pericardium for ventricular septal defect closure in atrioventricular septal defect repair. World Journal for Pediatric and Congenital Heart Surgery. Date of submission: 15-01-2020.
 
-- **Research accepted**: IJsselhof R, Duchateau S, Schouten R, et al. (2019) Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. European Journal of Cardiothoracic Surgery.
+- **In press**: IJsselhof R, Duchateau S, Schouten R, et al. (2019) Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. European Journal of Cardiothoracic Surgery.
 
 - Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](pdfs/ArticleAmpute.pdf). Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577
 
@@ -52,7 +52,7 @@ require(mice)
 ?ampute
 ```
 
-R-function `ampute` is the implementation of a multivariate amputation procedure: a method to generate missing data in complete datasets. With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read [the article](pdfs/ArticleAmpute.pdf) or [the vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) to know more.
+R-function `ampute` is the implementation of a multivariate amputation procedure: a method to generate missing data in complete datasets. With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read [the article](pdfs/ArticleAmpute.pdf) or [the vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) to learn more.
 
 #### 2. `parlMICE` 
 
@@ -61,7 +61,7 @@ require(devtools)
 source_url('https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R')
 ```
 
-With large datasets or with a high number of imputations, multiple imputation with `mice` in R-package **mice** may have a long runningn time. As a solution, Gerko Vink and I created wrapper function `parlMICE`. With `parlMICE`, the imputation procedure can be run in parallel. Find all information [in the github repo](https://github.com/RianneSchouten/parlMICE) or read the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html).
+With large datasets or with a large number of imputations, multiple imputation with `mice` in R-package **mice** may have a long running time. As a solution, Gerko Vink and I created wrapper function `parlMICE`. With `parlMICE`, the imputation procedure can be run in parallel. Find all information [in the github repo](https://github.com/RianneSchouten/parlMICE) or read the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html).
 
 ---
 
