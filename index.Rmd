@@ -17,7 +17,7 @@ output:
 
 ### Introduction and affiliations
 
-My name is Rianne and I analyze analysis methods. From 2016 - 2019 I studied the effect of missing data on analysis outcomes. During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function `ampute`. It is part of R-package `mice`.
+My name is Rianne and I analyze analysis methods. From 2016 - 2019 I studied the effect of missing data on analysis outcomes. During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function [`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html). It is part of R-package [`mice`](https://github.com/stefvanbuuren/mice).
 
 Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are dr. Wouter Duivesteijn and prof. dr. Mykola Pechenizkiy. 
 
