@@ -17,29 +17,31 @@ output:
 
 ### Introduction and affiliations
 
-My name is Rianne and I analyze analysis methods. From 2016 - 2019 I studied the effect of missing data on analysis outcomes. During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function [`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html). It is part of R-package [`mice`](https://github.com/stefvanbuuren/mice).
+My name is Rianne and I analyze analysis methods. 
 
-Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are dr. Wouter Duivesteijn and prof. dr. Mykola Pechenizkiy. 
+From 2016 - 2019 I studied the effect of missing data on analysis outcomes with [prof dr. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/). During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function [`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html). It is part of R-package [`mice`](https://github.com/stefvanbuuren/mice).
+
+Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. dr. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
 
 I find it important that my work can be used for real world problems. Especially the health care domain has my interest and I co-operated in several medical studies as a statistical advisor. 
 
-If you have questions regarding exceptional model mining, missing data, statistical techniques, simulation studies or anything else related to data analysis, feel free to contact me.
+If you have questions regarding exceptional model mining, missing data, statistical techniques, simulation studies or anything else related to data analysis, feel free to contact me (see below).
 
 ---
 
 ### Publications
 
-- **Research accepted**: IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. Untreated autologous pericardium for ventricular septal defect closure in atrioventricular septal defect repair. World Journal for Pediatric and Congenital Heart Surgery. Date of submission: 15-01-2020.
+- **In press**: IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. Untreated autologous pericardium for ventricular septal defect closure in atrioventricular septal defect repair. World Journal for Pediatric and Congenital Heart Surgery. Date of submission: 15-01-2020.
 
-- **In press**: IJsselhof R, Duchateau S, Schouten R, et al. (2019) Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex. European Journal of Cardiothoracic Surgery.
+- IJsselhof R.J., Duchateau S.D.R., Schouten R.M., Freund, M.W., Heuser, J., Fejzic, Z., Haas, F., Schoof, P.H. & Slieker, M.G. (2019) [Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex.](https://academic.oup.com/ejcts/article-abstract/57/4/644/5607276) European Journal of Cardiothoracic Surgery, 57(4): 644-651.
 
-- Rianne Margaretha Schouten, Peter Lugtig & Gerko Vink (2018): [Generating missing values for simulation purposes: A multivariate amputation procedure](pdfs/ArticleAmpute.pdf). Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577
+- Rianne R.M., Lugtig, P. & Vink, G. (2018) [Generating missing values for simulation purposes: A multivariate amputation procedure.](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577) Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577
 
-- Schouten, R.M. and Vink, G. (2018). [The dance of the mechanisms: How observed information influences the validity of missingness assumptions](pdfs/TheDance.pdf). Sociological Methods \& Research. DOI: 10.1177/0049124118799376
+- Schouten, R.M. and Vink, G. (2018) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions.](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research. DOI: 10.1177/0049124118799376
 
-- Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. and Breugem, C.C. (2017). [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis](pdfs/CephalometricAnalysis.pdf). Clinical Oral Investigations, 21, pp. 1801-1810.
+- Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. & Breugem, C.C. (2017) [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis.](https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis) Clinical Oral Investigations, 21: 1801-1810.
 
-- de Vries, C.P., Schouten, R.M., Van der Kuur, J., Gottardi, L., and Akamatsu, H. (2016, July). [Microcalorimeter pulse analysis by means of principle component decomposition](pdfs/Microcalorimeter_Pulse_Analysis.pdf). In SPIE Astronomical Telescopes+ Instrumentation (pp. 99055I-99055I). International Society for Optics and Photonics.
+- de Vries, C.P., Schouten, R.M., Van der Kuur, J., Gottardi, L., & Akamatsu, H. (2016) [Microcalorimeter pulse analysis by means of principle component decomposition.](https://arxiv.org/abs/1607.00834) Proceedings SPIE 9905, Space TElescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, 99055v. DOI: 10.1117/12.2231627
 
 ---
 
@@ -65,7 +67,7 @@ With large datasets or with a large number of imputations, multiple imputation w
 
 ---
 
-### Workshops and presentations
+### Invited presentations
 
 ##### * Workshop R-Ladies Amsterdam, October 2019
 
@@ -81,7 +83,7 @@ The workshop covers:
 
 Dealing with missing data in R: Amputation or Imputation? Find here the [presentation and exercises](https://github.com/RianneSchouten/workshops/tree/master/WomenInTechnology).
 
-##### * satRDay, September 2018
+##### * sat-R-Day, September 2018
 
 An explanation of missing data mechanisms, missing data patterns and how to 
 generate them with `ampute`. Check the [slides](pdfs/SatRdayRianneSchouten.pdf)
@@ -98,23 +100,9 @@ My presentation can be found [here](pdfs/Data_Science_Hackathon_Rianne_Schouten.
 
 My presentation discussed the generation of missing values with `ampute`. A [summary](https://user2017.sched.com/event/AxsS?iframe=no) can be found on the website of the conference. 
 
-##### * Amst-R-Dam
+##### * Amst-R-Dam 2017
 
 A presentation about amputation and how to use `ampute` to do this. 
-
----
-
-### Other attended conferences 
-
-##### * ICML 2020
-
-##### * Big Data Expo, September 2018
-
-##### * Women in Technology, November 2017
-
-The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=CjwKEAjwruPNBRCKkbL9zqKcrHwSJABGDVyIbRE8y7tfRU6cobtIyGOBlg-HI1dfOAbqvssG35vhnxoC0mHw_wcB) Series enables the sector to connect, learn and act on gender diversity by sharing the experiences of industry leaders and developing women's skills, both soft and technical. I wrote a [blogpost](https://www.linkedin.com/pulse/i-want-go-where-am-invited-included-rianne-schouten/) to share my experiences. 
-
-##### * CWI in Bedrijf, May 2017
 
 ---
 
@@ -122,7 +110,13 @@ The [Women in Technology](http://join.europeanwomenintech.com/technology/?gclid=
 
 - Email: r.m.schouten\@tue.nl
 
-- Also see my [Github](https://github.com/RianneSchouten) or [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
+- Github: [/RianneSchouten](https://github.com/RianneSchouten)
 
-- Curriculum Vitae in [English](pdfs/Rianne_Schouten_Resume.pdf).
+- [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
+
+- [Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3)
+
+- Twitter: [missD_ta](https://twitter.com/missD_ta)
+
+- [Curriculum Vitae](pdfs/Rianne_Schouten_Resume.pdf)
 
