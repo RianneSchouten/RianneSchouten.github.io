@@ -51,7 +51,7 @@ for the Ventricular Component in Atrioventricular Septal Defect Repair. World Jo
 #### 1. `ampute` in R-package **mice**
 
 ```{r, eval = FALSE}
-require(mice)
+library(mice)
 ?ampute
 ```
 
@@ -59,12 +59,16 @@ R-function `ampute` is the implementation of a multivariate amputation procedure
 
 #### 2. `parlMICE` 
 
+For large datasets or with a high number of imputations, multiple imputation with `mice` in R-package **mice** may have a long running time. As a solution, Gerko Vink and I created wrapper function `parlMICE`, which allows for a parallel run of `mice`.
+
+The function is now part of package **mice** under the name `parlmice`.
+
 ```{r, eval = FALSE}
-require(devtools)
-source_url('https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R')
+library(mice)
+?parlmice
 ```
 
-With large datasets or with a large number of imputations, multiple imputation with `mice` in R-package **mice** may have a long running time. As a solution, Gerko Vink and I created wrapper function `parlMICE`. With `parlMICE`, the imputation procedure can be run in parallel. Find all information [in the github repo](https://github.com/RianneSchouten/parlMICE) or read the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html).
+All information can be found [in the github repo](https://github.com/RianneSchouten/parlMICE) or in the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html).
 
 ---
 

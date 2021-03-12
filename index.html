@@ -1620,15 +1620,17 @@ div.tocify {
 <h3>Software development</h3>
 <div id="ampute-in-r-package-mice" class="section level4">
 <h4>1. <code>ampute</code> in R-package <strong>mice</strong></h4>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">require</span>(mice)</a>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">library</span>(mice)</a>
 <a class="sourceLine" id="cb1-2" title="2">?ampute</a></code></pre></div>
 <p>R-function <code>ampute</code> is the implementation of a multivariate amputation procedure: a method to generate missing data in complete datasets. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read <a href="pdfs/ArticleAmpute.pdf">the article</a> or <a href="https://rianneschouten.github.io/mice_ampute/vignette/ampute.html">the vignette</a> to learn more.</p>
 </div>
 <div id="parlmice" class="section level4">
 <h4>2. <code>parlMICE</code></h4>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">require</span>(devtools)</a>
-<a class="sourceLine" id="cb2-2" title="2"><span class="kw">source_url</span>(<span class="st">&#39;https://raw.githubusercontent.com/RianneSchouten/parlMICE/master/parlMICE.R&#39;</span>)</a></code></pre></div>
-<p>With large datasets or with a large number of imputations, multiple imputation with <code>mice</code> in R-package <strong>mice</strong> may have a long running time. As a solution, Gerko Vink and I created wrapper function <code>parlMICE</code>. With <code>parlMICE</code>, the imputation procedure can be run in parallel. Find all information <a href="https://github.com/RianneSchouten/parlMICE">in the github repo</a> or read the <a href="https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html">vignette</a>.</p>
+<p>For large datasets or with a high number of imputations, multiple imputation with <code>mice</code> in R-package <strong>mice</strong> may have a long running time. As a solution, Gerko Vink and I created wrapper function <code>parlMICE</code>, which allows for a parallel run of <code>mice</code>.</p>
+<p>The function is now part of package <strong>mice</strong> under the name <code>parlmice</code>.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">library</span>(mice)</a>
+<a class="sourceLine" id="cb2-2" title="2">?parlmice</a></code></pre></div>
+<p>All information can be found <a href="https://github.com/RianneSchouten/parlMICE">in the github repo</a> or in the <a href="https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html">vignette</a>.</p>
 <hr />
 </div>
 </div>
