@@ -21,7 +21,7 @@ My name is Rianne and I analyze analysis methods.
 
 From 2016 - 2019 I studied the effect of missing data on analysis outcomes with [prof dr. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/). During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function [`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html). It is part of R-package [`mice`](https://github.com/stefvanbuuren/mice).
 
-Currently, I work in the Data Mining group at the TUe and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. dr. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
+Currently, I work in the Data Mining group at Eindhoven University of Technology and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. dr. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
 
 I find it important that my work can be used for real world problems. Especially the health care domain has my interest and I joined as a statistical advisor in several medical studies. From both a missing data and medical point of view, I am interested in Causal Inference as well.
 
