@@ -72,7 +72,7 @@ All information can be found [in the github repo](https://github.com/RianneSchou
 
 ---
 
-### Presentations at conferences and alike
+### Invited presentations
 
 ##### * Workshop R-Ladies Amsterdam, October 2019
 
