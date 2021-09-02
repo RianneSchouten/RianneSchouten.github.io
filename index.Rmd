@@ -20,13 +20,11 @@ output:
 
 My name is Rianne and I analyze analysis methods. 
 
-From 2016 - 2019 I studied missing data methods under supervision of [prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/). During this time, I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function [`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html). It is part of R-package [`mice`](https://github.com/stefvanbuuren/mice).
+I am a PhD Candidate at Eindhoven University of Technology and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
 
-Currently, I am a PhD Candidate and study the Exceptional Model Mining framework work in the Data Mining group at Eindhoven University of Technology. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
+Additionally, I work on Missing Data and Causal Inference methods. Under supervision of [prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/), I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function [`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html). It is part of R-package [`mice`](https://github.com/stefvanbuuren/mice).
 
-I find it important that my work can be used for real-world problems. Especially health care has my interest, and I therefore contributed as a statistical advisor in several medical studies. I study issues regarding causal inference from both a medical and a missing data point of view.
-
-If you have questions regarding exceptional model mining, missing data, causal inference, statistical techniques, simulation studies or anything else related to data analysis, feel free to contact me (see below).
+I find it important that my work can be used for real-world problems, especially those in the health care domain. I furthermore enjoy collaborating on projects where data analysis and pattern mining meet practical problems. Please contact me if you have questions or seek opportunities to work together. 
 
 ---
 
@@ -34,7 +32,7 @@ If you have questions regarding exceptional model mining, missing data, causal i
 
 - [Under Review] Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2021) Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS).
 
-- [In press] Schouten, R.M., de Paula Bueno, M.L., Duivesteijn, W. & Pechenizkiy, M. (2021) Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions. Data Mining and Knowledge Discovery (DAMI): European Conference on  Machine Learning and Principles and Practices of Knowledge Discovery (ECML-PKDD), journal track.
+- [Coming Soon] Schouten, R.M., de Paula Bueno, M.L., Duivesteijn, W. & Pechenizkiy, M. (2021) Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions. Data Mining and Knowledge Discovery (DAMI): European Conference on  Machine Learning and Principles and Practices of Knowledge Discovery (ECML-PKDD), journal track.
 
 - IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. [Long-Term Follow-Up of Pericardium
 for the Ventricular Component in Atrioventricular Septal Defect Repair.](https://pubmed.ncbi.nlm.nih.gov/33164688/) World Journal for Pediatric and Congenital Heart Surgery, 11(6): 742-747.
@@ -75,6 +73,12 @@ library(mice)
 
 All information can be found [in the github repo](https://github.com/RianneSchouten/parlMICE) or in the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html).
 
+#### 3. `pymice`: a mice package in Python
+
+It is my wish that Python-users have access to state-of-the-art missing data methods. Together with [Davina Zamanzadeh](https://github.com/davzaman), I am now developing the amputation part of the package. We are always looking for more collaborators! 
+
+Find the code [here](https://github.com/RianneSchouten/pymice).
+
 ---
 
 ### Invited presentations
@@ -98,6 +102,10 @@ My presentation can be found [here](pdfs/Data_Science_Hackathon_Rianne_Schouten.
 A presentation about amputation and how to use `ampute` to do this. 
 
 ### Contributed presentations
+
+##### * Poster at ECML-PKDD 2021 Satellite Event
+
+Find the poster [here](pdfs/PosterSatelliteEvent_RMSchoutenetal.pdf).
 
 ##### * The Neglected Assumptions in Causal Inference (NACI) workshop at International Conference on Machine Learning (ICML), July 2021
 
