@@ -39,9 +39,9 @@ for the Ventricular Component in Atrioventricular Septal Defect Repair.](https:/
 
 - IJsselhof R.J., Duchateau S.D.R., Schouten R.M., Freund, M.W., Heuser, J., Fejzic, Z., Haas, F., Schoof, P.H. & Slieker, M.G. (2019) [Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex.](https://academic.oup.com/ejcts/article-abstract/57/4/644/5607276) European Journal of Cardiothoracic Surgery, 57(4): 644-651.
 
-- Rianne R.M., Lugtig, P. & Vink, G. (2018) [Generating missing values for simulation purposes: A multivariate amputation procedure.](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577) Journal of Statistical Computation and Simulation, 88(15): 1909-1930. DOI: 10.1080/00949655.2018.1491577
+- Rianne R.M., Lugtig, P. & Vink, G. (2018) [Generating missing values for simulation purposes: A multivariate amputation procedure.](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577) Journal of Statistical Computation and Simulation, 88(15): 1909-1930.
 
-- Schouten, R.M. and Vink, G. (2018) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions.](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research. DOI: 10.1177/0049124118799376
+- Schouten, R.M. and Vink, G. (2018) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions.](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research, 50(3): 1243-1258.
 
 - Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. & Breugem, C.C. (2017) [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis.](https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis) Clinical Oral Investigations, 21: 1801-1810.
 
