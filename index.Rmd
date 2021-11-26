@@ -32,7 +32,7 @@ I find it important that my work can be used for real-world problems, especially
 
 - [Under Review] Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2021) Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS).
 
-- Schouten, R.M., Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2021) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](MiningExceptionalSequences_DAMI_2021.pdf) Data Mining and Knowledge Discovery (DAMI), journal track of European Conference on Machine Learning and Principles and Practices of Knowledge Discovery (ECML-PKDD) 2022.
+- Schouten, R.M., Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2021) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](pdfs/MiningExceptionalSequences_DAMI_2021.pdf) Data Mining and Knowledge Discovery (DAMI), journal track of European Conference on Machine Learning and Principles and Practices of Knowledge Discovery (ECML-PKDD) 2022.
 
 - IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. [Long-Term Follow-Up of Pericardium
 for the Ventricular Component in Atrioventricular Septal Defect Repair.](https://pubmed.ncbi.nlm.nih.gov/33164688/) World Journal for Pediatric and Congenital Heart Surgery, 11(6): 742-747.
