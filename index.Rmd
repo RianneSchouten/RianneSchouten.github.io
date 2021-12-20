@@ -30,7 +30,7 @@ I find it important that my work can be used for real-world problems, especially
 
 ### Publications
 
-- [Under Review] Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2021) Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS).
+- [In press] Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2022) Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS). Siam International Conference on Data Mining (SDM).
 
 - Schouten, R.M., Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2021) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](pdfs/MiningExceptionalSequences_DAMI_2021.pdf) Data Mining and Knowledge Discovery (DAMI), journal track of European Conference on Machine Learning and Principles and Practices of Knowledge Discovery (ECML-PKDD) 2022.
 
