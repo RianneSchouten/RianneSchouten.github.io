@@ -1612,7 +1612,7 @@ div.tocify {
 <li><p>IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M &amp; Schoof P. <a href="https://pubmed.ncbi.nlm.nih.gov/33164688/">Long-Term Follow-Up of Pericardium for the Ventricular Component in Atrioventricular Septal Defect Repair.</a> World Journal for Pediatric and Congenital Heart Surgery, 11(6): 742-747.</p></li>
 <li><p>IJsselhof R.J., Duchateau S.D.R., Schouten R.M., Freund, M.W., Heuser, J., Fejzic, Z., Haas, F., Schoof, P.H. &amp; Slieker, M.G. (2019) <a href="https://academic.oup.com/ejcts/article-abstract/57/4/644/5607276">Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex.</a> European Journal of Cardiothoracic Surgery, 57(4): 644-651.</p></li>
 <li><p>Rianne R.M., Lugtig, P. &amp; Vink, G. (2018) <a href="https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577">Generating missing values for simulation purposes: A multivariate amputation procedure.</a> Journal of Statistical Computation and Simulation, 88(15): 1909-1930.</p></li>
-<li><p>Schouten, R.M. and Vink, G. (2018) <a href="https://journals.sagepub.com/doi/full/10.1177/0049124118799376">The dance of the mechanisms: How observed information influences the validity of missingness assumptions.</a> Sociological Methods &amp; Research, 50(3): 1243-1258.</p></li>
+<li><p>Schouten, R.M. and Vink, G. (2021) <a href="https://journals.sagepub.com/doi/full/10.1177/0049124118799376">The dance of the mechanisms: How observed information influences the validity of missingness assumptions.</a> Sociological Methods &amp; Research, 50(3): 1243-1258.</p></li>
 <li><p>Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. &amp; Breugem, C.C. (2017) <a href="https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis">Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis.</a> Clinical Oral Investigations, 21: 1801-1810.</p></li>
 <li><p>de Vries, C.P., Schouten, R.M., Van der Kuur, J., Gottardi, L., &amp; Akamatsu, H. (2016) <a href="https://arxiv.org/abs/1607.00834">Microcalorimeter pulse analysis by means of principle component decomposition.</a> Proceedings SPIE 9905, Space TElescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, 99055v. DOI: 10.1117/12.2231627</p></li>
 </ul>
@@ -1624,25 +1624,31 @@ div.tocify {
 <h4>1. <code>ampute</code> in R-package <strong>mice</strong></h4>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">library</span>(mice)</a>
 <a class="sourceLine" id="cb1-2" title="2">?ampute</a></code></pre></div>
-<p>R-function <code>ampute</code> is the implementation of a multivariate amputation procedure: a method to generate missing data in complete datasets. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read <a href="pdfs/ArticleAmpute.pdf">the article</a> or <a href="https://rianneschouten.github.io/mice_ampute/vignette/ampute.html">the vignette</a> to learn more.</p>
+<p>R-function <code>ampute</code> is the implementation of a multivariate amputation procedure: a method for generating missing data in complete datasets. With <code>ampute</code>, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read <a href="pdfs/ArticleAmpute.pdf">the article</a> or <a href="https://rianneschouten.github.io/mice_ampute/vignette/ampute.html">the vignette</a> to learn more.</p>
 </div>
 <div id="parlmice" class="section level4">
 <h4>2. <code>parlMICE</code></h4>
-<p>For large datasets or with a high number of imputations, multiple imputation with <code>mice</code> in R-package <strong>mice</strong> may have a long running time. As a solution, Gerko Vink and I created wrapper function <code>parlMICE</code>, which allows for a parallel run of <code>mice</code>.</p>
+<p>For large datasets or when you want to impute with a large number of imputations, multiple imputation with <code>mice</code> in R-package <strong>mice</strong> may have a long run time. As a solution, Gerko Vink and I created wrapper function <code>parlMICE</code>, which allows for a parallel run of <code>mice</code>.</p>
 <p>The function is now part of package <strong>mice</strong> under the name <code>parlmice</code>.</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">library</span>(mice)</a>
 <a class="sourceLine" id="cb2-2" title="2">?parlmice</a></code></pre></div>
 <p>All information can be found <a href="https://github.com/RianneSchouten/parlMICE">in the github repo</a> or in the <a href="https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html">vignette</a>.</p>
 </div>
-<div id="pymice-a-mice-package-in-python" class="section level4">
-<h4>3. <code>pymice</code>: a mice package in Python</h4>
-<p>It is my wish that Python-users have access to state-of-the-art missing data methods. Together with <a href="https://github.com/davzaman">Davina Zamanzadeh</a>, I am now developing the amputation part of the package. We are always looking for more collaborators!</p>
-<p>Find the code <a href="https://github.com/RianneSchouten/pymice">here</a>.</p>
+<div id="pyampute-the-first-python-library-for-data-amputation" class="section level4">
+<h4>3. <code>pyampute</code>: the first Python library for data amputation</h4>
+<p>Library <code>pyampute</code> provides the multivariate amputation methodology to the Python community, and it does more. It has improved default settings, allows for a combined MAR+MNAR mechanism, for custom probability functions and since it is compatible with scikit-learn’s <code>fit</code> and <code>transform</code> paradigm, seamless integration in data processing pipelines becomes easy.</p>
+<p>Find plenty of examples in <a href="https://rianneschouten.github.io/pyampute/build/html/index.html"><code>pyampute</code>’s documentation</a>. Install using pip or from source:</p>
+<pre><code>pip install pyampute</code></pre>
+<pre><code>git clone https://github.com/RianneSchouten/pyampute.git
+pip install ./pyampute</code></pre>
 <hr />
 </div>
 </div>
 <div id="invited-presentations" class="section level3">
 <h3>Invited presentations</h3>
+<div id="eaisi-eindhoven-november-2021" class="section level5">
+<h5>* EAISI Eindhoven, November 2021</h5>
+</div>
 <div id="workshop-r-ladies-amsterdam-october-2019" class="section level5">
 <h5>* Workshop R-Ladies Amsterdam, October 2019</h5>
 <p><a href="https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop">Find the materials here</a></p>

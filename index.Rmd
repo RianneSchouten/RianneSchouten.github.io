@@ -41,7 +41,7 @@ for the Ventricular Component in Atrioventricular Septal Defect Repair.](https:/
 
 - Rianne R.M., Lugtig, P. & Vink, G. (2018) [Generating missing values for simulation purposes: A multivariate amputation procedure.](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577) Journal of Statistical Computation and Simulation, 88(15): 1909-1930.
 
-- Schouten, R.M. and Vink, G. (2018) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions.](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research, 50(3): 1243-1258.
+- Schouten, R.M. and Vink, G. (2021) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions.](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research, 50(3): 1243-1258.
 
 - Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. & Breugem, C.C. (2017) [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis.](https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis) Clinical Oral Investigations, 21: 1801-1810.
 
@@ -58,11 +58,11 @@ library(mice)
 ?ampute
 ```
 
-R-function `ampute` is the implementation of a multivariate amputation procedure: a method to generate missing data in complete datasets. With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read [the article](pdfs/ArticleAmpute.pdf) or [the vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) to learn more.
+R-function `ampute` is the implementation of a multivariate amputation procedure: a method for generating missing data in complete datasets. With `ampute`, it is straightforward to generate missing values in multiple variables, with different missing data proportions and varying underlying missingness mechanisms. Read [the article](pdfs/ArticleAmpute.pdf) or [the vignette](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) to learn more.
 
 #### 2. `parlMICE` 
 
-For large datasets or with a high number of imputations, multiple imputation with `mice` in R-package **mice** may have a long running time. As a solution, Gerko Vink and I created wrapper function `parlMICE`, which allows for a parallel run of `mice`.
+For large datasets or when you want to impute with a large number of imputations, multiple imputation with `mice` in R-package **mice** may have a long run time. As a solution, Gerko Vink and I created wrapper function `parlMICE`, which allows for a parallel run of `mice`.
 
 The function is now part of package **mice** under the name `parlmice`.
 
@@ -73,15 +73,26 @@ library(mice)
 
 All information can be found [in the github repo](https://github.com/RianneSchouten/parlMICE) or in the [vignette](https://www.gerkovink.com/parlMICE/Vignette_parlMICE.html).
 
-#### 3. `pymice`: a mice package in Python
+#### 3. `pyampute`: the first Python library for data amputation
 
-It is my wish that Python-users have access to state-of-the-art missing data methods. Together with [Davina Zamanzadeh](https://github.com/davzaman), I am now developing the amputation part of the package. We are always looking for more collaborators! 
+Library `pyampute` provides the multivariate amputation methodology to the Python community, and it does more. It has improved default settings, allows for a combined MAR+MNAR mechanism, for custom probability functions and since it is compatible with scikit-learn's `fit` and `transform` paradigm, seamless integration in data processing pipelines becomes easy. 
 
-Find the code [here](https://github.com/RianneSchouten/pymice).
+Find plenty of examples in [`pyampute`'s documentation](https://rianneschouten.github.io/pyampute/build/html/index.html). Install using pip or from source:
+
+```
+pip install pyampute
+```
+
+```
+git clone https://github.com/RianneSchouten/pyampute.git
+pip install ./pyampute
+```
 
 ---
 
 ### Invited presentations
+
+##### * EAISI Eindhoven, November 2021
 
 ##### * Workshop R-Ladies Amsterdam, October 2019
 
