@@ -30,9 +30,11 @@ I find it important that my work can be used for real-world problems, especially
 
 ### Publications
 
-- [In press] Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2022) Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS). Siam International Conference on Data Mining (SDM).
+- [In press] Van der Haar, J.F., Nagelkerken, S.C., Smit, I.G., van Straaten, K., Tack, J.A., Schouten, R.M. & Duivesteijn, W. (2022) Efficient Subgroup Discovery Through Auto-Encoding. In: Proceedings of Intelligent Data Analysis (IDA).
 
-- Schouten, R.M., Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2021) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](pdfs/MiningExceptionalSequences_DAMI_2021.pdf) Data Mining and Knowledge Discovery (DAMI), journal track of European Conference on Machine Learning and Principles and Practices of Knowledge Discovery (ECML-PKDD) 2022.
+- [In press] Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2022) Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS). In: Proceedings of SIAM International Conference on Data Mining (SDM).
+
+- Schouten, R.M., Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2022) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](pdfs/MiningExceptionalSequences_DAMI_2022.pdf) Data Mining and Knowledge Discovery (DAMI), 36: 379-413.
 
 - IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. [Long-Term Follow-Up of Pericardium
 for the Ventricular Component in Atrioventricular Septal Defect Repair.](https://pubmed.ncbi.nlm.nih.gov/33164688/) World Journal for Pediatric and Congenital Heart Surgery, 11(6): 742-747.
