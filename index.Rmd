@@ -32,7 +32,7 @@ I find it important that my work can be used for real-world problems, especially
 
 - Van der Haar, J.F., Nagelkerken, S.C., Smit, I.G., van Straaten, K., Tack, J.A., Schouten, R.M. & Duivesteijn, W. (2022) [Efficient Subgroup Discovery Through Auto-Encoding.](pdfs/2022_vdHaar_AE.pdf) In: Proceedings of the 20th International Symposium on Intelligent Data Analysis (IDA), pp. 327-340.
 
-- Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2022) Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS). In: Proceedings of SIAM International Conference on Data Mining (SDM), to appear.
+- Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2022) [Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS)](pdfs/2022_Schouten_EMMRCS.pdf). In: Proceedings of SIAM International Conference on Data Mining (SDM), pp. 585-593.
 
 - Schouten, R.M., Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2022) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](pdfs/MiningExceptionalSequences_DAMI_2022.pdf) Data Mining and Knowledge Discovery (DAMI), 36: 379-413.
 
