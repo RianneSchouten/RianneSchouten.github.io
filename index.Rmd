@@ -2,7 +2,7 @@
 title: "Rianne Schouten"
 subtitle: "PhD Candidate"
 author: |
-  | Exceptional Model Mining | Missing Data | Causal Inference
+  | Pattern Mining | Exceptional Model Mining | Missing Data 
 date: ""
 output: 
   html_document:
@@ -18,13 +18,15 @@ output:
 
 ### Introduction and affiliations
 
-My name is Rianne and I analyze analysis methods. 
+My name is Rianne and I develop data analysis methods.
 
 I am a PhD Candidate at Eindhoven University of Technology and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
 
-Additionally, I work on Missing Data and Causal Inference methods. Under supervision of [prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/), I co-developed a procedure to generate missing data in complete datasets and implemented the method in R-function [`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html). It is part of R-package [`mice`](https://github.com/stefvanbuuren/mice).
+Additionally, I work on Missing Data methods, particularly the process of generating missing values in complete datasets. Under supervision of [prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/), I developed a multivariate amputation procedure and implemented the method in an R-function ([`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) in package [`mice`](https://github.com/stefvanbuuren/mice)) and python module ([`pyampute`](https://rianneschouten.github.io/pyampute/build/html/index.html)).
 
-I find it important that my work can be used for real-world problems, especially those in the health care domain. I furthermore enjoy collaborating on projects where data analysis and pattern mining meet practical problems. Please contact me if you have questions or seek opportunities to work together. 
+I find it important that my work can be used for real-world problems (e.g. in health care) and enjoy collaborating on projects. Please contact me if you have questions or seek opportunities to work together. 
+
+Below you will find overviews of and links to [Publications], [Awards], [Software development], [Teaching activities], [Supervision], [Review activities], [Presentations], [Personal development], and [Contact details]
 
 ---
 
@@ -48,6 +50,16 @@ for the Ventricular Component in Atrioventricular Septal Defect Repair.](https:/
 - Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. & Breugem, C.C. (2017) [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis.](https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis) Clinical Oral Investigations, 21: 1801-1810.
 
 - de Vries, C.P., Schouten, R.M., Van der Kuur, J., Gottardi, L., & Akamatsu, H. (2016) [Microcalorimeter pulse analysis by means of principle component decomposition.](https://arxiv.org/abs/1607.00834) Proceedings SPIE 9905, Space TElescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, 99055v. DOI: 10.1117/12.2231627
+
+---
+
+### Awards
+
+1. Performance bonus for 2021
+
+> "Beside your overall excellent performance in your PhD research and EDIC project execution, you did an excellent job in project management of EDIC, and in setting up new successful collaborations. You helped a lot with the Research Topics in Data Mining course, and supervision of students."
+
+2. Pluim for Excellent course evaluation *Research Topics in Data Mining* 2021\/2022
 
 ---
 
@@ -90,60 +102,68 @@ git clone https://github.com/RianneSchouten/pyampute.git
 pip install ./pyampute
 ```
 
----
+--- 
 
-### Invited presentations
+### Teaching activities
 
-##### * EAISI Eindhoven, November 2021
+During my time at TU\/e, I have taught in the following courses.
 
-##### * Workshop R-Ladies Amsterdam, October 2019
+|Year|Course|Level|Activities|
+|----|------|------|------------|
+|20\/21|2AMM20 Foundations of Data Mining|MSc|Taught 2 lectures about Missing Data, provided answers in weekly Q\&A, developed practice questions for exam, administrative activities|
+|21\/22|2AMM20 Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 7 groups of students during research project|
+|22\/23|2AMM20 Research Topics in Data Mining|MSc||
 
-[Find the materials here](https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop)
-
-The workshop covers: 
-
-1.	Missing Values Analysis
-2.	Evaluating Missing Data methods
-3.	Implementing Missing Data Methods
-
-##### * Data Science Hackathon, January 2018
-
-My presentation can be found [here](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf).
-
-##### * Amst-R-Dam 2017
-
-A presentation about amputation and how to use `ampute` to do this. 
-
-### Contributed presentations
-
-##### * Poster at ECML-PKDD 2021 Satellite Event
-
-Find the poster [here](pdfs/PosterSatelliteEvent_RMSchoutenetal.pdf).
-
-##### * The Neglected Assumptions in Causal Inference (NACI) workshop at International Conference on Machine Learning (ICML), July 2021
-
-Find the poster [here](pdfs/NACI_Poster_RMSchouten.pdf).
-
-##### * Masterclass @ European Women in Technology, November 2018
-
-Dealing with missing data in R: Amputation or Imputation? Find here the [presentation and exercises](https://github.com/RianneSchouten/workshops/tree/master/WomenInTechnology).
-
-##### * sat-R-Day, September 2018
-
-An explanation of missing data mechanisms, missing data patterns and how to 
-generate them with `ampute`. Check the [slides](pdfs/SatRdayRianneSchouten.pdf)
-
-##### * ICT Open, March 2018
-
-Handling Missing Data in Data Science: Simulating the effects of missing data methods and how to present the results in an interactive plot with Github Pages. Read the [abstract](pdfs/abstract_rianne_schouten.pdf) or check the [slides](pdfs/ictopen2018_RianneSchouten.pdf)
-
-##### * useR!2017 Brussels, July 2017
-
-My presentation discussed the generation of missing values with `ampute`. A [summary](https://user2017.sched.com/event/AxsS?iframe=no) can be found on the website of the conference. 
+During my time at UU, I have taught lectures in 2 summerschool courses in 2015 and 2016. The courses are at an Advanced Master level: [Survey Research: Design, Implementation and Data Processing](https://utrechtsummerschool.nl/courses/social-sciences/survey-research-design-implementation-and-data-processing) and [Survey Research: Statistical Analysis and Estimation](https://utrechtsummerschool.nl/courses/social-sciences/survey-research-statistical-analysis-and-estimation).
 
 ---
 
-### Contact
+### Supervision
+
+During my time at TU\/e, I have supervised the following students. 
+
+|Year|Student|Type|Topic|
+|----|------|------|------------|
+|20\/21|Bart van Dooren|MSc Thesis with Philips|Predicting Cardiovascular Risk with Objective Physical Activity Measurements|
+|21\/22|Mats Verbraak|Research Proposal|Handling Missing Data in the Prediction Domain using Multiple Imputation|
+|21\/22|Isabel van den Heuvel|Research Proposal|Equivalence Testing for Developing Fair Machine Learning Algorithms|
+|21\/22|Varun Kamat|Internship at Signify|Recommendation Tool for Component Database|
+|21\/22|Mika van Loon|MSc Thesis||
+---
+
+### Review activities
+
+With help from my supervisors, I have reviewed for Data Mining and Knowledge Discovery (DAMI) and the journal track of ECMLPKDD 2020 (Machine Learning).
+
+---
+
+### Presentations
+
+|Year|Occasion|Type|Topic|Link to materials|
+|----|------|------|------------|----|
+|2021|Neglected Assumptions in Causal Inference (NACI) workshop at ICML|Contribution|Understanding the Role of Prognostic Factors and Effect Modifiers in Heterogeneity of Treatment Effect using a Within-Subjects Analysis of Variance|[link](pdfs/NACI_Poster_RMSchouten.pdf)|
+|2021|EAISI Eindhoven|Contribution to seminar|Towards a better understanding of exceptional lifestyle behaviour||
+|2021|ECMLPKDD|Poster at conference|Mining Sequences with Exceptional Transition Behaviour of Varying Order|[link](pdfs/PosterSatelliteEvent_RMSchoutenetal.pdf)|
+|2019|Workshop R-Ladies Amsterdam|Invited presentation at seminar|Developed and presented a workshop about analysis of missing values, evaluation and implementation of missing data methods|[link](https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop)|
+|2018|ICT Open|Contribution to 1-day conference|Handling Missing Data in Data Science|[link](pdfs/ictopen2018_RianneSchouten.pdf)|
+|2018|European Women in Technology|Masterclass at conference|Dealing with missing data in `R`: Amputation or Imputation?|[presentation and exercises](https://github.com/RianneSchouten/workshops/tree/master/WomenInTechnology)|
+|2018|sat-R-Day|Contribution to 1-day conference|Missing data|[link](pdfs/SatRdayRianneSchouten.pdf)|
+|2018|Data Science Hackathon|By invitation|Developed and lead a missing data challenge|[link](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf)|
+|2017|Amst-R-Dam|Contribution to seminar|How to use R-function `ampute` to generate missing values in complete datasets|[article](pdfs/ArticleAmpute.pdf) and [documentation](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html)|
+|2017|UseR!2017|Contribution to conference|Introduction to multivariate amputation with `ampute`||
+
+---
+
+### Personal development
+
+To develop myself as a teacher, I am participating in the University Teaching Qualification (UTQ) Training Program.
+
+Other courses that I participated in are Project management (PROOF TU/e 2020), Introduction to Process Mining (Fluxicon, 2020), Learning and Reasoning (SIKS, 2021) and Communication Styles (PROOF TU/e 2021).
+
+
+---
+
+### Contact details
 
 - Email: r.m.schouten\@tue.nl
 
