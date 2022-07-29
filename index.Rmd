@@ -91,7 +91,9 @@ All information can be found [in the github repo](https://github.com/RianneSchou
 
 Library `pyampute` provides the multivariate amputation methodology to the Python community, and it does more. It has improved default settings, allows for a combined MAR+MNAR mechanism, for custom probability functions and since it is compatible with scikit-learn's `fit` and `transform` paradigm, seamless integration in data processing pipelines becomes easy. 
 
-Find plenty of examples in [`pyampute`'s documentation](https://rianneschouten.github.io/pyampute/build/html/index.html). Install using pip or from source:
+Find plenty of examples in [`pyampute`'s documentation](https://rianneschouten.github.io/pyampute/build/html/index.html). Davina's presentation at SciPy22 can be found [here](https://www.youtube.com/watch?v=iI0gx52ucMA&t=25560s).
+
+Install using pip or from source:
 
 ```
 pip install pyampute
