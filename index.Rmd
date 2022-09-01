@@ -32,9 +32,9 @@ Below you will find overviews of and links to [Publications], [Awards], [Softwar
 
 ### Publications
 
-- [In press] Verhaegh, Ruben F.A., Kiezebrink, Jacco J.E., Nusteling, Frank, Rio, Arnaud W.A., Bendicsek, Marton B., Duivesteijn, Wouter & Schouten, Rianne M. (2022) A Clustering-inspired Quality Measure for Exceptional Preferences Mining — Design Choices and Consequences. In: Proceedings of the International Conference on Discovery Science (DS).
+- [In press] Verhaegh, Ruben F.A., Kiezebrink, Jacco J.E., Nusteling, Frank, Rio, Arnaud W.A., Bendicsek, Marton B., Duivesteijn, Wouter & Schouten, Rianne M. (2022) [A Clustering-inspired Quality Measure for Exceptional Preferences Mining — Design Choices and Consequences](pdfs/2022_Verhaegh_EPM.pdf). In: Proceedings of the International Conference on Discovery Science (DS).
 
-- Schouten, Rianne. M., Zamanzadeh, Davina & Singh, Prabhant (2022) [Pyampute: a Python library for data amputation](https://rianneschouten.github.io/pyampute/build/html/index.html). [https://doi.org/10.25080/majora-212e5952-03e](https://doi.org/10.25080/majora-212e5952-03e).
+- Schouten, Rianne. M., Zamanzadeh, Davina & Singh, Prabhant (2022) [Pyampute: a Python library for data amputation](https://rianneschouten.github.io/pyampute/build/html/index.html). Zenodo.  [https://doi.org/10.25080/majora-212e5952-03e](https://doi.org/10.25080/majora-212e5952-03e).
 
 - Van der Haar, J.F., Nagelkerken, S.C., Smit, I.G., van Straaten, K., Tack, J.A., Schouten, R.M. & Duivesteijn, W. (2022) [Efficient Subgroup Discovery Through Auto-Encoding.](pdfs/2022_vdHaar_AE.pdf) In: Proceedings of the 20th International Symposium on Intelligent Data Analysis (IDA), pp. 327-340.
 
@@ -124,7 +124,7 @@ During my time at UU, I have taught lectures in 2 summerschool courses in 2015 a
 
 ---
 
-### Supervision
+### Supervision activities
 
 During my time at TU\/e, I have supervised the following students. 
 
