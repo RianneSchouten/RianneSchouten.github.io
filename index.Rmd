@@ -26,34 +26,34 @@ Additionally, I work on Missing Data methods, particularly the process of genera
 
 I find it important that my work can be used for real-world problems (e.g. in health care) and enjoy collaborating on projects. Please contact me if you have questions or seek opportunities to work together. 
 
-Below you will find overviews of and links to [Publications], [Awards], [Software development], [Teaching activities], [Supervision], [Review activities], [Presentations], [Personal development], and [Contact details]
+Below you will find overviews of and links to [Publications], [Awards], [Software development], [Teaching activities], [Supervision activities], [Review activities], [Grants], [Presentations], [Personal development], and [Contact details]
 
 ---
 
 ### Publications
 
-- [In press] Verhaegh, Ruben F.A., Kiezebrink, Jacco J.E., Nusteling, Frank, Rio, Arnaud W.A., Bendicsek, Marton B., Duivesteijn, Wouter & Schouten, Rianne M. (2022) [A Clustering-inspired Quality Measure for Exceptional Preferences Mining — Design Choices and Consequences](pdfs/2022_Verhaegh_EPM.pdf). In: Proceedings of the International Conference on Discovery Science (DS).
+- Verhaegh, Ruben F.A., Kiezebrink, Jacco J.E., Nusteling, Frank, Rio, Arnaud W.A., Bendicsek, Marton B., Duivesteijn, Wouter & **Schouten, Rianne M.** (2022) [A Clustering-inspired Quality Measure for Exceptional Preferences Mining — Design Choices and Consequences](pdfs/2022_Verhaegh_EPM.pdf). In: Proceedings of the International Conference on Discovery Science (DS), pp. 429–444.
 
-- Schouten, Rianne. M., Zamanzadeh, Davina & Singh, Prabhant (2022) [Pyampute: a Python library for data amputation](https://rianneschouten.github.io/pyampute/build/html/index.html). Zenodo.  [https://doi.org/10.25080/majora-212e5952-03e](https://doi.org/10.25080/majora-212e5952-03e).
+- **Schouten, Rianne. M.**, Zamanzadeh, Davina & Singh, Prabhant (2022) [Pyampute: a Python library for data amputation](https://rianneschouten.github.io/pyampute/build/html/index.html). Zenodo.  [https://doi.org/10.25080/majora-212e5952-03e](https://doi.org/10.25080/majora-212e5952-03e).
 
-- Van der Haar, J.F., Nagelkerken, S.C., Smit, I.G., van Straaten, K., Tack, J.A., Schouten, R.M. & Duivesteijn, W. (2022) [Efficient Subgroup Discovery Through Auto-Encoding.](pdfs/2022_vdHaar_AE.pdf) In: Proceedings of the 20th International Symposium on Intelligent Data Analysis (IDA), pp. 327-340.
+- Van der Haar, J.F., Nagelkerken, S.C., Smit, I.G., van Straaten, K., Tack, J.A., **Schouten, R.M.** & Duivesteijn, W. (2022) [Efficient Subgroup Discovery Through Auto-Encoding.](pdfs/2022_vdHaar_AE.pdf) In: Proceedings of the 20th International Symposium on Intelligent Data Analysis (IDA), pp. 327-340.
 
-- Schouten, R.M., Duivesteijn, W. & Pechenizkiy, M. (2022) [Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS)](pdfs/2022_Schouten_EMMRCS.pdf). In: Proceedings of SIAM International Conference on Data Mining (SDM), pp. 585-593.
+- **Schouten, R.M.**, Duivesteijn, W. & Pechenizkiy, M. (2022) [Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS)](pdfs/2022_Schouten_EMMRCS.pdf). In: Proceedings of SIAM International Conference on Data Mining (SDM), pp. 585-593.
 
-- Schouten, R.M., Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2022) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](pdfs/MiningExceptionalSequences_DAMI_2022.pdf) Data Mining and Knowledge Discovery (DAMI), 36: 379-413.
+- **Schouten, R.M.**, Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2022) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](pdfs/MiningExceptionalSequences_DAMI_2022.pdf) Data Mining and Knowledge Discovery (DAMI), 36: 379-413.
 
-- IJsselhof R, Duchateau S, Schouten R, Slieker M, Hazekamp M & Schoof P. [Long-Term Follow-Up of Pericardium
+- IJsselhof R, Duchateau S, **Schouten R.M.**, Slieker M, Hazekamp M & Schoof P. [Long-Term Follow-Up of Pericardium
 for the Ventricular Component in Atrioventricular Septal Defect Repair.](https://pubmed.ncbi.nlm.nih.gov/33164688/) World Journal for Pediatric and Congenital Heart Surgery, 11(6): 742-747.
 
-- IJsselhof R.J., Duchateau S.D.R., Schouten R.M., Freund, M.W., Heuser, J., Fejzic, Z., Haas, F., Schoof, P.H. & Slieker, M.G. (2019) [Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex.](https://academic.oup.com/ejcts/article-abstract/57/4/644/5607276) European Journal of Cardiothoracic Surgery, 57(4): 644-651.
+- IJsselhof R.J., Duchateau S.D.R., **Schouten R.M.**, Freund, M.W., Heuser, J., Fejzic, Z., Haas, F., Schoof, P.H. & Slieker, M.G. (2019) [Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex.](https://academic.oup.com/ejcts/article-abstract/57/4/644/5607276) European Journal of Cardiothoracic Surgery, 57(4): 644-651.
 
-- Rianne R.M., Lugtig, P. & Vink, G. (2018) [Generating missing values for simulation purposes: A multivariate amputation procedure.](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577) Journal of Statistical Computation and Simulation, 88(15): 1909-1930.
+- **Schouten R.M.**, Lugtig, P. & Vink, G. (2018) [Generating missing values for simulation purposes: A multivariate amputation procedure.](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577) Journal of Statistical Computation and Simulation, 88(15): 1909-1930.
 
-- Schouten, R.M. and Vink, G. (2021) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions.](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research, 50(3): 1243-1258.
+- **Schouten, R.M.** and Vink, G. (2021) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions.](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research, 50(3): 1243-1258.
 
-- Kappen, I.F.P.M., Bittermann, G.K.P., Schouten, R.M., Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. & Breugem, C.C. (2017) [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis.](https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis) Clinical Oral Investigations, 21: 1801-1810.
+- Kappen, I.F.P.M., Bittermann, G.K.P., **Schouten, R.M.**, Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. & Breugem, C.C. (2017) [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis.](https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis) Clinical Oral Investigations, 21: 1801-1810.
 
-- de Vries, C.P., Schouten, R.M., Van der Kuur, J., Gottardi, L., & Akamatsu, H. (2016) [Microcalorimeter pulse analysis by means of principle component decomposition.](https://arxiv.org/abs/1607.00834) Proceedings SPIE 9905, Space TElescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, 99055v. DOI: 10.1117/12.2231627
+- de Vries, C.P., **Schouten, R.M.**, Van der Kuur, J., Gottardi, L., & Akamatsu, H. (2016) [Microcalorimeter pulse analysis by means of principle component decomposition.](https://arxiv.org/abs/1607.00834) Proceedings SPIE 9905, Space TElescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, 99055v. DOI: 10.1117/12.2231627
 
 ---
 
@@ -118,7 +118,7 @@ During my time at TU\/e, I have taught in the following courses.
 |----|------|------|------------|
 |20\/21|2AMM20 Foundations of Data Mining|MSc|Taught 2 lectures about Missing Data, provided answers in weekly Q\&A, developed practice questions for exam, administrative activities|
 |21\/22|2AMM20 Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 7 groups of students during research project|
-|22\/23|2AMM20 Research Topics in Data Mining|MSc||
+|22\/23|2AMM20 Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 4 groups of students during research project|
 
 During my time at UU, I have taught lectures in 2 summerschool courses in 2015 and 2016. The courses are at an Advanced Master level: [Survey Research: Design, Implementation and Data Processing](https://utrechtsummerschool.nl/courses/social-sciences/survey-research-design-implementation-and-data-processing) and [Survey Research: Statistical Analysis and Estimation](https://utrechtsummerschool.nl/courses/social-sciences/survey-research-statistical-analysis-and-estimation).
 
@@ -134,12 +134,21 @@ During my time at TU\/e, I have supervised the following students.
 |21\/22|Mats Verbraak|Research Proposal|Handling Missing Data in the Prediction Domain using Multiple Imputation|
 |21\/22|Isabel van den Heuvel|Research Proposal|Equivalence Testing for Developing Fair Machine Learning Algorithms|
 |21\/22|Varun Kamat|Internship at Signify|Recommendation Tool for Component Database|
-|21\/22|Mika van Loon|MSc Thesis||
+|21\/22|Mika van Loon|MSc Thesis|Bootstrap Hypothesis Tests for Evaluating Subgroup Descriptions in Exceptional Model Mining|
+|22\/23|Victoria Tascau|MSc Thesis|Handling Missing Values in Longitudinal Medical Data|
 ---
 
 ### Review activities
 
 With help from my supervisors, I have reviewed for Data Mining and Knowledge Discovery (DAMI) and the journal track of ECMLPKDD 2020 (Machine Learning).
+
+---
+
+### Grants
+
+|Year|Call|Type|Title|Together with|
+|----|------|------|------------|-------------------------------|
+|2022|AI for Health EWUU Alliance|EUR 45k seed money|Better Imputation by Generative Adversarial NeTworks (BIGANT)|Prof.dr.Stef van Buuren, dr. Gerko Vink, Hanne Oberman, Prof.dr. Mykola Pechenizkiy, Prof.dr. Cassio de Campos, **Rianne Schouten**, Prof.dr. Daniel Oberski, dr. Thomas Debray, prof.dr. Fred van Eeuwijk|
 
 ---
 
