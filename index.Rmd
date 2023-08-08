@@ -32,7 +32,10 @@ Below you will find overviews of and links to [Publications], [Awards], [Softwar
 
 ### Publications
 
-- Verhaegh, Ruben F.A., Kiezebrink, Jacco J.E., Nusteling, Frank, Rio, Arnaud W.A., Bendicsek, Marton B., Duivesteijn, Wouter & **Schouten, Rianne M.** (2022) [A Clustering-inspired Quality Measure for Exceptional Preferences Mining — Design Choices and Consequences](pdfs/2022_Verhaegh_EPM.pdf). In: Proceedings of the International Conference on Discovery Science (DS), pp. 429–444.
+- **Schouten, Rianne M**, Victoria Tascau, Gabriel G. Ziegler, Davide Casano,
+Marco Ardizzone, and Michael-Angelos Erotokritou (2023) [Dropping incomplete records is (not so) straightforward](pdfs/2023_Schouten_MD.pdf). In: Proceedings of the 21st International Symposium on Intelligent Data Analysis (IDA), pp. 379-391.
+
+- Verhaegh, Ruben F.A., Jacco J.E. Kiezebrink, Frank Nusteling, Arnaud W.A. Rio, Marton B. Bendicsek, Wouter Duivesteijn & **Rianne M. Schouten** (2022) [A Clustering-inspired Quality Measure for Exceptional Preferences Mining — Design Choices and Consequences](pdfs/2022_Verhaegh_EPM.pdf). In: Proceedings of the International Conference on Discovery Science (DS), pp. 429–444.
 
 - **Schouten, Rianne. M.**, Zamanzadeh, Davina & Singh, Prabhant (2022) [Pyampute: a Python library for data amputation](https://rianneschouten.github.io/pyampute/build/html/index.html). Zenodo.  [https://doi.org/10.25080/majora-212e5952-03e](https://doi.org/10.25080/majora-212e5952-03e).
 
