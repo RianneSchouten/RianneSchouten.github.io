@@ -14,13 +14,18 @@ output:
     highlight: tango
 ---
 
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"photo.jpg\" style=\"float: right;width: 250px;\"/>')
+   });
+</script>
+
 ---
 
 ### Introduction and affiliations
 
-My name is Rianne and I develop data analysis methods.
-
-I am a PhD Candidate at Eindhoven University of Technology and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
+My name is Rianne and I develop data analysis methods. I am a PhD Candidate at Eindhoven University of Technology and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
 
 Additionally, I work on Missing Data methods, particularly the process of generating missing values in complete datasets. Under supervision of [prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/), I developed a multivariate amputation procedure and implemented the method in an R-function ([`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) in package [`mice`](https://github.com/stefvanbuuren/mice)) and python module ([`pyampute`](https://rianneschouten.github.io/pyampute/build/html/index.html)).
 
@@ -67,6 +72,8 @@ for the Ventricular Component in Atrioventricular Septal Defect Repair.](https:/
 > "Beside your overall excellent performance in your PhD research and EDIC project execution, you did an excellent job in project management of EDIC, and in setting up new successful collaborations. You helped a lot with the Research Topics in Data Mining course, and supervision of students."
 
 2. Pluim for Excellent course evaluation *Research Topics in Data Mining* 2021\/2022
+
+3. Pluim for Excellent course evaluation *Research Topics in Data Mining* 2022\/2023
 
 ---
 
@@ -138,7 +145,7 @@ During my time at TU\/e, I have supervised the following students.
 |21\/22|Isabel van den Heuvel|Research Proposal|Equivalence Testing for Developing Fair Machine Learning Algorithms|
 |21\/22|Varun Kamat|Internship at Signify|Recommendation Tool for Component Database|
 |21\/22|Mika van Loon|MSc Thesis|Bootstrap Hypothesis Tests for Evaluating Subgroup Descriptions in Exceptional Model Mining|
-|22\/23|Victoria Tascau|MSc Thesis|Handling Missing Values in Longitudinal Medical Data|
+|22\/23|Victoria Tascau|MSc Thesis with DEPAR\/Erasmus MC|Handling Missing Values in Longitudinal Medical Data|
 ---
 
 ### Review activities
