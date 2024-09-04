@@ -31,7 +31,7 @@ Additionally, I work on Missing Data methods, particularly the process of genera
 
 I find it important that my work can be used for real-world problems (e.g. in health care) and enjoy collaborating on projects. Please contact me if you have questions or seek opportunities to work together. 
 
-Below you will find overviews of and links to [Publications], [Awards], [Teaching activities], [Supervision activities], [Grants and funding], [General contributions], [Software development], [Presentations], [Personal development], and [Contact details].
+Below you will find overviews of and links to [Publications], [Awards], [Teaching activities], [Supervision activities], [Grants and funding], [Reviewing activities], [Software development], [Presentations], [Personal development], and [Contact details].
 
 ---
 
@@ -96,7 +96,7 @@ During my time at UU, I have taught lectures in 2 Summer School courses in 2015 
 
 |Year|Student|Type|Topic|
 |----|------|-------|-------------------|
-|20\/21|Bart van Dooren|MSc Thesis with Philips|Predicting Cardiovascular Risk with Objective Physical Activity Measurements, supervision  together with prof. Mykola Pechenizkiy|
+|20\/21|Bart van Dooren|MSc Thesis with Philips|Predicting Cardiovascular Risk with Objective Physical Activity Measurements, supervision  together with prof.dr. Mykola Pechenizkiy|
 |21\/22|Mats Verbraak|Research Proposal|Handling Missing Data in the Prediction Domain using Multiple Imputation|
 |21\/22|Isabel van den Heuvel|Research Proposal|Equivalence Testing for Developing Fair Machine Learning Algorithms, supervision together with Hilde Weerts|
 |21\/22|Varun Kamat|Internship at Signify|Recommendation Tool for Component Database|
@@ -104,6 +104,7 @@ During my time at UU, I have taught lectures in 2 Summer School courses in 2015 
 |22\/23|Victoria Tascau|MSc Thesis with DEPAR\/Erasmus Medical Centrum|Handling Missing Values in Longitudinal Medical Data, supervision together with dr. Wouter Duivesteijn|
 |23\/24|Lieke van den Biggelaar|MSc Thesis with Catharina Hospital|Discovering subgroups of patients with exceptional Atrium Fibrillation based on ECGs, supervision together with dr. Wouter Duivesteijn|
 |23\/24|Bart Slenders|MSc Thesis|Beam Pollution in Exceptional Model Mining, supervision together with dr. Wouter Duivesteijn|
+|24\/25|Haoqi Guo|MSc Thesis|Visualization of Counterfactual Explanations, supervision together with prof.dr. Mykola Pechenizkiy|
 ---
 
 ### Grants and funding
@@ -111,13 +112,13 @@ During my time at UU, I have taught lectures in 2 Summer School courses in 2015 
 |Year|Call|Type|Title|Together with|
 |----|----------|-----------|------------|------------------------|
 |2022|AI for Health EWUU Alliance|EUR 45k seed money|Better Imputation by Generative Adversarial NeTworks (BIGANT)|Prof.dr.Stef van Buuren, dr. Gerko Vink, Hanne Oberman, Prof.dr. Mykola Pechenizkiy, Prof.dr. Cassio de Campos, **Rianne Schouten**, Prof.dr. Daniel Oberski, dr. Thomas Debray, prof.dr. Fred van Eeuwijk|
-|2024|ECML PKDD|€500 reimbursement of entree ticket|Proceedings Chair|Assistant of dr. Wouter Duivesteijn|
+|2024|ECML PKDD|€500 reimbursement of entree ticket|Proceedings Chair|Together with dr. Wouter Duivesteijn|
 
 ---
 
-### General contributions
+### Reviewing activities
 
-Reviewing for journals and conferences such as Data Mining and Knowledge Discovery (DAMI), Machine Learning (ML), ECML PKDD and more.
+Reviewing for journals and conferences such as Data Mining and Knowledge Discovery (DAMI), Machine Learning (ML), ECML PKDD, Journal of Statistical Society, and more.
 
 ---
 
@@ -168,6 +169,7 @@ pip install ./pyampute
 
 |Year|Occasion|Type|Topic|Link to materials|
 |----|------|------|------------|----|
+|2024|Course AI for Health, at Radboud University Nijmegen|Invited guest-lecture|Exceptional Model Mining|to appear|
 |2021|Neglected Assumptions in Causal Inference (NACI) workshop at ICML|Contribution|Understanding the Role of Prognostic Factors and Effect Modifiers in Heterogeneity of Treatment Effect using a Within-Subjects Analysis of Variance|[link](pdfs/NACI_Poster_RMSchouten.pdf)|
 |2021|EAISI Eindhoven|Contribution to seminar|Towards a better understanding of exceptional lifestyle behaviour||
 |2021|ECMLPKDD|Poster at conference|Mining Sequences with Exceptional Transition Behaviour of Varying Order|[link](pdfs/PosterSatelliteEvent_RMSchoutenetal.pdf)|
