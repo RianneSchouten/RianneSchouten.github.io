@@ -37,7 +37,7 @@ Below you will find overviews of and links to [Publications], [Awards], [Teachin
 
 ### Publications
 
-- **Schouten, R.M.**, Duivesteijn, W., Rasanen, P, Paul, J.M., & Pechenizkiy, M. (2024) Exceptional Subitizing Range: Exploring Mathematical Abilities of Finnish Primary School Children with Piecewise Linear Regression. In: Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2024), to appear. 
+- **Schouten, R.M.**, Duivesteijn, W., Rasanen, P, Paul, J.M., & Pechenizkiy, M. (2024) [Exceptional Subitizing Patterns: Exploring Mathematical Abilities of Finnish Primary School Children with Piecewise Linear Regression](pdfs/FUNA_ECMLPKDD_2024.pdf). In: Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), pp. 66-82.  
 
 - **Schouten, R.M.**, Tascau, V., Ziegler, G.G., Casano, D., Ardizonne, M., & Erotokritou M.A. (2023) [Dropping incomplete records is (not so) straightforward](pdfs/2023_Schouten_MD.pdf). In: Proceedings of the 21st International Symposium on Intelligent Data Analysis (IDA), pp. 379-391.
 
