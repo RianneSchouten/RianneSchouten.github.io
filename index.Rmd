@@ -31,8 +31,6 @@ Additionally, I work on Missing Data methods, particularly the process of genera
 
 I find it important that my work can be used for real-world problems (e.g. in health care) and enjoy collaborating on projects. Please contact me if you have questions or seek opportunities to work together. 
 
-Below you will find overviews of and links to [Publications], [Awards], [Teaching activities], [Supervision activities], [Grants and funding], [Reviewing activities], [Software development], [Presentations], [Personal development], and [Contact details].
-
 ---
 
 ### Publications
@@ -65,15 +63,17 @@ Below you will find overviews of and links to [Publications], [Awards], [Teachin
 
 ---
 
-### Awards
+### Awards and recognition
 
-1. Performance bonus for 2021
+- Recognition as Excellent reviewer Research Track ECML PKDD 2024
+
+- Award for Excellent course evaluation *Research Topics in Data Mining* 2022\/2023
+
+- Award for Excellent course evaluation *Research Topics in Data Mining* 2021\/2022
+
+- Performance bonus for 2021
 
 > "Beside your overall excellent performance in your PhD research and EDIC project execution, you did an excellent job in project management of EDIC, and in setting up new successful collaborations. You helped a lot with the Research Topics in Data Mining course, and supervision of students."
-
-2. Pluim for Excellent course evaluation *Research Topics in Data Mining* 2021\/2022
-
-3. Pluim for Excellent course evaluation *Research Topics in Data Mining* 2022\/2023
 
 ---
 
@@ -119,6 +119,8 @@ During my time at UU, I have taught lectures in 2 Summer School courses in 2015 
 ### Reviewing activities
 
 Reviewing for journals and conferences such as Data Mining and Knowledge Discovery (DAMI), Machine Learning (ML), ECML PKDD, Journal of Statistical Society, and more.
+
+I was recognized as an excellent reviewer at ECML PKDD 2024.
 
 ---
 
