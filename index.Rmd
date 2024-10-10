@@ -35,6 +35,8 @@ I find it important that my work can be used for real-world problems (e.g. in he
 
 ### Publications
 
+- **Schouten, R.M.**, Stevens, G.W.J.M., van Dorsselaer, S.A.F.M., Duinhof, E.L., Monshouwer, K., Pechenizkiy, M. & Duivesteijn, W. (2024) [Analyzing the interplay between societal trends and socio-demographic variables with local pattern mining: Discovering exceptional trends in adolescent alcohol use in the Netherlands](pdf/Alcohol_BNAIC_2024.pdf). Accepted for presentation at BNAIC/BeNeLearn 2024.
+
 - **Schouten, R.M.**, Duivesteijn, W., Rasanen, P, Paul, J.M., & Pechenizkiy, M. (2024) [Exceptional Subitizing Patterns: Exploring Mathematical Abilities of Finnish Primary School Children with Piecewise Linear Regression](pdfs/FUNA_ECMLPKDD_2024.pdf). In: Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), pp. 66-82.  
 
 - **Schouten, R.M.**, Tascau, V., Ziegler, G.G., Casano, D., Ardizonne, M., & Erotokritou M.A. (2023) [Dropping incomplete records is (not so) straightforward](pdfs/2023_Schouten_MD.pdf). In: Proceedings of the 21st International Symposium on Intelligent Data Analysis (IDA), pp. 379-391.
