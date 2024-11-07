@@ -1,8 +1,8 @@
 ---
 title: "Rianne Schouten"
-subtitle: "PhD Candidate"
+subtitle: "Ph.D. candidate, defense on 16 Jan. 2025"
 author: |
-  | Pattern Mining | Exceptional Model Mining | Missing Data 
+  | Local Pattern Mining | Reliability | Robustness | Hierarchical Data | Experimental Designs | Missing Data | Causality | 
 date: ""
 output: 
   html_document:
@@ -23,17 +23,57 @@ output:
 
 ---
 
-### Introduction and affiliations
+[See here for complete Curriculum Vitae](pdfs/Rianne_Schouten_Resume.pdf)
 
-My name is Rianne and I develop data analysis methods. I am a PhD Candidate at Eindhoven University of Technology and study the Exceptional Model Mining framework. We work on developing solutions for heterogeneous datasets with time-dependent attributes. My supervisors are [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/) and [prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/). 
+[Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3)
 
-Additionally, I work on Missing Data methods, particularly the process of generating missing values in complete datasets. Under supervision of [prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/), I developed a multivariate amputation procedure and implemented the method in an R-function ([`ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html) in package [`mice`](https://github.com/stefvanbuuren/mice)) and python module ([`pyampute`](https://rianneschouten.github.io/pyampute/build/html/index.html)).
+[LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
 
-I find it important that my work can be used for real-world problems (e.g. in health care) and enjoy collaborating on projects. Please contact me if you have questions or seek opportunities to work together. 
+[Github](https://github.com/RianneSchouten)
+
+E-mail: [r.m.schouten@tue.nl](mailto:r.m.schouten@tue.nl)
+
+Please contact me for my research and teaching statements. 
+
+---
+
+### Introduction
+
+My research revolves around developing Local Pattern Mining methods (LPMs) that extract societal relevant, interpretable patterns from data. In particular, I focus on developing methods that extract **reliable and robust** patterns, from data that does not follow the conventional row-by-column, flat-table format, such as **sequential and hierarchical data**.
+
+I enjoy working in **inter**- and **multidisciplinary** teams. In some collaborations, domain experts **consult** me to support the process of doing statistically sound and trustworthy analyses. Generally, their problems relate to missing data. In other collaborations, I further develop **pattern mining** techniques to enable domain experts to analyze variation in human behavior. For instance, together with medical experts, we discovered subgroups of patients with deviating blood glucose fluctuations. Furthermore, together with policy advisers, we discovered subgroups of adolescents with deviating trends in alcohol use. 
+
+In my teaching and supervision, I aim to support students in **becoming independent learners**. My style connects well with the challenge-based learning paradigm, where the task of the teacher is to guide students in taking a structured approach in problem-solving and in thinking critically.
+
+---
+
+### Affiliations
+
+[See here for complete Curriculum Vitae.](pdfs/Rianne_Schouten_Resume.pdf)
+
+*2020 - Present*: Ph.D. Candidate at Eindhoven University of Technology, the Netherlands. 
+Under supervision of [prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/). 
+Dissertation is submitted. Ph.D. defense scheduled for 16 Jan. 2025. 
+Topic: **Exceptional Model Mining for Hierarchical Data**. 
+
+*2017 - 2019*: Researcher at Utrecht University, the Netherlands.
+Under supervision of [prof. dr. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/).
+
+*Autumn 2016*: Staff Associate of Professor Andrew Gelman at Columbia University in the City of New York, US.
+
+*Spring 2015*: Intern at SRON, Dutch Institute of Space Research, the Netherlands. 
 
 ---
 
 ### Publications
+
+[See Google Scholar for number of citations.](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3)
+
+- **Schouten, R.M.** (2024) On the role of prognostic factors and effect modifiers in structural causal models. Accepted for presentation at Causal Representation Learning Workshop NeurIPS.
+
+- Van den Berg, N. T., Broekgaarden, B. O., Mahieu Dionysia, P., Martens, J. G., Niederle, J.,
+**Schouten, R.M.**, & Duivesteijn, W. (2024) Generating MNAR missingness in image data, with
+additional evaluation ofMisGAN. Accepted for presentation at BNAIC/BeNeLearn 2024. 
 
 - **Schouten, R.M.**, Stevens, G.W.J.M., van Dorsselaer, S.A.F.M., Duinhof, E.L., Monshouwer, K., Pechenizkiy, M. & Duivesteijn, W. (2024) [Analyzing the interplay between societal trends and socio-demographic variables with local pattern mining: Discovering exceptional trends in adolescent alcohol use in the Netherlands](pdfs/Alcohol_BNAIC_2024.pdf). Accepted for presentation at BNAIC/BeNeLearn 2024.
 
@@ -45,23 +85,23 @@ I find it important that my work can be used for real-world problems (e.g. in he
 
 - **Schouten, R.M.**, Zamanzadeh, D. & Singh, P. (2022) [Pyampute: a Python library for data amputation](https://rianneschouten.github.io/pyampute/build/html/index.html). Zenodo.  [https://doi.org/10.25080/majora-212e5952-03e](https://doi.org/10.25080/majora-212e5952-03e).
 
-- Van der Haar, J.F., Nagelkerken, S.C., Smit, I.G., van Straaten, K., Tack, J.A., **Schouten, R.M.** & Duivesteijn, W. (2022) [Efficient Subgroup Discovery Through Auto-Encoding.](pdfs/2022_vdHaar_AE.pdf) In: Proceedings of the 20th International Symposium on Intelligent Data Analysis (IDA), pp. 327-340.
+- Van der Haar, J.F., Nagelkerken, S.C., Smit, I.G., van Straaten, K., Tack, J.A., **Schouten, R.M.** & Duivesteijn, W. (2022) [Efficient Subgroup Discovery Through Auto-Encoding](pdfs/2022_vdHaar_AE.pdf) In: Proceedings of the 20th International Symposium on Intelligent Data Analysis (IDA), pp. 327-340.
 
 - **Schouten, R.M.**, Duivesteijn, W. & Pechenizkiy, M. (2022) [Exceptional Model Mining for Repeated Cross-Sectional Data (EMM-RCS)](pdfs/2022_Schouten_EMMRCS.pdf). In: Proceedings of SIAM International Conference on Data Mining (SDM), pp. 585-593.
 
-- **Schouten, R.M.**, Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2022) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions.](pdfs/MiningExceptionalSequences_DAMI_2022.pdf) Data Mining and Knowledge Discovery (DAMI), 36: 379-413.
+- **Schouten, R.M.**, Bueno, M.L.P., Duivesteijn, W. & Pechenizkiy, M. (2022) [Mining Sequences with Exceptional Transition Behaviour of Varying Order using Quality Measures based on Information-Theoretic Scoring Functions](pdfs/MiningExceptionalSequences_DAMI_2022.pdf) Data Mining and Knowledge Discovery (DAMI), 36: 379-413.
 
-- IJsselhof R, Duchateau S, **Schouten R.M.**, Slieker M, Hazekamp M & Schoof P. (2020) [Long-Term Follow-Up of Pericardium for the Ventricular Component in Atrioventricular Septal Defect Repair.](https://pubmed.ncbi.nlm.nih.gov/33164688/) World Journal for Pediatric and Congenital Heart Surgery, 11(6): 742-747.
+- IJsselhof R, Duchateau S, **Schouten R.M.**, Slieker M, Hazekamp M & Schoof P. (2020) [Long-Term Follow-Up of Pericardium for the Ventricular Component in Atrioventricular Septal Defect Repair](https://pubmed.ncbi.nlm.nih.gov/33164688/) World Journal for Pediatric and Congenital Heart Surgery, 11(6): 742-747.
 
-- IJsselhof R.J., Duchateau S.D.R., **Schouten R.M.**, Freund, M.W., Heuser, J., Fejzic, Z., Haas, F., Schoof, P.H. & Slieker, M.G. (2019) [Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex.](https://academic.oup.com/ejcts/article-abstract/57/4/644/5607276) European Journal of Cardiothoracic Surgery, 57(4): 644-651.
+- IJsselhof R.J., Duchateau S.D.R., **Schouten R.M.**, Freund, M.W., Heuser, J., Fejzic, Z., Haas, F., Schoof, P.H. & Slieker, M.G. (2019) [Follow-up After Biventricular Repair of the Hypoplastic Left Heart Complex](https://academic.oup.com/ejcts/article-abstract/57/4/644/5607276) European Journal of Cardiothoracic Surgery, 57(4): 644-651.
 
-- **Schouten R.M.**, Lugtig, P. & Vink, G. (2018) [Generating missing values for simulation purposes: A multivariate amputation procedure.](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577) Journal of Statistical Computation and Simulation, 88(15): 1909-1930.
+- **Schouten R.M.**, Lugtig, P. & Vink, G. (2018) [Generating missing values for simulation purposes: A multivariate amputation procedure](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1491577) Journal of Statistical Computation and Simulation, 88(15): 1909-1930.
 
-- **Schouten, R.M.** and Vink, G. (2021) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions.](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research, 50(3): 1243-1258.
+- **Schouten, R.M.** and Vink, G. (2021) [The dance of the mechanisms: How observed information influences the validity of missingness assumptions](https://journals.sagepub.com/doi/full/10.1177/0049124118799376) Sociological Methods \& Research, 50(3): 1243-1258.
 
-- Kappen, I.F.P.M., Bittermann, G.K.P., **Schouten, R.M.**, Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. & Breugem, C.C. (2017) [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis.](https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis) Clinical Oral Investigations, 21: 1801-1810.
+- Kappen, I.F.P.M., Bittermann, G.K.P., **Schouten, R.M.**, Bittermann, D., Etty, E., Koole, R., Kon, M., Van der Molen, M. & Breugem, C.C. (2017) [Long-term mid-facial growth of patients with a unilateral complete cleft of lip, alveolus and palate treated by two-stage palatoplasty: cephalometric analysis](https://www.researchgate.net/publication/308181181_Long-term_mid-facial_growth_of_patients_with_a_unilateral_complete_cleft_of_lip_alveolus_and_palate_treated_by_two-stage_palatoplasty_cephalometric_analysis) Clinical Oral Investigations, 21: 1801-1810.
 
-- de Vries, C.P., **Schouten, R.M.**, Van der Kuur, J., Gottardi, L., & Akamatsu, H. (2016) [Microcalorimeter pulse analysis by means of principle component decomposition.](https://arxiv.org/abs/1607.00834) Proceedings SPIE 9905, Space TElescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, 99055v. DOI: 10.1117/12.2231627
+- de Vries, C.P., **Schouten, R.M.**, Van der Kuur, J., Gottardi, L., & Akamatsu, H. (2016) [Microcalorimeter pulse analysis by means of principle component decomposition](https://arxiv.org/abs/1607.00834) In: Proceedings SPIE 9905, Space TElescopes and Instrumentation 2016: Ultraviolet to Gamma Ray, 99055v. DOI: 10.1117/12.2231627
 
 ---
 
@@ -75,26 +115,56 @@ I find it important that my work can be used for real-world problems (e.g. in he
 
 - Performance bonus for 2021
 
-> "Beside your overall excellent performance in your PhD research and EDIC project execution, you did an excellent job in project management of EDIC, and in setting up new successful collaborations. You helped a lot with the Research Topics in Data Mining course, and supervision of students."
+> "Beside your overall excellent performance in your PhD research and EDIC project execution, you did an excellent job in project management of EDIC, and in setting up new successful collaborations. You helped a lot with the Research Topics in Data Mining course, and supervision of students." (Prof. dr. Mykola Pechenizkiy)
 
 ---
 
-### Teaching activities
+### Grants and funding
 
-I am teaching in the following courses:
+|Year|Call|Type|Title|Together with|
+|----|----------|-----------|------------|------------------------|
+|2022|AI for Health EWUU Alliance|EUR 45k seed money|Better Imputation by Generative Adversarial NeTworks (BIGANT)|prof. dr.Stef van Buuren, dr. Gerko Vink, Hanne Oberman, prof. dr. Mykola Pechenizkiy, prof. dr. Cassio de Campos, **Rianne Schouten**, prof. dr. Daniel Oberski, dr. Thomas Debray, prof. dr. Fred van Eeuwijk|
+|2024|ECML PKDD|€500 reimbursement of entree ticket|Proceedings Chair|Together with dr. Wouter Duivesteijn|
+
+**Ongoing: reached interview phase, scheduled for Nov. 2024:**
+
+|Year|Call|Type|Title|Together with|
+|----|----------|-----------|------------|------------------------|
+|2024|Take-off Phase 1 NWO|€40k Feasibility study|Integration of Local Pattern Mining in Digital Assessment Tools|Together with prof.dr. Mykola Pechenizkiy|
+
+---
+
+### Teaching 
+
+To further develop myself as a teacher, I am participating in the University Teaching Qualification (UTQ) Training Program.
+
+At Eindhoven University of Technology, my teaching track record is:
 
 |Year|Course|Level|Activities|
-|----|------------|-|--------------|
-|20\/21|2AMM20 Foundations of Data Mining|MSc|Taught 2 lectures about Missing Data, provided answers in weekly Q\&A, developed practice questions for exam, administrative activities|
-|21\/22|2AMM20 Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 7 groups of students during research project|
-|22\/23|2AMM20 Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 4 groups of students during research project|
-|24\/25|2AMM20 Research Topics in Data Mining|MSc|Responsible for track: Empirical Challenges in Data Mining|
+|----|------------|-|--------------------|
+|20\/21|Foundations of Data Mining|MSc|Taught 2 lectures about Missing Data, provided answers in weekly Q\&A, developed practice questions for exam, administrative activities|
+|21\/22|Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 7 groups of students during research project|
+|22\/23|Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 4 groups of students during research project|
+|24\/25|Research Topics in Data Mining|MSc|Responsible for track: **Empirical Challenges in Data Mining**|
 
-During my time at UU, I have taught lectures in 2 Summer School courses in 2015 and 2016. The courses are at an Advanced Master level: [Survey Research: Design, Implementation and Data Processing](https://utrechtsummerschool.nl/courses/social-sciences/survey-research-design-implementation-and-data-processing) and [Survey Research: Statistical Analysis and Estimation](https://utrechtsummerschool.nl/courses/social-sciences/survey-research-statistical-analysis-and-estimation).
+> “I took a lot of courses last year, but I like your instructions the most. It is not only because of your professional knowledge, but also because of your personality of being kind, patient, responsible.” (Jin Ouyang, Master student, 2022)
+
+At Utrecht University, my teaching track record is:
+
+|Year|Course|Level|Activities|
+|----|------------|----|--------------|
+|2015|Survey Research: Design, Implementation and Data Processing|Advanced MSc|Organization,Tutoring exercise classes|
+|2015|Survey Research: Statistical Analysis and Estimation|Advanced MSc|Organization,Tutoring exercise classes|
+|2016|Survey Research: Design, Implementation and Data Processing|Advanced MSc|Organization,Tutoring exercise classes|
+|2016|Survey Research: Statistical Analysis and Estimation|Advanced MSc|Organization,Tutoring exercise classes|
+
+> "Rianne was a first class assistant at our summer school courses. Not only was all material prepared extremely punctual and without errors, she also got very high student evaluations. I can wholeheartedly recommend Rianne!” (Prof. dr. Edith de Leeuw, 2016)
 
 ---
 
-### Supervision activities
+### Supervision 
+
+These students completed their projects, (partly) under my supervision, many with high grades.
 
 |Year|Student|Type|Topic|
 |----|------|-------|-------------------|
@@ -105,24 +175,20 @@ During my time at UU, I have taught lectures in 2 Summer School courses in 2015 
 |21\/22|Mika van Loon|MSc Thesis|Bootstrap Hypothesis Tests for Evaluating Subgroup Descriptions in Exceptional Model Mining, supervision together with dr. Wouter Duivesteijn|
 |22\/23|Victoria Tascau|MSc Thesis with DEPAR\/Erasmus Medical Centrum|Handling Missing Values in Longitudinal Medical Data, supervision together with dr. Wouter Duivesteijn|
 |23\/24|Lieke van den Biggelaar|MSc Thesis with Catharina Hospital|Discovering subgroups of patients with exceptional Atrium Fibrillation based on ECGs, supervision together with dr. Wouter Duivesteijn|
+
+These students are currently doing their project, (partly) under my supervision: 
+
+|Year|Student|Type|Topic|
+|----|------|-------|-------------------|
 |23\/24|Bart Slenders|MSc Thesis|Beam Pollution in Exceptional Model Mining, supervision together with dr. Wouter Duivesteijn|
 |24\/25|Haoqi Guo|MSc Thesis|Visualization of Counterfactual Explanations, supervision together with prof.dr. Mykola Pechenizkiy|
----
-
-### Grants and funding
-
-|Year|Call|Type|Title|Together with|
-|----|----------|-----------|------------|------------------------|
-|2022|AI for Health EWUU Alliance|EUR 45k seed money|Better Imputation by Generative Adversarial NeTworks (BIGANT)|Prof.dr.Stef van Buuren, dr. Gerko Vink, Hanne Oberman, Prof.dr. Mykola Pechenizkiy, Prof.dr. Cassio de Campos, **Rianne Schouten**, Prof.dr. Daniel Oberski, dr. Thomas Debray, prof.dr. Fred van Eeuwijk|
-|2024|ECML PKDD|€500 reimbursement of entree ticket|Proceedings Chair|Together with dr. Wouter Duivesteijn|
-
 ---
 
 ### Reviewing activities
 
 Reviewing for journals and conferences such as Data Mining and Knowledge Discovery (DAMI), Machine Learning (ML), ECML PKDD, Journal of Statistical Society, and more.
 
-I was recognized as an excellent reviewer at ECML PKDD 2024.
+I was recognized as an **excellent reviewer** at ECML PKDD 2024.
 
 ---
 
@@ -169,7 +235,7 @@ pip install ./pyampute
 
 ---
 
-### Presentations
+### Presentations (other than conference presentations)
 
 |Year|Occasion|Type|Topic|Link to materials|
 |----|------|------|------------|----|
@@ -184,31 +250,3 @@ pip install ./pyampute
 |2018|Data Science Hackathon|By invitation|Developed and lead a missing data challenge|[link](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf)|
 |2017|Amst-R-Dam|Contribution to seminar|How to use R-function `ampute` to generate missing values in complete datasets|[article](pdfs/ArticleAmpute.pdf) and [documentation](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html)|
 |2017|UseR!2017|Contribution to conference|Introduction to multivariate amputation with `ampute`||
-
----
-
-### Personal development
-
-To develop myself as a teacher, I am participating in the University Teaching Qualification (UTQ) Training Program.
-
-Other courses that I participated in are Project management (PROOF TU/e 2020), Introduction to Process Mining (Fluxicon, 2020), Learning and Reasoning (SIKS, 2021) and Communication Styles (PROOF TU/e 2021).
-
-
----
-
-### Contact details
-
-- Email: r.m.schouten\@tue.nl
-
-- Github: [/RianneSchouten](https://github.com/RianneSchouten)
-
-- [LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
-
-- Twitter: [missD_ta](https://twitter.com/missD_ta)
-
-- [Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3)
-
-- [Research Gate](https://www.researchgate.net/profile/Rianne_Schouten/publications)
-
-- [Curriculum Vitae](pdfs/Rianne_Schouten_Resume.pdf)
-
