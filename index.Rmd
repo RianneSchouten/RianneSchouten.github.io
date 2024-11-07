@@ -52,12 +52,12 @@ In my teaching and supervision, I aim to support students in **becoming independ
 [See here for complete Curriculum Vitae.](pdfs/Rianne_Schouten_Resume.pdf)
 
 *2020 - Present*: Ph.D. Candidate at Eindhoven University of Technology, the Netherlands. 
-Under supervision of [prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/). 
+Under supervision of [prof. dr. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/). 
 Dissertation is submitted. Ph.D. defense scheduled for 16 Jan. 2025. 
 Topic: **Exceptional Model Mining for Hierarchical Data**. 
 
 *2017 - 2019*: Researcher at Utrecht University, the Netherlands.
-Under supervision of [prof. dr. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/).
+Supervised by [prof. dr. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/).
 
 *Autumn 2016*: Staff Associate of Professor Andrew Gelman at Columbia University in the City of New York, US.
 
