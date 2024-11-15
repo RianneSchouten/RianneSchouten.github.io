@@ -72,8 +72,8 @@ Supervised by [prof. dr. Stef van Buuren](https://scholar.google.nl/citations?us
 - **Schouten, R.M.** (2024) On the role of prognostic factors and effect modifiers in structural causal models. Accepted for presentation at Causal Representation Learning Workshop NeurIPS.
 
 - Van den Berg, N. T., Broekgaarden, B. O., Mahieu Dionysia, P., Martens, J. G., Niederle, J.,
-**Schouten, R.M.**, & Duivesteijn, W. (2024) Generating MNAR missingness in image data, with
-additional evaluation ofMisGAN. Accepted for presentation at BNAIC/BeNeLearn 2024. 
+**Schouten, R.M.**, & Duivesteijn, W. (2024) [Generating MNAR missingness in image data, with
+additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Accepted for presentation at BNAIC/BeNeLearn 2024. 
 
 - **Schouten, R.M.**, Stevens, G.W.J.M., van Dorsselaer, S.A.F.M., Duinhof, E.L., Monshouwer, K., Pechenizkiy, M. & Duivesteijn, W. (2024) [Analyzing the interplay between societal trends and socio-demographic variables with local pattern mining: Discovering exceptional trends in adolescent alcohol use in the Netherlands](pdfs/Alcohol_BNAIC_2024.pdf). Accepted for presentation at BNAIC/BeNeLearn 2024.
 
