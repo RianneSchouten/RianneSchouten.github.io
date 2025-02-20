@@ -1,6 +1,6 @@
 ---
-title: "Rianne Schouten - Postdoc"
-subtitle: "PhD defense on 16 Jan. 2025"
+title: "Rianne M. Schouten"
+subtitle: "Postdoctoral researcher"
 author: |
   | Local Pattern Mining | Subgroup Discovery | Hierarchical Data | Experimental Evaluation | Missing Data | Personalized Learning Analytics | Behavioral Machine Learning | AI-Human Interaction | 
 date: ""
@@ -53,7 +53,6 @@ In my teaching and supervision, I aim to support students in **becoming independ
 
 *2020 - 2024*: Ph.D. Candidate at Eindhoven University of Technology, the Netherlands. 
 Under supervision of [prof. dr. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/). 
-Ph.D. defense ceremony scheduled for 16 Jan. 2025. 
 Topic: *Exceptional Model Mining for Hierarchical Data*. 
 
 *2017 - 2019*: Researcher at Utrecht University, the Netherlands.
@@ -233,11 +232,11 @@ pip install ./pyampute
 
 ---
 
-### Invited presentations and outreach
+### Presentations
 
 |Year|Occasion|Type|Topic|Link to materials|
 |----|------|------|------------|----|
-|2025|Gave an interview about my PhD research|News||to appear|
+|2025|Info-topic about my PhD research|News|Exceptional Model Mining for Hierarchical Data|[link](https://www.cursor.tue.nl/en/background/2025/januari/week-3/home-stretch-discovering-unusual-patterns-in-data/)|
 |2024|AI for Healthcare|Invited guest-lecture at Radboud University Nijmegen|Exceptional Model Mining|to appear|
 |2024|PhD Forum IDA 2024|Contribution|Redudancy Metrics in Exceptional Model Mining|to appear|
 |2021|Neglected Assumptions in Causal Inference (NACI) workshop at ICML|Contribution|Understanding the Role of Prognostic Factors and Effect Modifiers in Heterogeneity of Treatment Effect using a Within-Subjects Analysis of Variance|[link](pdfs/NACI_Poster_RMSchouten.pdf)|
