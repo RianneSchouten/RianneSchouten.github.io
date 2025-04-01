@@ -25,7 +25,7 @@ output:
 
 [Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3)
 
-[LinkedIn](https://www.linkedin.com/in/rianne-schouten-5bb29491/)
+[LinkedIn](https://www.linkedin.com/in/rianne-schouten-phd-5bb29491/)
 
 [Github](https://github.com/RianneSchouten)
 
@@ -164,13 +164,15 @@ Current students:
 
 |Year|Student|Type|Topic|
 |----|------|-------|-------------------|
-|Since 2023|Emmanuel C. Chukwu|PhD Candidate|Counterfactual Explanations in Time Series Classification|
-|24\/25|Haoqi Guo|MSc Thesis|Clustering of Counterfactual Explanations, supervision together with prof.dr. Mykola Pechenizkiy|
+|25\/26|Abdullahi Farah|MSc Thesis|
+
+Furthermore, I am working closely together with Emmanuel C. Chukwu, who is a PhD Candidate on the topic of Counterfactual Explanations in Time Series Classification.
 
 Alumni:
 
 |Year|Student|Type|Topic|
 |----|------|-------|-------------------|
+|24\/25|Haoqi Guo|MSc Thesis|Improving Diversity and Feasibility of Counterfactual Explanations, supervision together with prof.dr. Mykola Pechenizkiy|
 |23\/24|Lieke van den Biggelaar|MSc Thesis with Catharina Hospital|Discovering subgroups of patients with exceptional Atrium Fibrillation based on ECGs, supervision together with dr. Wouter Duivesteijn|
 |22\/23|Victoria Tascau|MSc Thesis with DEPAR\/Erasmus Medical Centrum|Handling Missing Values in Longitudinal Medical Data, supervision together with dr. Wouter Duivesteijn|
 |21\/22|Mika van Loon|MSc Thesis|Bootstrap Hypothesis Tests for Evaluating Subgroup Descriptions in Exceptional Model Mining, supervision together with dr. Wouter Duivesteijn|
