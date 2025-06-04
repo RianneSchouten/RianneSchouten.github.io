@@ -1,8 +1,7 @@
 ---
 title: "Rianne M. Schouten"
-subtitle: "Postdoctoral researcher"
-author: |
-  | Local Pattern Mining | Subgroup Discovery | Hierarchical Data | Experimental Evaluation | Missing Data | Personalized Learning Analytics | Behavioral Machine Learning | AI-Human Interaction | 
+subtitle: "Postdoctoral researcher @ TU/e"
+author: ""
 date: ""
 output: 
   html_document:
@@ -37,11 +36,13 @@ Please contact me for my research and teaching statements.
 
 ### Introduction
 
-My research revolves around developing Local Pattern Mining methods (LPMs) that **extract societal relevant, reliable, interpretable patterns** from data. In particular, I work with data that does not follow the conventional row-by-column, flat-table format, such as **sequential and hierarchical data**. I set up multiple **interdisciplinary** collaborations to analyze variation in human behavior. Among others, I worked together with experts from Utrecht University, Trimbos Institute, Hospital Twente, Erasmus MC and the Turku Research Institute for Learning Analytics.
+**Methods**: Exceptional Model Mining | Local Pattern Mining | Subgroup Discovery 
 
-As a postdoctoral researcher, I will continue two collaborations. 1) I will work with the Turku Research Institute for Learning Analytics to investigate whether we can develop our pattern mining methods into an actual product (*valorisation*). 2) I will work with Erasmus MC to further develop methods for **analyzing and (synthetically) generating longitudinal, incomplete, medical data**. I will furthermore investigate the possibilities for utilizing Local Pattern Mining techniques in the domains of Behavioral Machine Learning, AI-Human Interaction and eXplainable AI. 
+**Type of Data**: Non-IID | Hierarchical | Sequential | Time Series | Longitudinal 
 
-In my teaching and supervision, I aim to support students in **becoming independent learners**. My teaching style connects well with the challenge-based learning paradigm, where the task of the teacher is to guide students in taking a structured approach in problem-solving and in thinking critically.
+**Application domains**: Personalized Learning Analytics | e-Health | Medicine 
+
+My research revolves around developing local pattern mining methods for extracting societal relevant, interpretable patterns from non-IID data, such as discovering subgroups of patients with exceptional responses to treatment.My next steps include developing extensions for multi-modal data, for online learning and for integrating domain knowledge and user feedback.
 
 ---
 
@@ -49,24 +50,29 @@ In my teaching and supervision, I aim to support students in **becoming independ
 
 [See here for complete Curriculum Vitae.](pdfs/ResumeRianneSchouten.pdf)
 
-*2025 - present*: Postdoc at Eindhoven University of Technology, the Netherlands. 
+**2025 - present**: **Post-doc** at TU/e. 
 
-*2020 - 2024*: Ph.D. Candidate at Eindhoven University of Technology, the Netherlands. 
-Under supervision of [prof. dr. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/) and [dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/). 
-Topic: *Exceptional Model Mining for Hierarchical Data*. 
+**2020 - 2024**: **Ph.D. candidate** at TU/e.
 
-*2017 - 2019*: Researcher at Utrecht University, the Netherlands.
-Supervised by [prof. dr. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl) and [dr. Gerko Vink](https://www.gerkovink.com/).
+Supervisors: [Prof. Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/), [Dr. Wouter Duivesteijn](http://wwwis.win.tue.nl/~wouter/).
 
-*Autumn 2016*: Staff Associate of Professor Andrew Gelman at Columbia University in the City of New York, US.
+Topic: Exceptional Model Mining for Hierarchical Data. 
 
-*Spring 2015*: Intern at SRON, Dutch Institute of Space Research, the Netherlands. 
+**2017 - 2019**: **Missing Data Researcher** at Utrecht University.
+
+Supervisors: [Prof. dr. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl), [Dr. Gerko Vink](https://www.gerkovink.com/).
+
+**2016**: **Staff Associate** of Professor Andrew Gelman at Columbia University in the City of New York, US. Duration: 2 months.
+
+**2015**: **Intern** at SRON, Dutch Institute of Space Research, the Netherlands. Duration: 4 months. 
 
 ---
 
 ### Publications
 
-[See Google Scholar for number of citations.](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3)
+[See Google Scholar.](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3)
+
+- van den Biggelaar, L., **Schouten, R.M.**, de Bie, A., Bouwman, A, \& Duivesteijn. W. Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes. Accepted for publication at KDD25.
 
 - **Schouten, R.M.** (2025) [Exceptional Model Mining for Hierarchical Data](pdfs/EMMHD.pdf). PhD thesis.
 
@@ -114,30 +120,47 @@ additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Accepted for presen
 
 - Award for Excellent course evaluation *Research Topics in Data Mining* 2021\/2022
 
-- Performance bonus for 2021
-
-> "Beside your overall excellent performance in your PhD research and EDIC project execution, you did an excellent job in project management of EDIC, and in setting up new successful collaborations. You helped a lot with the Research Topics in Data Mining course, and supervision of students." (Prof. dr. Mykola Pechenizkiy)
-
 ---
 
 ### Grants and funding
 
 |Year|Call|Type|Title|Together with|
-|----|----------|-----------|------------|------------------------|
-|2024|Take-off Phase 1 NWO|€40k Feasibility study|Integration of Local Pattern Mining in Digital Assessment Tools|Together with prof.dr. Mykola Pechenizkiy|
-|2024|ECML PKDD|€500 reimbursement of entree ticket|Proceedings Chair|Together with dr. Wouter Duivesteijn|
-|2022|AI for Health EWUU Alliance|EUR 45k seed money|Better Imputation by Generative Adversarial NeTworks (BIGANT)|prof. dr.Stef van Buuren, dr. Gerko Vink, Hanne Oberman, prof. dr. Mykola Pechenizkiy, prof. dr. Cassio de Campos, **Rianne Schouten**, prof. dr. Daniel Oberski, dr. Thomas Debray, prof. dr. Fred van Eeuwijk|
+|----|----------|-----------|---------------|------------------------|
+|2024|Take-off Phase 1 NWO|€40k Feasibility study|Integration of Local Pattern Mining in Digital Assessment Tools|Prof. Mykola Pechenizkiy|
+|2024|ECML PKDD Proceedings Chair|€500 reimbursement of entree ticket|Proceedings Chair|Dr. Wouter Duivesteijn|
+|2022|AI for Health EWUU Alliance|EUR 45k seed money|Better Imputation by Generative Adversarial NeTworks (BIGANT)|Prof. Stef van Buuren, Dr. Gerko Vink, Hanne Oberman, Prof. Mykola Pechenizkiy, Prof. Cassio de Campos, **Rianne Schouten**,  Daniel Oberski, Dr. Thomas Debray, Prof. Fred van Eeuwijk|
+
+--- 
+
+### Domain collaborations
+
+|Year|Organization|Type of collaboration|
+|------|----------------------|------------------------|
+|2025-now|AlgebraKit|Answering domain questions using EMM|
+|2022-now|Turku Research Institute for Learning Analytics|Answering domain questions using EMM|
+|2022-now|Dutch south west Psoriatic Arthritis Registry, Erasmus MC|Solving MD problems + Answering domain questions using EMM|
+|2020-now|Biomedical Systems and Signals Group, Utwente + Hospital Twente|Using 
+|2021-2024|Netherlands Institute of Mental Health and Addiction|Answering domain questions using EMM|
+|2017-2019|University Medical Center Utrecht|Statistics consultant|
+
+---
+
+### Research visits
+|Year|Where?|Who?|Why?|Duration|
+|---|----|-----|-----------|---|
+|2025|Ghent University|Prof. Tijl de Bie, Prof. Jefrey Lijfijt|To collaborate on Pattern mining and fairness|1 day|
+|2025|Bielefeld University|Prof. Barbara Hammer|To collaborate on Concept drift, XAI and User interaction|1 week|
+|2024|Radboud University Nijmegen|Dr. Marcos L.P. Bueno|To provide a guest-lecture in the AI for Healthcare course|1 day|
+|2016|Columbia University|Prof. Andrew Gelman|To collaborate on Evaluating missing data methods, together with Dr. Gerko Vink|2 months|
 
 ---
 
 ### Teaching 
 
-To further develop myself as a teacher, I am participating in the University Teaching Qualification (UTQ) Training Program.
-
 At Eindhoven University of Technology, my teaching track record is:
 
 |Year|Course|Level|Activities|
-|----|------------|-|--------------------|
+|----|---------|-|----------------------|
 |24\/25|Research Topics in Data Mining|MSc|Responsible for track: **Empirical Challenges in Data Mining**|
 |22\/23|Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 4 groups of students during research project|
 |21\/22|Research Topics in Data Mining|MSc|Taught 2 lectures about Missing Data, supervised 7 groups of students during research project|
@@ -162,16 +185,16 @@ At Utrecht University, my teaching track record is:
 
 Current students: 
 
-|Year|Student|Type|Topic|
-|----|------|-------|-------------------|
-|25\/26|Abdullahi Farah|MSc Thesis|
-
-Furthermore, I am working closely together with Emmanuel C. Chukwu, who is a PhD Candidate on the topic of Counterfactual Explanations in Time Series Classification.
+|Start|Student|Type|Topic|
+|----|----------|-------|-------------------|
+|May 2025|Abdullahi Farah|MSc Thesis||
+|Aug 2024|Lieke van den Biggelaar|PhD Research|Exceptional Model Mining with Time Series Data|
+|Nov 2023|Emmanuel C. Chukwu|PhD Research|Counterfactual Explanations in Time Series Classification|
 
 Alumni:
 
 |Year|Student|Type|Topic|
-|----|------|-------|-------------------|
+|----|--------|-------|-------------------|
 |24\/25|Haoqi Guo|MSc Thesis|Improving Diversity and Feasibility of Counterfactual Explanations, supervision together with prof.dr. Mykola Pechenizkiy|
 |23\/24|Lieke van den Biggelaar|MSc Thesis with Catharina Hospital|Discovering subgroups of patients with exceptional Atrium Fibrillation based on ECGs, supervision together with dr. Wouter Duivesteijn|
 |22\/23|Victoria Tascau|MSc Thesis with DEPAR\/Erasmus Medical Centrum|Handling Missing Values in Longitudinal Medical Data, supervision together with dr. Wouter Duivesteijn|
@@ -183,11 +206,10 @@ Alumni:
 
 ---
 
-### Reviewing activities
+### Community service
 
-I reviewing for journals and conferences such as Data Mining and Knowledge Discovery (DAMI), Machine Learning (ML), ECML PKDD, Journal of Statistical Society, and more.
-
-I was recognized as an **excellent reviewer** at ECML PKDD 2024.
+I reviewed for top-level data mining conferences and statistical journals
+(DAMI, ECML PKDD, EWAF, JRSSB, SiM, BimJ). I was recognized as an **excellent reviewer** at ECML PKDD 2024. I served as **Proceedings Chair** at ECML PKDD 2024.
 
 ---
 
@@ -234,16 +256,14 @@ pip install ./pyampute
 
 ---
 
-### Presentations
+### Invited presentations
 
 |Year|Occasion|Type|Topic|Link to materials|
 |----|------|------|------------|----|
+|2025|Research visit @ Bielefeld University|Presentation|Exceptional Model Mining for Hierarchical Data||
 |2025|Info-topic about my PhD research|News|Exceptional Model Mining for Hierarchical Data|[link](https://www.cursor.tue.nl/en/background/2025/januari/week-3/home-stretch-discovering-unusual-patterns-in-data/)|
-|2024|AI for Healthcare|Invited guest-lecture at Radboud University Nijmegen|Exceptional Model Mining|to appear|
-|2024|PhD Forum IDA 2024|Contribution|Redudancy Metrics in Exceptional Model Mining|to appear|
-|2021|Neglected Assumptions in Causal Inference (NACI) workshop at ICML|Contribution|Understanding the Role of Prognostic Factors and Effect Modifiers in Heterogeneity of Treatment Effect using a Within-Subjects Analysis of Variance|[link](pdfs/NACI_Poster_RMSchouten.pdf)|
+|2024|AI for Healthcare|Invited guest-lecture at Radboud University Nijmegen|Exceptional Model Mining||
 |2021|EAISI Eindhoven|Contribution to seminar|Towards a better understanding of exceptional lifestyle behaviour||
-|2021|ECML PKDD|Poster at conference|Mining Sequences with Exceptional Transition Behaviour of Varying Order|[link](pdfs/PosterSatelliteEvent_RMSchoutenetal.pdf)|
 |2019|Workshop R-Ladies Amsterdam|Invited presentation at seminar|Developed and presented a workshop about analysis of missing values, evaluation and implementation of missing data methods|[link](https://github.com/RianneSchouten/workshops/tree/master/R-Ladies%20Workshop)|
 |2018|ICT Open|Contribution to 1-day conference|Handling Missing Data in Data Science|[link](pdfs/ictopen2018_RianneSchouten.pdf)|
 |2018|European Women in Technology|Masterclass at conference|Dealing with missing data in `R`: Amputation or Imputation?|[presentation and exercises](https://github.com/RianneSchouten/workshops/tree/master/WomenInTechnology)|
