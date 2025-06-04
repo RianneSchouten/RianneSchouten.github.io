@@ -60,7 +60,7 @@ Topic: Exceptional Model Mining for Hierarchical Data.
 
 **2017 - 2019**: **Missing Data Researcher** at Utrecht University.
 
-Supervisors: [Prof. dr. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl), [Dr. Gerko Vink](https://www.gerkovink.com/).
+Supervisors: [Prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3y5C0UAAAAJ&hl=nl), [Dr. Gerko Vink](https://www.gerkovink.com/).
 
 **2016**: **Staff Associate** of Professor Andrew Gelman at Columbia University in the City of New York, US. Duration: 2 months.
 
@@ -68,11 +68,41 @@ Supervisors: [Prof. dr. Stef van Buuren](https://scholar.google.nl/citations?use
 
 ---
 
+### Awards and recognition
+
+- Recognition as Excellent reviewer Research Track ECML PKDD 2024
+
+- Award for Excellent course evaluation *Research Topics in Data Mining* 2022\/2023
+
+- Award for Excellent course evaluation *Research Topics in Data Mining* 2021\/2022
+
+---
+
+### Grants and funding
+
+|Year|Call|Type|Title|Together with|
+|----|----------|-----------|---------------|------------------------|
+|2024|Take-off Phase 1 NWO|€40k Feasibility study|Integration of Local Pattern Mining in Digital Assessment Tools|Prof. Mykola Pechenizkiy|
+|2024|ECML PKDD Proceedings Chair|€500 reimbursement of entree ticket|Proceedings Chair|Dr. Wouter Duivesteijn|
+|2022|AI for Health EWUU Alliance|EUR 45k seed money|Better Imputation by Generative Adversarial NeTworks (BIGANT)|Prof. Stef van Buuren, Dr. Gerko Vink, Hanne Oberman, Prof. Mykola Pechenizkiy, Prof. Cassio de Campos, **Rianne Schouten**,  Daniel Oberski, Dr. Thomas Debray, Prof. Fred van Eeuwijk|
+
+---
+
+### Research visits
+|Year|Where?|Who?|Why?|Duration|
+|---|-----|-----|----------|---|
+|2025|Ghent University|Prof. Tijl de Bie, Prof. Jefrey Lijfijt|To collaborate on Pattern mining and fairness|1 day|
+|2025|Bielefeld University|Prof. Barbara Hammer|To collaborate on Concept drift, XAI and User interaction|1 week|
+|2024|Radboud University Nijmegen|Dr. Marcos L.P. Bueno|To provide a guest-lecture in the AI for Healthcare course|1 day|
+|2016|Columbia University|Prof. Andrew Gelman|To collaborate on Evaluating missing data methods, together with Dr. Gerko Vink|2 months|
+
+--- 
+
 ### Publications
 
 [See Google Scholar.](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3)
 
-- van den Biggelaar, L., **Schouten, R.M.**, de Bie, A., Bouwman, A, \& Duivesteijn. W. Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes. Accepted for publication at KDD25.
+- van den Biggelaar, L., **Schouten, R.M.**, de Bie, A., Bouwman, A, \& Duivesteijn. W. (2025) Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes. Accepted for publication at KDD25.
 
 - **Schouten, R.M.** (2025) [Exceptional Model Mining for Hierarchical Data](pdfs/EMMHD.pdf). PhD thesis.
 
@@ -112,26 +142,6 @@ additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Accepted for presen
 
 ---
 
-### Awards and recognition
-
-- Recognition as Excellent reviewer Research Track ECML PKDD 2024
-
-- Award for Excellent course evaluation *Research Topics in Data Mining* 2022\/2023
-
-- Award for Excellent course evaluation *Research Topics in Data Mining* 2021\/2022
-
----
-
-### Grants and funding
-
-|Year|Call|Type|Title|Together with|
-|----|----------|-----------|---------------|------------------------|
-|2024|Take-off Phase 1 NWO|€40k Feasibility study|Integration of Local Pattern Mining in Digital Assessment Tools|Prof. Mykola Pechenizkiy|
-|2024|ECML PKDD Proceedings Chair|€500 reimbursement of entree ticket|Proceedings Chair|Dr. Wouter Duivesteijn|
-|2022|AI for Health EWUU Alliance|EUR 45k seed money|Better Imputation by Generative Adversarial NeTworks (BIGANT)|Prof. Stef van Buuren, Dr. Gerko Vink, Hanne Oberman, Prof. Mykola Pechenizkiy, Prof. Cassio de Campos, **Rianne Schouten**,  Daniel Oberski, Dr. Thomas Debray, Prof. Fred van Eeuwijk|
-
---- 
-
 ### Domain collaborations
 
 |Year|Organization|Type of collaboration|
@@ -142,16 +152,6 @@ additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Accepted for presen
 |2020-now|Biomedical Systems and Signals Group, Utwente + Hospital Twente|Using 
 |2021-2024|Netherlands Institute of Mental Health and Addiction|Answering domain questions using EMM|
 |2017-2019|University Medical Center Utrecht|Statistics consultant|
-
----
-
-### Research visits
-|Year|Where?|Who?|Why?|Duration|
-|---|----|-----|-----------|---|
-|2025|Ghent University|Prof. Tijl de Bie, Prof. Jefrey Lijfijt|To collaborate on Pattern mining and fairness|1 day|
-|2025|Bielefeld University|Prof. Barbara Hammer|To collaborate on Concept drift, XAI and User interaction|1 week|
-|2024|Radboud University Nijmegen|Dr. Marcos L.P. Bueno|To provide a guest-lecture in the AI for Healthcare course|1 day|
-|2016|Columbia University|Prof. Andrew Gelman|To collaborate on Evaluating missing data methods, together with Dr. Gerko Vink|2 months|
 
 ---
 
@@ -271,3 +271,5 @@ pip install ./pyampute
 |2018|Data Science Hackathon|By invitation|Developed and lead a missing data challenge|[link](pdfs/Data_Science_Hackathon_Rianne_Schouten.pdf)|
 |2017|Amst-R-Dam|Contribution to seminar|How to use R-function `ampute` to generate missing values in complete datasets|[article](pdfs/ArticleAmpute.pdf) and [documentation](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html)|
 |2017|UseR!2017|Contribution to conference|Introduction to multivariate amputation with `ampute`||
+
+---
