@@ -91,8 +91,10 @@ Supervisors: [Prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3
 ### Research visits
 |Year|Where?|Who?|Why?|Duration|
 |---|-----|-----|----------|---|
-|2025|Ghent University|Prof. Tijl de Bie, Prof. Jefrey Lijfijt|To collaborate on Pattern mining and fairness|1 day|
-|2025|Bielefeld University|Prof. Barbara Hammer|To collaborate on Concept drift, XAI and User interaction|1 week|
+|2025|Leuven University|Prof. Hendrik Blockeel, Prof. Jesse Davis|To discuss Pattern mining and Personalized recommendations|3 days, in August|
+|2025|Ghent University|Prof. Tijl de Bie, Prof. Jefrey Lijfijt|To discuss Pattern mining and fairness|2 days, in August|
+|2025|Bielefeld University|Prof. Barbara Hammer|To discuss Concept drift, XAI and User interaction|1 week|
+|2025|University of Twente|Prof. Monique Tabak|To discuss E-health and Personalized recommendations |1 day|
 |2024|Radboud University Nijmegen|Dr. Marcos L.P. Bueno|To provide a guest-lecture in the AI for Healthcare course|1 day|
 |2016|Columbia University|Prof. Andrew Gelman|To collaborate on Evaluating missing data methods, together with Dr. Gerko Vink|2 months|
 
@@ -112,7 +114,7 @@ Supervisors: [Prof. Stef van Buuren](https://scholar.google.nl/citations?user=_3
 **Schouten, R.M.**, & Duivesteijn, W. (2024) [Generating MNAR missingness in image data, with
 additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Accepted for presentation at BNAIC/BeNeLearn 2024. [See here for the presentation](pdfs/BNAIC2024_MNAR.pdf). 
 
-- **Schouten, R.M.**, Stevens, G.W.J.M., van Dorsselaer, S.A.F.M., Duinhof, E.L., Monshouwer, K., Pechenizkiy, M. & Duivesteijn, W. (2024) [Analyzing the interplay between societal trends and socio-demographic variables with local pattern mining: Discovering exceptional trends in adolescent alcohol use in the Netherlands](pdfs/Alcohol_BNAIC_2024.pdf). Accepted for presentation at BNAIC/BeNeLearn 2024. [See here for the presentation](pdfs/BNAIC2024_Alcohol.pdf).
+- **Schouten, R.M.**, Stevens, G.W.J.M., van Dorsselaer, S.A.F.M., Duinhof, E.L., Monshouwer, K., Pechenizkiy, M. & Duivesteijn, W. (2024) [Analyzing the interplay between societal trends and socio-demographic variables with local pattern mining: Discovering exceptional trends in adolescent alcohol use in the Netherlands](pdfs/Alcohol_BNAIC_2024.pdf). In press in post-proceedings BNAIC/BeNeLearn 2024.
 
 - **Schouten, R.M.**, Duivesteijn, W., Rasanen, P, Paul, J.M., & Pechenizkiy, M. (2024) [Exceptional Subitizing Patterns: Exploring Mathematical Abilities of Finnish Primary School Children with Piecewise Linear Regression](pdfs/FUNA_ECMLPKDD_2024.pdf). In: Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), pp. 66-82.  
 
