@@ -119,8 +119,8 @@ Database engineering, Stakeholder communication, Small team lead.
 ### Research visits
 |Year|Where?|Who?|Why?|Duration|
 |---|-----|-----|----------|---|
-|2025|Leuven University|Prof. Hendrik Blockeel, Prof. Jesse Davis|To discuss Pattern mining and Personalized recommendations|3 days, in August|
-|2025|Ghent University|Prof. Tijl de Bie, Prof. Jefrey Lijfijt|To discuss Pattern mining and fairness|2 days, in August|
+|2025|Leuven University|Prof. Hendrik Blockeel, Prof. Jesse Davis|To discuss Pattern mining and Personalized recommendations|2 days|
+|2025|Ghent University|Prof. Tijl de Bie, Prof. Jefrey Lijffijt|To discuss Pattern mining and fairness|2 days|
 |2025|Bielefeld University|Prof. Barbara Hammer|To discuss Concept drift, XAI and User interaction|1 week|
 |2025|University of Twente|Prof. Monique Tabak|To discuss E-health and Personalized recommendations |1 day|
 |2024|Radboud University Nijmegen|Dr. Marcos L.P. Bueno|To provide a guest-lecture in the AI for Healthcare course|1 day|
@@ -130,17 +130,21 @@ Database engineering, Stakeholder communication, Small team lead.
 
 ### Publications
 
-[See Google Scholar:](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3) >20 publications, >400 citations and h-index: 7.
+[See Google Scholar:](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3) >25 publications, >400 citations and h-index: 7.
 
-- van den Biggelaar, L., **Schouten, R.M.**, de Bie, A., Bouwman, A, \& Duivesteijn. W. (2025) Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes. Accepted for publication at KDD25.
+- **Schouten, R.M.** (2025) [On the role of prognostic factors and effect modifiers in unraveling population heterogeneity](pdfs/NeurIPSCRL_RianneSchouten_nr42.pdf). Earlier presented at Causal Representation Learning Workshop NeurIPS. Now accepted for presentation and publication in the MedTime Workshop at ECML PKDD 2025.
+
+- Emmanuel C. Chukwu, Rianne M. Schouten, Monique Tabak, and Mykola Pechenizkiy (2025) [Counterfactual Explanations for Time Series Should be Human-Centered and Temporally Coherent in Interventions](pdfs/HuMine_BeyondtheFlips_25.pdf). Poster and oral presentation in HuMine Workshop at ECML PKDD 2025.
+
+- Vincent P. Hoogendam, Kalina R. Bakardzhieva, Luca Mainardi, Luyang Xie, and Rianne M. Schouten (2025) [Interpretable Sample Selection with Exceptional Model Mining](pdfs/HuMine_EMMAL_25.pdf). Poster presentation in HuMine Workshop at ECML PKDD 2025.
+
+- van den Biggelaar, L., **Schouten, R.M.**, de Bie, A., Bouwman, A, \& Duivesteijn. W. (2025) [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](KDD_Biggelaar_2025). In: Proc. KDD, pp. 4925 - 4934.
 
 - **Schouten, R.M.** (2025) [Exceptional Model Mining for Hierarchical Data](pdfs/EMMHD.pdf). PhD thesis.
 
-- **Schouten, R.M.** (2024) [On the role of prognostic factors and effect modifiers in structural causal models](pdfs/NeurIPS_CRL_RianneSchouten_nr42.pdf). Accepted for presentation at Causal Representation Learning Workshop NeurIPS. [See here for the paper!](pdfs/NeurIPSCRL_RianneSchouten_nr42.pdf)
-
 - Van den Berg, N. T., Broekgaarden, B. O., Mahieu Dionysia, P., Martens, J. G., Niederle, J.,
 **Schouten, R.M.**, & Duivesteijn, W. (2024) [Generating MNAR missingness in image data, with
-additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Accepted for presentation at BNAIC/BeNeLearn 2024. [See here for the presentation](pdfs/BNAIC2024_MNAR.pdf). 
+additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Presented at BNAIC/BeNeLearn 2024. [See here for the presentation](pdfs/BNAIC2024_MNAR.pdf). 
 
 - **Schouten, R.M.**, Stevens, G.W.J.M., van Dorsselaer, S.A.F.M., Duinhof, E.L., Monshouwer, K., Pechenizkiy, M. & Duivesteijn, W. (2024) [Analyzing the interplay between societal trends and socio-demographic variables with local pattern mining: Discovering exceptional trends in adolescent alcohol use in the Netherlands](pdfs/Alcohol_BNAIC_2024.pdf). To appear in post-proceedings BNAIC/BeNeLearn 2024.
 
