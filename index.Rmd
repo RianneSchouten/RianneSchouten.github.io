@@ -138,7 +138,7 @@ Database engineering, Stakeholder communication, Small team lead.
 
 - Vincent P. Hoogendam, Kalina R. Bakardzhieva, Luca Mainardi, Luyang Xie, and Rianne M. Schouten (2025) [Interpretable Sample Selection with Exceptional Model Mining](pdfs/HuMine_EMMAL_25.pdf). Poster presentation in HuMine Workshop at ECML PKDD 2025.
 
-- van den Biggelaar, L., **Schouten, R.M.**, de Bie, A., Bouwman, A, \& Duivesteijn. W. (2025) [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](KDD_Biggelaar_2025). In: Proc. KDD, pp. 4925 - 4934.
+- van den Biggelaar, L., **Schouten, R.M.**, de Bie, A., Bouwman, A, \& Duivesteijn. W. (2025) [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](pdfs/KDD_Biggelaar_2025.pdf). In: Proc. KDD, pp. 4925 - 4934.
 
 - **Schouten, R.M.** (2025) [Exceptional Model Mining for Hierarchical Data](pdfs/EMMHD.pdf). PhD thesis.
 
