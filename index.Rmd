@@ -132,11 +132,7 @@ Database engineering, Stakeholder communication, Small team lead.
 
 [See Google Scholar:](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3) >25 publications, >400 citations and h-index: 7.
 
-- **Schouten, R.M.** (2025) [On the role of prognostic factors and effect modifiers in unraveling population heterogeneity](pdfs/NeurIPSCRL_RianneSchouten_nr42.pdf). Earlier presented at Causal Representation Learning Workshop NeurIPS. Now accepted for presentation and publication in the MedTime Workshop at ECML PKDD 2025.
-
-- Emmanuel C. Chukwu, Rianne M. Schouten, Monique Tabak, and Mykola Pechenizkiy (2025) [Counterfactual Explanations for Time Series Should be Human-Centered and Temporally Coherent in Interventions](pdfs/HuMine_BeyondtheFlips_25.pdf). Poster and oral presentation in HuMine Workshop at ECML PKDD 2025.
-
-- Vincent P. Hoogendam, Kalina R. Bakardzhieva, Luca Mainardi, Luyang Xie, and Rianne M. Schouten (2025) [Interpretable Sample Selection with Exceptional Model Mining](pdfs/HuMine_EMMAL_25.pdf). Poster presentation in HuMine Workshop at ECML PKDD 2025.
+- **Schouten, R.M.** (2025) [On the role of prognostic factors and effect modifiers in unraveling population heterogeneity](pdfs/medtime_p5.pdf). Earlier presented at Causal Representation Learning Workshop NeurIPS. Now accepted for publication in the MedTime Workshop Proceedings ECML PKDD 2025.
 
 - van den Biggelaar, L., **Schouten, R.M.**, de Bie, A., Bouwman, A, \& Duivesteijn. W. (2025) [Characterizing the Risk of Atrial Fibrillation in Cardiac Patients with Exceptional Electrocardiogram Phenotypes](pdfs/KDD_Biggelaar_2025.pdf). In: Proc. KDD, pp. 4925 - 4934.
 
