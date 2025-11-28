@@ -1,6 +1,6 @@
 ---
 title: "Rianne M. Schouten"
-subtitle: "Postdoctoral researcher @ TU/e"
+subtitle: "PD @ TU/e"
 author: ""
 date: ""
 output: 
@@ -22,25 +22,25 @@ output:
 
 ---
 
-[Find here my resume!](pdfs/ResumeRianneSchouten.pdf)
+[Find here my resume if you are from Academia](pdfs/ResumeRianneSchouten.pdf)
+
+[This one if you like it efficient and to the point (a.k.a Industry)](pdfs/ResumeRianneSchoutenIndustry.pdf)
 
 Other important links: [Google Scholar](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3), [LinkedIn](https://www.linkedin.com/in/rianne-schouten-phd-5bb29491/), [Github](https://github.com/RianneSchouten)
 
-E-mail: [r.m.schouten@tue.nl](mailto:r.m.schouten@tue.nl)
+E-mail: [rianne.m.schouten@gmail.com](mailto:rianne.m.schouten@gmail.com)
 
 ---
 
 ### Introduction
 
-I develop data mining methods that discover and describe differences between individuals. People differ, and my methods aim to reveal exceptional, coherent and interpretable subgroups in a population of persons. For instance, in the medical context, we aim to discover subgroups of patients with exceptional responses to treatments. And in the educational domain, we discover subgroups of students with exceptional learning behaviour.
+My methodological contributions stand out because I develop generic data mining methods that have real-world impact. Our methods discover and describe differences between humans. For instance, in the medical context, we discover subgroups of patients with exceptional responses to treatments. And in the educational domain, we discover students with exceptional learning behaviour.
 
-My methodological contributions stand out because I develop generic methods that have real-world impact.
+**Methods**: RecSys | XAI | Exceptional Model Mining | Subgroup Discovery | Pattern recognition |
 
-**Methods**: Exceptional Model Mining | Local Pattern Mining | Subgroup Discovery | Subgroup Analysis | 
+**Data representation**: Tabular | Non-IID | Hierarchical | Sequential | Time Series | Longitudinal | Multilevel |
 
-**Type of Data**: Tabular | Non-IID | Hierarchical | Sequential | Time Series | Longitudinal | Multilevel |
-
-**Application domains**: EdTech | Personalized Learning Analytics | e-Health | Medicine |
+**Application domains**: EdTech | eHealth | Healthcare |
 
 **Related keywords**: Heterogeneous Treatment Effects | Counterfactual Explanations | Dynamic Bayesian Networks | Causal Diagrams | Mixed-Effects Models | Missing Data |
 
@@ -130,7 +130,7 @@ Database engineering, Stakeholder communication, Small team lead.
 
 ### Publications
 
-[See Google Scholar:](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3) >25 publications, >400 citations and h-index: 7.
+[See Google Scholar:](https://scholar.google.nl/citations?view_op=list_works&hl=nl&user=xC56bhMAAAAJ&gmla=AJsN-F4IWn_9Vw9hH7hPN1zIMfNadBL6mvmu-rPpRS6p-4Enc7fR6GrOMYyN2QEr21D5Y3Uhjtj0HPT3I7qsh3MVE1v2L8MRfjsk7W1Qop4mDunpnTRDeMYF0DmoRYmja6b7GvnmC4R3) >25 publications, >500 citations and h-index: 8.
 
 - **Schouten, R.M.** (2025) [On the role of prognostic factors and effect modifiers in unraveling population heterogeneity](pdfs/medtime_p5.pdf). Earlier presented at Causal Representation Learning Workshop NeurIPS. Now accepted for publication in the MedTime Workshop Proceedings ECML PKDD 2025.
 
@@ -138,9 +138,7 @@ Database engineering, Stakeholder communication, Small team lead.
 
 - **Schouten, R.M.** (2025) [Exceptional Model Mining for Hierarchical Data](pdfs/EMMHD.pdf). PhD thesis.
 
-- Van den Berg, N. T., Broekgaarden, B. O., Mahieu Dionysia, P., Martens, J. G., Niederle, J.,
-**Schouten, R.M.**, & Duivesteijn, W. (2024) [Generating MNAR missingness in image data, with
-additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Presented at BNAIC/BeNeLearn 2024. [See here for the presentation](pdfs/BNAIC2024_MNAR.pdf). 
+- Van den Berg, N. T., Broekgaarden, B. O., Mahieu Dionysia, P., Martens, J. G., Niederle, J., **Schouten, R.M.**, & Duivesteijn, W. (2024) [Generating MNAR missingness in image data, with additional evaluation ofMisGAN](pdfs/BNAIC_MisGAN_MNAR.pdf). Presented at BNAIC/BeNeLearn 2024. [See here for the presentation](pdfs/BNAIC2024_MNAR.pdf). 
 
 - **Schouten, R.M.**, Stevens, G.W.J.M., van Dorsselaer, S.A.F.M., Duinhof, E.L., Monshouwer, K., Pechenizkiy, M. & Duivesteijn, W. (2024) [Analyzing the interplay between societal trends and socio-demographic variables with local pattern mining: Discovering exceptional trends in adolescent alcohol use in the Netherlands](pdfs/Alcohol_BNAIC_2024.pdf). To appear in post-proceedings BNAIC/BeNeLearn 2024.
 
